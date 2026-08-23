@@ -1,0 +1,1201 @@
+merchant_id,business_name,owner_name,category,city,city_tier,tenure_months,active_days_per_month,daily_tx_count,avg_ticket_size,ticket_size_variance,monthly_upi_volume,repeat_customer_ratio,cashflow_volatility_cv,uses_audio_soundbox,failed_dispute_rate,weekend_stability_ratio,prior_svanidhi_tier,on_time_repayment_ratio,prob_default,default_label,setu_score,risk_category,recommended_tranche
+MERCH_0001,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Mumbai,1,8,20,60,55.9,28.18,67080,0.766,0.257,1,0.29,1.12,0,1.0,0.0056,0,886,Near-Prime,20000
+MERCH_0002,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Mumbai,1,17,22,50,37.15,12.38,40865,0.758,0.255,1,0.75,0.87,0,1.0,0.0245,0,878,Prime,50000
+MERCH_0003,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Delhi NCR,1,1,22,95,134.82,49.89,281773,0.578,0.319,1,0.24,1.21,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0004,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Patna,2,14,17,52,313.04,191.25,276727,0.61,0.265,1,0.26,1.13,0,1.0,0.0,0,890,Prime,50000
+MERCH_0005,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Indore,2,2,27,80,171.61,32.09,370677,0.85,0.452,1,0.3,0.98,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0006,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Mumbai,1,39,30,77,87.31,44.23,201686,0.421,0.08,1,0.05,0.83,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0007,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Jaipur,2,1,19,119,50.24,13.8,113592,0.702,0.409,1,0.27,0.86,0,1.0,0.0088,0,883,Near-Prime,20000
+MERCH_0008,Raju City Transport,Raju Singh,auto_rickshaw,Ahmedabad,2,29,26,50,69.73,41.7,90649,0.534,0.356,1,0.05,1.11,1,0.91,0.0047,0,884,Prime,50000
+MERCH_0009,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Patna,2,51,25,12,34.29,21.8,10287,0.728,0.119,0,0.27,0.78,0,1.0,0.0259,0,890,Prime,50000
+MERCH_0010,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Indore,2,1,30,106,31.56,8.51,100360,0.754,0.457,1,0.22,1.26,0,1.0,0.0082,0,886,Near-Prime,20000
+MERCH_0011,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Varanasi,3,8,30,98,63.28,35.92,186043,0.369,0.425,1,0.57,0.91,0,1.0,0.0006,0,890,Near-Prime,20000
+MERCH_0012,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Mumbai,1,21,26,64,46.88,10.26,78008,0.521,0.418,1,1.36,1.14,0,1.0,0.0136,0,890,Prime,50000
+MERCH_0013,Apna Provision & Kirana,Apna Singh,kirana_store,Ahmedabad,2,13,23,54,123.67,40.14,153598,0.629,0.466,1,0.14,1.38,0,1.0,0.0017,0,890,Prime,50000
+MERCH_0014,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Patna,2,1,22,89,21.51,10.67,42116,0.319,0.459,1,0.84,1.34,0,1.0,0.0999,0,833,Near-Prime,20000
+MERCH_0015,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Varanasi,3,19,21,57,69.38,18.87,83047,0.352,0.291,1,1.27,1.1,2,0.49,0.029,0,874,Prime,50000
+MERCH_0016,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Lucknow,2,50,26,73,121.02,76.65,229695,0.721,0.346,1,2.2,1.24,2,0.77,0.0001,0,890,Prime,50000
+MERCH_0017,Vikram City Transport,Vikram Kumar,auto_rickshaw,Indore,2,2,29,35,92.15,46.19,93532,0.579,0.248,1,1.61,1.39,0,1.0,0.0149,0,890,Near-Prime,20000
+MERCH_0018,Balaji Provision & Kirana,Balaji Singh,kirana_store,Mumbai,1,28,30,88,326.66,178.98,862382,0.43,0.262,1,0.5,1.13,0,1.0,0.0,0,890,Prime,50000
+MERCH_0019,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Mumbai,1,6,23,69,153.91,63.28,244255,0.455,0.167,1,0.05,1.12,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0020,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Delhi NCR,1,23,27,96,107.41,33.46,278406,0.371,0.381,1,0.42,0.87,2,0.87,0.0,0,890,Prime,50000
+MERCH_0021,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Varanasi,3,19,26,61,29.41,8.05,46644,0.786,0.545,1,0.54,1.08,0,1.0,0.0304,0,890,Prime,50000
+MERCH_0022,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Ahmedabad,2,9,20,68,84.89,14.66,115450,0.85,0.202,1,0.06,1.2,0,1.0,0.0019,0,887,Near-Prime,20000
+MERCH_0023,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Ahmedabad,2,1,27,49,23.41,11.04,30971,0.629,0.329,1,2.6,1.38,0,1.0,0.1764,0,812,Near-Prime,20000
+MERCH_0024,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Delhi NCR,1,1,22,93,99.65,16.11,203883,0.381,0.428,1,1.06,1.31,0,1.0,0.0013,0,890,Near-Prime,20000
+MERCH_0025,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Ahmedabad,2,5,27,68,44.02,23.69,80820,0.227,0.267,1,0.09,1.38,0,1.0,0.0239,0,890,Near-Prime,20000
+MERCH_0026,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Mumbai,1,6,25,112,49.25,7.65,137900,0.637,0.222,1,0.28,0.98,0,1.0,0.003,0,890,Near-Prime,20000
+MERCH_0027,Suresh City Transport,Suresh Singh,auto_rickshaw,Lucknow,2,20,28,39,49.14,20.87,53660,0.625,0.416,1,0.12,1.28,0,1.0,0.0124,0,890,Prime,50000
+MERCH_0028,Suresh City Transport,Suresh Singh,auto_rickshaw,Indore,2,1,25,30,70.52,39.56,52890,0.481,0.146,1,1.34,1.41,0,1.0,0.0204,0,890,Near-Prime,20000
+MERCH_0029,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Ahmedabad,2,76,22,92,53.13,32.05,107535,0.775,0.319,1,0.05,0.83,2,0.95,0.0006,0,888,Prime,50000
+MERCH_0030,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Patna,2,6,26,52,144.11,91.02,194836,0.605,0.323,1,0.79,1.24,0,1.0,0.0005,0,890,Near-Prime,20000
+MERCH_0031,Irfan City Transport,Irfan Kumar,auto_rickshaw,Patna,2,10,29,49,62.18,28.61,88357,0.708,0.157,1,0.7,0.8,0,1.0,0.0046,0,890,Near-Prime,20000
+MERCH_0032,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Delhi NCR,1,6,30,128,51.6,11.94,198144,0.195,0.462,1,3.49,0.86,0,1.0,0.0047,0,890,Near-Prime,20000
+MERCH_0033,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Patna,2,16,26,48,245.64,94.41,306558,0.629,0.313,1,1.34,1.45,2,0.86,0.0,0,890,Prime,50000
+MERCH_0034,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Indore,2,10,27,34,272.55,132.42,250200,0.213,0.506,1,0.59,1.35,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0035,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Indore,2,14,29,57,146.27,24.05,241784,0.349,0.425,1,0.12,0.76,1,0.99,0.0001,0,886,Prime,50000
+MERCH_0036,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Varanasi,3,12,27,39,375.18,172.97,395064,0.331,0.08,1,0.8,0.92,2,0.96,0.0,0,890,Prime,50000
+MERCH_0037,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Jaipur,2,40,30,71,75.27,12.83,160325,0.647,0.253,1,0.1,1.07,1,0.96,0.0002,0,886,Prime,50000
+MERCH_0038,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Delhi NCR,1,37,25,65,39.01,20.45,63391,0.599,0.138,1,0.5,1.27,0,1.0,0.0089,0,890,Prime,50000
+MERCH_0039,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Patna,2,1,28,34,222.53,92.59,211848,0.493,0.08,1,0.25,1.01,0,1.0,0.0001,0,885,Near-Prime,20000
+MERCH_0040,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Ahmedabad,2,2,20,61,316.67,155.03,386337,0.383,0.503,1,0.45,0.84,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0041,Suresh City Transport,Suresh Kumar,auto_rickshaw,Jaipur,2,6,30,21,30.23,19.45,19044,0.732,0.291,1,0.23,0.86,0,1.0,0.0291,0,870,Near-Prime,20000
+MERCH_0042,Raju City Transport,Raju Kumar,auto_rickshaw,Delhi NCR,1,3,21,16,85.48,54.81,28721,0.691,0.251,1,0.15,1.22,0,1.0,0.0509,0,872,Near-Prime,20000
+MERCH_0043,Irfan City Transport,Irfan Singh,auto_rickshaw,Lucknow,2,47,30,49,94.4,22.99,138768,0.432,0.08,1,0.1,1.18,0,1.0,0.0004,0,890,Prime,50000
+MERCH_0044,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Patna,2,3,18,155,18.37,3.23,51252,0.519,0.441,1,0.24,1.23,0,1.0,0.0456,0,867,Near-Prime,20000
+MERCH_0045,Deepak City Transport,Deepak Kumar,auto_rickshaw,Delhi NCR,1,25,22,66,32.02,19.68,46493,0.407,0.331,1,0.06,1.27,2,0.89,0.0249,0,890,Prime,50000
+MERCH_0046,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Patna,2,3,23,83,136.15,56.03,259910,0.721,0.08,1,0.5,0.96,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0047,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Ahmedabad,2,24,18,68,109.05,45.99,133477,0.789,0.354,1,0.79,0.98,0,1.0,0.0022,0,890,Prime,50000
+MERCH_0048,Irfan City Transport,Irfan Singh,auto_rickshaw,Mumbai,1,17,23,53,67.17,36.56,81880,0.655,0.329,1,1.15,1.36,0,1.0,0.0107,0,890,Prime,50000
+MERCH_0049,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Patna,2,7,30,74,29.5,15.08,65490,0.325,0.441,1,0.23,0.99,0,1.0,0.015,0,890,Near-Prime,20000
+MERCH_0050,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Ahmedabad,2,11,30,49,143.95,65.6,211606,0.49,0.225,1,0.69,1.17,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0051,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Ahmedabad,2,9,25,102,33.76,6.98,86088,0.365,0.383,1,0.05,0.98,0,1.0,0.0089,0,889,Near-Prime,20000
+MERCH_0052,Mishra Chai & Snacks,Mishra Singh,chai_stall,Mumbai,1,13,18,113,45.0,14.56,91530,0.323,0.291,1,0.55,1.04,2,0.71,0.0108,0,886,Prime,50000
+MERCH_0053,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Ahmedabad,2,1,20,54,36.32,23.55,39225,0.663,0.338,1,0.19,1.38,0,1.0,0.0346,0,890,Near-Prime,20000
+MERCH_0054,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Mumbai,1,1,22,182,22.48,4.11,90009,0.35,0.47,1,0.13,0.88,0,1.0,0.0101,0,880,Near-Prime,20000
+MERCH_0055,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Lucknow,2,35,24,87,125.6,44.51,262252,0.32,0.227,1,0.05,0.91,2,0.97,0.0,0,890,Prime,50000
+MERCH_0056,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Mumbai,1,19,26,109,31.93,8.67,90489,0.601,0.19,1,0.28,1.38,0,1.0,0.0045,0,884,Prime,50000
+MERCH_0057,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Lucknow,2,1,18,114,54.77,18.61,112388,0.361,0.15,1,0.64,1.06,0,1.0,0.0073,0,890,Near-Prime,20000
+MERCH_0058,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Varanasi,3,25,24,105,34.57,19.01,87116,0.539,0.158,1,0.12,1.33,0,1.0,0.0045,0,890,Prime,50000
+MERCH_0059,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Lucknow,2,74,19,53,114.64,48.96,115442,0.71,0.383,1,0.12,1.38,2,0.76,0.0005,0,885,Prime,50000
+MERCH_0060,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Varanasi,3,13,19,48,129.92,58.67,118487,0.73,0.203,1,0.67,1.08,2,0.9,0.0031,0,889,Prime,50000
+MERCH_0061,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Mumbai,1,1,27,34,49.89,22.37,45799,0.544,0.349,1,1.04,1.1,0,1.0,0.0444,0,868,Near-Prime,20000
+MERCH_0062,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Jaipur,2,5,30,72,148.49,73.85,320738,0.85,0.311,1,0.16,1.13,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0063,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Delhi NCR,1,37,28,89,200.74,115.34,500244,0.703,0.418,1,0.05,1.24,2,0.88,0.0,0,890,Prime,50000
+MERCH_0064,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Indore,2,33,28,37,51.96,13.77,53830,0.483,0.263,1,1.03,0.8,2,0.99,0.0239,0,877,Prime,50000
+MERCH_0065,Irfan City Transport,Irfan Kumar,auto_rickshaw,Ahmedabad,2,17,26,37,99.54,61.67,95757,0.794,0.43,1,3.31,1.29,2,0.69,0.0374,0,878,Prime,50000
+MERCH_0066,Pravin City Transport,Pravin Singh,auto_rickshaw,Mumbai,1,2,19,34,43.5,7.44,28101,0.477,0.348,1,0.91,0.9,0,1.0,0.1173,0,822,Near-Prime,20000
+MERCH_0067,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Indore,2,38,21,44,65.49,29.91,60512,0.504,0.258,1,0.17,1.3,1,0.64,0.0125,0,890,Prime,50000
+MERCH_0068,Apna Provision & Kirana,Apna Singh,kirana_store,Mumbai,1,3,22,78,238.6,106.53,409437,0.45,0.273,1,2.49,1.35,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0069,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Ahmedabad,2,14,29,95,25.43,8.55,70059,0.801,0.403,1,0.06,1.35,2,0.88,0.0124,0,890,Prime,50000
+MERCH_0070,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Patna,2,5,30,62,135.6,64.98,252216,0.604,0.486,1,0.14,1.37,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0071,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Ahmedabad,2,36,23,53,91.07,50.91,111014,0.67,0.32,1,0.77,1.44,0,1.0,0.0015,0,890,Prime,50000
+MERCH_0072,Pravin City Transport,Pravin Kumar,auto_rickshaw,Varanasi,3,18,27,44,70.8,14.41,84110,0.403,0.393,1,0.09,1.41,1,0.89,0.0103,0,890,Prime,50000
+MERCH_0073,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Ahmedabad,2,1,17,123,28.88,16.92,60388,0.542,0.257,1,0.05,0.98,0,1.0,0.0425,0,864,Near-Prime,20000
+MERCH_0074,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Ahmedabad,2,20,24,37,101.99,66.15,90567,0.775,0.197,1,0.07,1.23,0,1.0,0.0033,0,890,Prime,50000
+MERCH_0075,Pravin City Transport,Pravin Kumar,auto_rickshaw,Mumbai,1,19,24,32,62.09,29.14,47685,0.532,0.295,1,0.19,0.77,0,1.0,0.0125,0,890,Prime,50000
+MERCH_0076,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Jaipur,2,35,30,61,217.47,52.79,397970,0.556,0.397,1,0.11,0.77,0,1.0,0.0,0,890,Prime,50000
+MERCH_0077,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Indore,2,45,29,107,23.17,4.93,71896,0.78,0.282,1,0.05,1.16,1,0.95,0.0022,0,890,Prime,50000
+MERCH_0078,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Mumbai,1,16,15,99,77.48,44.94,115057,0.449,0.32,1,0.77,1.24,2,0.92,0.0087,0,890,Prime,50000
+MERCH_0079,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Indore,2,1,24,44,237.89,117.69,251211,0.506,0.267,1,0.81,1.24,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0080,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Jaipur,2,22,22,59,288.94,159.17,375044,0.763,0.478,1,0.48,1.2,0,1.0,0.0,0,890,Prime,50000
+MERCH_0081,Raju City Transport,Raju Kumar,auto_rickshaw,Jaipur,2,13,23,36,43.02,23.44,35620,0.199,0.308,1,0.21,1.45,1,0.86,0.0722,0,854,Prime,50000
+MERCH_0082,Anand Fast Food & Chaat,Anand Kumar,street_food,Varanasi,3,36,18,88,127.62,46.29,202150,0.66,0.347,1,0.46,1.26,0,1.0,0.0003,0,889,Prime,50000
+MERCH_0083,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Patna,2,12,18,32,68.87,17.58,39669,0.418,0.413,1,1.01,1.39,1,0.91,0.1181,0,827,Prime,50000
+MERCH_0084,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Indore,2,5,29,52,336.5,137.09,507442,0.85,0.165,1,1.19,0.84,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0085,Pravin City Transport,Pravin Kumar,auto_rickshaw,Indore,2,63,18,32,28.12,15.87,16197,0.519,0.153,1,0.15,0.87,0,1.0,0.0126,0,890,Prime,50000
+MERCH_0086,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Indore,2,33,30,60,369.86,216.05,665748,0.575,0.407,1,0.05,0.84,1,0.89,0.0,0,890,Prime,50000
+MERCH_0087,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Ahmedabad,2,1,25,76,113.76,46.39,216144,0.806,0.368,1,0.29,1.24,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0088,Meena Pushp Bhandar,Meena Singh,flower_vendor,Indore,2,63,20,48,38.54,14.33,36998,0.522,0.338,1,0.55,1.18,1,0.92,0.0186,0,890,Prime,50000
+MERCH_0089,Balaji Provision & Kirana,Balaji Singh,kirana_store,Delhi NCR,1,21,20,76,142.28,67.67,216265,0.624,0.29,1,0.67,1.27,1,0.73,0.0003,0,890,Prime,50000
+MERCH_0090,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Varanasi,3,28,27,66,198.16,41.63,353121,0.554,0.511,1,0.39,1.06,2,0.96,0.0,0,890,Prime,50000
+MERCH_0091,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Ahmedabad,2,16,29,80,89.48,52.05,207593,0.557,0.318,1,0.38,1.03,0,1.0,0.0003,0,890,Prime,50000
+MERCH_0092,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Patna,2,16,30,86,113.3,57.68,292314,0.628,0.23,1,0.53,0.93,0,1.0,0.0,0,885,Prime,50000
+MERCH_0093,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Patna,2,6,28,47,55.85,25.42,73498,0.714,0.13,1,0.16,1.23,0,1.0,0.0049,0,890,Near-Prime,20000
+MERCH_0094,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Mumbai,1,22,19,58,34.37,9.56,37875,0.497,0.335,1,2.42,1.17,0,1.0,0.1102,0,836,Prime,50000
+MERCH_0095,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Mumbai,1,30,23,88,146.55,52.1,296617,0.432,0.41,1,1.21,0.94,0,1.0,0.0,0,890,Prime,50000
+MERCH_0096,Pravin City Transport,Pravin Singh,auto_rickshaw,Indore,2,19,29,37,47.54,17.87,51010,0.363,0.298,1,0.05,1.2,1,0.98,0.0219,0,876,Prime,50000
+MERCH_0097,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Ahmedabad,2,16,26,47,59.02,20.78,72122,0.341,0.452,1,0.11,0.82,1,0.7,0.0269,0,882,Prime,50000
+MERCH_0098,Raju City Transport,Raju Kumar,auto_rickshaw,Indore,2,4,20,29,60.06,24.6,34834,0.83,0.081,1,0.32,1.22,0,1.0,0.0191,0,885,Near-Prime,20000
+MERCH_0099,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Indore,2,92,27,143,31.54,5.68,121775,0.85,0.396,1,0.08,1.07,2,0.65,0.0003,0,890,Prime,50000
+MERCH_0100,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Indore,2,88,23,66,163.94,93.61,248860,0.751,0.336,1,1.22,1.25,0,1.0,0.0,0,890,Prime,50000
+MERCH_0101,Pravin City Transport,Pravin Kumar,auto_rickshaw,Jaipur,2,1,20,25,49.04,30.33,24520,0.682,0.128,0,0.73,1.11,0,1.0,0.096,0,841,Near-Prime,20000
+MERCH_0102,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Patna,2,87,28,63,108.35,66.67,191129,0.604,0.352,1,1.25,0.96,2,0.97,0.0001,0,890,Prime,50000
+MERCH_0103,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Jaipur,2,7,25,97,31.99,18.59,77575,0.309,0.284,1,0.15,1.1,0,1.0,0.0101,0,890,Near-Prime,20000
+MERCH_0104,Bombay Fast Food & Chaat,Bombay Singh,street_food,Varanasi,3,8,23,79,91.96,33.68,167091,0.85,0.175,1,0.77,1.21,0,1.0,0.0006,0,890,Near-Prime,20000
+MERCH_0105,Deepak City Transport,Deepak Singh,auto_rickshaw,Delhi NCR,1,2,22,41,51.88,10.93,46795,0.479,0.245,1,0.57,1.45,0,1.0,0.0476,0,882,Near-Prime,20000
+MERCH_0106,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Jaipur,2,6,29,61,549.55,199.51,972153,0.412,0.385,1,1.17,0.76,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0107,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Jaipur,2,9,23,43,70.62,15.43,69843,0.634,0.316,1,0.48,1.34,0,1.0,0.0149,0,884,Near-Prime,20000
+MERCH_0108,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Patna,2,2,21,67,155.78,60.44,219182,0.668,0.24,1,0.93,1.06,0,1.0,0.0003,0,890,Near-Prime,20000
+MERCH_0109,Pravin City Transport,Pravin Singh,auto_rickshaw,Varanasi,3,5,24,38,114.28,68.29,104223,0.788,0.34,1,0.13,1.27,0,1.0,0.0085,0,890,Near-Prime,20000
+MERCH_0110,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Jaipur,2,1,25,47,41.68,7.75,48974,0.545,0.194,1,0.15,0.82,0,1.0,0.0253,0,890,Near-Prime,20000
+MERCH_0111,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Varanasi,3,19,21,71,152.99,52.16,228108,0.683,0.209,1,0.83,1.12,1,0.71,0.0003,0,890,Prime,50000
+MERCH_0112,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Jaipur,2,30,27,32,57.73,18.42,49878,0.778,0.293,1,1.74,1.2,2,0.82,0.0302,0,872,Prime,50000
+MERCH_0113,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Ahmedabad,2,45,28,53,195.0,100.28,289380,0.723,0.38,1,3.34,1.41,1,0.94,0.0001,0,890,Prime,50000
+MERCH_0114,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Delhi NCR,1,23,25,171,53.81,21.75,230037,0.85,0.475,1,0.14,1.07,2,0.81,0.0001,0,888,Prime,50000
+MERCH_0115,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Ahmedabad,2,1,30,89,38.85,20.07,103729,0.453,0.187,1,0.65,0.75,0,1.0,0.0038,0,890,Near-Prime,20000
+MERCH_0116,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Ahmedabad,2,57,27,63,22.48,5.05,38238,0.713,0.527,1,1.74,1.17,1,0.62,0.0458,0,864,Prime,50000
+MERCH_0117,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Ahmedabad,2,17,29,57,129.02,50.38,213270,0.443,0.237,1,0.66,1.17,1,0.85,0.0001,0,890,Prime,50000
+MERCH_0118,Pravin City Transport,Pravin Singh,auto_rickshaw,Indore,2,1,24,46,50.13,25.26,55343,0.395,0.234,1,0.07,0.9,0,1.0,0.012,0,890,Near-Prime,20000
+MERCH_0119,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Ahmedabad,2,16,25,66,463.29,251.49,764428,0.282,0.283,1,0.68,1.16,1,0.95,0.0,0,890,Prime,50000
+MERCH_0120,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Ahmedabad,2,6,17,86,111.0,63.38,162282,0.715,0.317,1,0.46,1.26,0,1.0,0.0023,0,890,Near-Prime,20000
+MERCH_0121,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Lucknow,2,26,26,62,41.0,19.62,66092,0.661,0.213,1,1.89,0.92,1,0.95,0.0166,0,883,Prime,50000
+MERCH_0122,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Ahmedabad,2,1,22,86,57.25,20.36,108317,0.702,0.328,1,2.21,0.79,0,1.0,0.0191,0,882,Near-Prime,20000
+MERCH_0123,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Patna,2,9,28,51,57.72,24.97,82424,0.635,0.362,1,0.1,0.86,0,1.0,0.0058,0,886,Near-Prime,20000
+MERCH_0124,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Lucknow,2,34,21,98,261.15,54.16,537446,0.534,0.221,1,0.49,1.09,2,0.91,0.0,0,890,Prime,50000
+MERCH_0125,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Jaipur,2,18,22,94,61.21,23.24,126582,0.681,0.392,1,0.14,0.98,0,1.0,0.0023,0,890,Prime,50000
+MERCH_0126,Balaji Provision & Kirana,Balaji Singh,kirana_store,Jaipur,2,4,30,48,269.94,101.39,388713,0.689,0.356,1,1.38,1.02,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0127,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Ahmedabad,2,26,17,88,104.05,48.62,155658,0.628,0.297,1,0.14,1.24,1,0.69,0.001,0,890,Prime,50000
+MERCH_0128,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Ahmedabad,2,3,23,51,67.79,15.32,79517,0.85,0.323,1,2.73,1.04,0,1.0,0.0587,0,868,Near-Prime,20000
+MERCH_0129,Vikram City Transport,Vikram Kumar,auto_rickshaw,Jaipur,2,74,29,48,40.4,6.31,56236,0.32,0.347,1,0.07,1.26,2,0.91,0.0041,0,885,Prime,50000
+MERCH_0130,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Varanasi,3,11,29,44,370.93,122.0,473306,0.72,0.421,1,0.08,0.92,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0131,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Varanasi,3,2,22,18,162.87,75.0,64496,0.726,0.467,1,0.8,0.84,0,1.0,0.0226,0,890,Near-Prime,20000
+MERCH_0132,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Delhi NCR,1,20,29,59,271.33,154.26,464245,0.846,0.2,1,0.05,0.96,0,1.0,0.0,0,890,Prime,50000
+MERCH_0133,Apna Provision & Kirana,Apna Singh,kirana_store,Delhi NCR,1,19,27,76,135.48,81.78,278004,0.8,0.338,1,0.49,1.36,0,1.0,0.0,0,890,Prime,50000
+MERCH_0134,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Jaipur,2,67,28,74,61.73,10.56,127904,0.592,0.382,1,1.12,1.31,0,1.0,0.0009,0,889,Prime,50000
+MERCH_0135,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Jaipur,2,1,28,66,117.16,24.17,216511,0.674,0.331,1,0.05,1.08,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0136,Raju City Transport,Raju Kumar,auto_rickshaw,Patna,2,6,18,42,46.01,8.01,34783,0.47,0.307,1,1.27,0.77,0,1.0,0.1013,0,847,Near-Prime,20000
+MERCH_0137,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Mumbai,1,15,22,69,252.81,52.45,383765,0.671,0.397,1,1.69,1.15,1,0.53,0.0,0,890,Prime,50000
+MERCH_0138,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Jaipur,2,40,30,101,76.88,35.8,232946,0.657,0.29,1,0.54,1.21,2,0.61,0.0001,0,890,Prime,50000
+MERCH_0139,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Jaipur,2,18,24,60,100.65,17.39,144936,0.269,0.08,1,0.75,0.95,1,0.98,0.0012,0,890,Prime,50000
+MERCH_0140,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Ahmedabad,2,29,21,111,104.34,30.96,243216,0.462,0.282,1,0.57,1.36,0,1.0,0.0001,0,885,Prime,50000
+MERCH_0141,Anand Fast Food & Chaat,Anand Singh,street_food,Ahmedabad,2,12,23,69,51.87,18.44,82317,0.215,0.504,1,1.39,1.42,2,0.83,0.1383,0,826,Prime,50000
+MERCH_0142,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Varanasi,3,2,28,34,90.92,30.42,86555,0.707,0.293,1,2.27,1.22,0,1.0,0.0163,0,890,Near-Prime,20000
+MERCH_0143,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Patna,2,20,29,33,97.76,57.37,93556,0.658,0.231,1,0.05,1.05,2,0.99,0.0027,0,885,Prime,50000
+MERCH_0144,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Jaipur,2,7,20,97,150.62,86.28,292202,0.275,0.44,1,0.47,1.31,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0145,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Lucknow,2,31,17,33,23.99,10.81,13458,0.825,0.498,1,0.45,0.85,0,1.0,0.0628,0,881,Prime,50000
+MERCH_0146,Irfan City Transport,Irfan Singh,auto_rickshaw,Varanasi,3,3,28,30,60.94,28.55,51189,0.535,0.436,1,0.36,0.9,0,1.0,0.0734,0,861,Near-Prime,20000
+MERCH_0147,Apna Provision & Kirana,Apna Kumar,kirana_store,Delhi NCR,1,79,30,59,215.99,35.37,382302,0.429,0.369,1,0.05,1.02,1,0.64,0.0,0,890,Prime,50000
+MERCH_0148,Anand Fast Food & Chaat,Anand Singh,street_food,Varanasi,3,16,23,34,49.66,15.9,38834,0.385,0.397,1,0.46,0.96,2,0.97,0.046,0,890,Prime,50000
+MERCH_0149,Anand Fast Food & Chaat,Anand Kumar,street_food,Jaipur,2,14,28,38,84.02,38.91,89397,0.378,0.428,1,0.78,0.89,2,0.86,0.0222,0,880,Prime,50000
+MERCH_0150,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Mumbai,1,13,26,51,55.93,30.6,74163,0.703,0.365,1,0.53,1.35,1,0.97,0.0085,0,890,Prime,50000
+MERCH_0151,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Ahmedabad,2,25,25,24,355.62,207.25,213372,0.382,0.28,1,0.68,1.42,0,1.0,0.0002,0,890,Prime,50000
+MERCH_0152,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Lucknow,2,34,24,69,202.72,120.93,335704,0.651,0.273,1,1.03,1.23,1,0.93,0.0,0,890,Prime,50000
+MERCH_0153,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Indore,2,56,22,118,42.97,12.78,111550,0.542,0.404,1,1.16,1.34,1,0.91,0.0026,0,890,Prime,50000
+MERCH_0154,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Ahmedabad,2,9,22,45,36.42,20.18,36055,0.835,0.346,1,0.56,1.31,0,1.0,0.0317,0,890,Near-Prime,20000
+MERCH_0155,Apna Provision & Kirana,Apna Singh,kirana_store,Ahmedabad,2,1,25,33,162.15,43.16,133773,0.761,0.287,1,0.52,0.91,0,1.0,0.0024,0,890,Near-Prime,20000
+MERCH_0156,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Ahmedabad,2,18,25,90,155.1,32.8,348975,0.362,0.345,1,0.22,1.25,2,0.82,0.0,0,890,Prime,50000
+MERCH_0157,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Jaipur,2,2,22,67,105.67,22.92,155757,0.671,0.322,1,0.98,0.79,0,1.0,0.0026,0,890,Near-Prime,20000
+MERCH_0158,Sharma Fast Food & Chaat,Sharma Singh,street_food,Ahmedabad,2,6,21,77,65.94,18.81,106624,0.393,0.422,1,0.38,1.42,0,1.0,0.0113,0,887,Near-Prime,20000
+MERCH_0159,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Delhi NCR,1,1,24,163,65.55,32.9,256431,0.316,0.222,1,2.71,1.28,0,1.0,0.0003,0,890,Near-Prime,20000
+MERCH_0160,Anand Fast Food & Chaat,Anand Singh,street_food,Patna,2,6,25,76,80.31,37.91,152589,0.63,0.147,1,0.19,1.01,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0161,Raju City Transport,Raju Singh,auto_rickshaw,Ahmedabad,2,8,29,33,55.46,26.55,53075,0.675,0.364,1,0.75,0.96,0,1.0,0.0293,0,890,Near-Prime,20000
+MERCH_0162,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Mumbai,1,24,21,100,69.41,24.12,145761,0.363,0.255,1,0.09,1.11,2,0.98,0.0008,0,890,Prime,50000
+MERCH_0163,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Mumbai,1,2,24,33,163.87,73.34,129785,0.164,0.315,1,0.91,0.97,0,1.0,0.0114,0,885,Near-Prime,20000
+MERCH_0164,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Varanasi,3,13,27,50,129.59,36.65,174946,0.389,0.34,1,1.5,0.77,0,1.0,0.0016,0,890,Prime,50000
+MERCH_0165,Apna Provision & Kirana,Apna Singh,kirana_store,Ahmedabad,2,41,27,67,88.61,26.71,160295,0.569,0.224,1,1.1,1.08,1,0.84,0.0004,0,889,Prime,50000
+MERCH_0166,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Indore,2,3,22,71,80.63,43.59,125944,0.384,0.51,1,0.24,0.99,0,1.0,0.0057,0,882,Near-Prime,20000
+MERCH_0167,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Mumbai,1,44,23,59,102.7,18.6,139363,0.799,0.301,1,0.6,0.92,0,1.0,0.0013,0,890,Prime,50000
+MERCH_0168,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Varanasi,3,1,25,50,39.05,14.83,48812,0.124,0.149,1,0.05,1.34,0,1.0,0.0319,0,887,Near-Prime,20000
+MERCH_0169,Deepak City Transport,Deepak Kumar,auto_rickshaw,Varanasi,3,71,26,33,66.26,18.54,56851,0.723,0.339,1,3.18,0.88,2,0.88,0.0462,0,880,Prime,50000
+MERCH_0170,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Mumbai,1,5,24,89,352.04,81.44,751957,0.689,0.17,1,0.31,1.34,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0171,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Mumbai,1,23,24,96,34.72,16.71,79994,0.636,0.132,1,4.0,0.78,2,0.65,0.0272,0,889,Prime,50000
+MERCH_0172,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Lucknow,2,27,29,48,26.58,8.75,36999,0.308,0.322,1,0.2,0.78,2,0.79,0.0388,0,865,Prime,50000
+MERCH_0173,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Varanasi,3,54,18,66,62.28,32.97,73988,0.733,0.285,1,1.78,1.04,1,0.67,0.0087,0,890,Prime,50000
+MERCH_0174,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Varanasi,3,7,26,59,107.49,19.95,164889,0.166,0.468,1,1.18,1.21,0,1.0,0.0031,0,887,Near-Prime,20000
+MERCH_0175,Apna Provision & Kirana,Apna Kumar,kirana_store,Mumbai,1,2,25,84,174.95,29.53,367395,0.249,0.08,1,2.89,0.91,0,1.0,0.0,0,885,Near-Prime,20000
+MERCH_0176,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Varanasi,3,4,20,111,48.6,27.91,107892,0.424,0.264,1,0.37,1.38,0,1.0,0.0086,0,887,Near-Prime,20000
+MERCH_0177,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Patna,2,29,30,42,27.55,11.63,34713,0.539,0.252,1,2.43,0.78,0,1.0,0.075,0,848,Prime,50000
+MERCH_0178,Vikram City Transport,Vikram Singh,auto_rickshaw,Delhi NCR,1,6,18,51,89.63,18.04,82280,0.711,0.427,1,0.5,1.39,0,1.0,0.0262,0,875,Near-Prime,20000
+MERCH_0179,Suresh City Transport,Suresh Kumar,auto_rickshaw,Ahmedabad,2,35,28,45,50.78,12.57,63982,0.601,0.447,1,0.66,1.41,0,1.0,0.0199,0,886,Prime,50000
+MERCH_0180,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Varanasi,3,12,20,48,158.49,54.23,152150,0.85,0.277,1,1.36,1.13,1,0.92,0.0017,0,890,Prime,50000
+MERCH_0181,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Jaipur,2,9,30,81,24.78,7.31,60215,0.512,0.453,1,1.43,1.38,0,1.0,0.1023,0,832,Near-Prime,20000
+MERCH_0182,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Patna,2,1,23,51,108.11,32.8,126813,0.838,0.454,1,0.41,0.8,0,1.0,0.0026,0,890,Near-Prime,20000
+MERCH_0183,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Ahmedabad,2,10,28,31,81.97,14.61,71149,0.665,0.178,1,0.43,1.28,0,1.0,0.0084,0,890,Near-Prime,20000
+MERCH_0184,Apna Provision & Kirana,Apna Kumar,kirana_store,Indore,2,1,21,40,252.43,46.38,212041,0.608,0.209,1,0.98,1.05,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0185,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Mumbai,1,5,18,116,19.6,5.57,40924,0.844,0.31,1,0.08,1.17,0,1.0,0.0272,0,879,Near-Prime,20000
+MERCH_0186,Pravin City Transport,Pravin Singh,auto_rickshaw,Varanasi,3,17,19,38,89.92,45.26,64922,0.606,0.21,1,1.61,1.41,2,0.83,0.0224,0,876,Prime,50000
+MERCH_0187,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Mumbai,1,1,30,34,61.42,23.04,62648,0.493,0.216,1,1.1,1.39,0,1.0,0.0219,0,887,Near-Prime,20000
+MERCH_0188,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Indore,2,10,23,36,241.61,113.28,200053,0.784,0.352,1,1.68,1.27,0,1.0,0.0004,0,890,Near-Prime,20000
+MERCH_0189,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Varanasi,3,5,21,79,26.29,13.58,43615,0.624,0.369,1,1.39,1.4,0,1.0,0.0911,0,865,Near-Prime,20000
+MERCH_0190,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Jaipur,2,14,26,41,169.89,69.78,181102,0.588,0.295,1,0.62,0.94,2,0.92,0.0012,0,890,Prime,50000
+MERCH_0191,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Delhi NCR,1,5,21,67,238.71,88.63,335864,0.617,0.263,1,0.05,0.96,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0192,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Indore,2,12,24,77,28.73,13.72,53093,0.763,0.286,1,0.16,1.21,1,0.86,0.0109,0,890,Prime,50000
+MERCH_0193,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Ahmedabad,2,5,20,148,148.07,48.63,438287,0.754,0.183,1,0.56,1.41,0,1.0,0.0,0,889,Near-Prime,20000
+MERCH_0194,Meena Pushp Bhandar,Meena Singh,flower_vendor,Jaipur,2,37,24,32,53.63,13.24,41187,0.742,0.378,1,1.1,1.06,1,0.76,0.0232,0,890,Prime,50000
+MERCH_0195,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Patna,2,2,27,93,129.96,52.95,326329,0.48,0.333,1,0.75,0.92,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0196,Deepak City Transport,Deepak Singh,auto_rickshaw,Delhi NCR,1,1,19,36,97.8,35.0,66895,0.569,0.367,1,0.15,1.1,0,1.0,0.0375,0,873,Near-Prime,20000
+MERCH_0197,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Lucknow,2,17,24,64,36.22,16.4,55633,0.66,0.263,1,1.81,0.89,0,1.0,0.0193,0,875,Prime,50000
+MERCH_0198,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Lucknow,2,12,23,60,342.34,158.92,472429,0.379,0.531,1,1.38,1.34,1,0.77,0.0,0,887,Prime,50000
+MERCH_0199,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Patna,2,38,23,29,48.75,16.77,32516,0.412,0.343,1,0.06,1.01,0,1.0,0.0224,0,890,Prime,50000
+MERCH_0200,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Mumbai,1,29,17,113,69.8,23.47,134085,0.504,0.08,1,0.86,1.25,0,1.0,0.0012,0,887,Prime,50000
+MERCH_0201,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Jaipur,2,1,30,91,117.58,49.88,320993,0.674,0.183,1,0.89,1.18,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0202,Anand Fast Food & Chaat,Anand Kumar,street_food,Patna,2,24,23,61,101.34,61.22,142180,0.415,0.449,1,0.69,1.19,0,1.0,0.003,0,890,Prime,50000
+MERCH_0203,Deepak City Transport,Deepak Singh,auto_rickshaw,Jaipur,2,22,20,25,50.08,15.37,25040,0.586,0.155,1,0.06,1.24,0,1.0,0.0239,0,890,Prime,50000
+MERCH_0204,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Delhi NCR,1,8,27,139,26.9,13.35,100955,0.653,0.386,1,0.25,0.88,0,1.0,0.0037,0,887,Near-Prime,20000
+MERCH_0205,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Ahmedabad,2,16,27,102,54.97,30.64,151387,0.559,0.206,1,0.45,0.77,1,0.89,0.0005,0,890,Prime,50000
+MERCH_0206,Deepak City Transport,Deepak Singh,auto_rickshaw,Patna,2,19,27,28,56.97,34.21,43069,0.618,0.358,1,0.69,0.8,0,1.0,0.0459,0,872,Prime,50000
+MERCH_0207,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Delhi NCR,1,29,21,39,45.35,7.31,37141,0.783,0.176,1,0.05,1.29,2,0.86,0.0189,0,890,Prime,50000
+MERCH_0208,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Indore,2,17,25,70,233.13,123.18,407977,0.707,0.504,1,0.73,1.4,0,1.0,0.0,0,890,Prime,50000
+MERCH_0209,Raju City Transport,Raju Singh,auto_rickshaw,Jaipur,2,13,27,40,92.62,41.36,100029,0.671,0.387,1,0.15,1.1,1,0.73,0.0116,0,890,Prime,50000
+MERCH_0210,Deepak City Transport,Deepak Kumar,auto_rickshaw,Indore,2,3,29,51,81.41,30.74,120405,0.508,0.361,1,1.21,1.18,0,1.0,0.0095,0,890,Near-Prime,20000
+MERCH_0211,Bombay Fast Food & Chaat,Bombay Singh,street_food,Patna,2,29,26,72,112.51,44.36,210618,0.469,0.338,1,0.72,1.0,1,0.9,0.0002,0,890,Prime,50000
+MERCH_0212,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Varanasi,3,16,20,81,115.77,33.95,187547,0.429,0.418,1,0.5,1.34,0,1.0,0.0008,0,888,Prime,50000
+MERCH_0213,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Ahmedabad,2,1,23,64,89.02,16.51,131037,0.603,0.116,1,1.28,0.98,0,1.0,0.0022,0,890,Near-Prime,20000
+MERCH_0214,Meena Pushp Bhandar,Meena Singh,flower_vendor,Mumbai,1,6,23,51,36.75,17.9,43107,0.312,0.253,1,0.34,1.36,0,1.0,0.0223,0,887,Near-Prime,20000
+MERCH_0215,Raju City Transport,Raju Singh,auto_rickshaw,Jaipur,2,14,24,30,73.32,32.29,52790,0.408,0.218,1,0.49,0.96,2,0.88,0.0217,0,890,Prime,50000
+MERCH_0216,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Varanasi,3,23,30,49,60.63,18.61,89126,0.664,0.421,1,0.54,1.27,2,0.83,0.0122,0,890,Prime,50000
+MERCH_0217,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Varanasi,3,10,23,89,38.87,17.09,79566,0.61,0.399,1,0.37,1.21,0,1.0,0.0152,0,878,Near-Prime,20000
+MERCH_0218,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Varanasi,3,3,20,58,26.29,6.35,30496,0.388,0.187,1,0.38,1.31,0,1.0,0.0645,0,877,Near-Prime,20000
+MERCH_0219,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Indore,2,8,25,73,41.1,9.76,75007,0.732,0.239,1,0.23,0.93,0,1.0,0.0086,0,890,Near-Prime,20000
+MERCH_0220,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Jaipur,2,24,29,89,21.8,7.1,56265,0.715,0.208,1,0.22,1.39,1,0.61,0.0106,0,890,Prime,50000
+MERCH_0221,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Jaipur,2,12,30,58,55.93,13.16,97318,0.625,0.187,1,0.76,1.39,1,0.42,0.0039,0,890,Prime,50000
+MERCH_0222,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Lucknow,2,32,30,21,44.32,7.75,27921,0.453,0.27,1,1.29,1.02,1,0.76,0.0505,0,869,Prime,50000
+MERCH_0223,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Ahmedabad,2,20,27,86,69.67,11.12,161773,0.357,0.337,1,0.34,0.77,2,0.84,0.0024,0,886,Prime,50000
+MERCH_0224,Anand Fast Food & Chaat,Anand Singh,street_food,Mumbai,1,6,28,107,111.4,32.16,333754,0.489,0.248,1,0.47,0.93,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0225,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Lucknow,2,7,23,26,32.26,20.45,19291,0.846,0.321,1,0.87,1.28,0,1.0,0.0717,0,875,Near-Prime,20000
+MERCH_0226,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Ahmedabad,2,42,30,96,119.03,21.16,342806,0.243,0.456,1,0.25,0.88,1,0.91,0.0,0,890,Prime,50000
+MERCH_0227,Raju City Transport,Raju Singh,auto_rickshaw,Indore,2,2,25,52,63.39,19.02,82407,0.501,0.291,1,0.63,1.38,0,1.0,0.0239,0,890,Near-Prime,20000
+MERCH_0228,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Mumbai,1,19,21,82,69.13,41.42,119041,0.488,0.305,1,0.69,1.07,0,1.0,0.0043,0,890,Prime,50000
+MERCH_0229,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Varanasi,3,2,25,43,142.14,28.66,152800,0.85,0.39,1,1.37,1.44,0,1.0,0.001,0,889,Near-Prime,20000
+MERCH_0230,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Ahmedabad,2,1,21,102,31.02,11.76,66444,0.825,0.45,1,1.37,1.08,0,1.0,0.0333,0,890,Near-Prime,20000
+MERCH_0231,Raju City Transport,Raju Kumar,auto_rickshaw,Delhi NCR,1,7,29,36,42.23,8.12,44088,0.33,0.312,1,0.38,1.32,0,1.0,0.0359,0,870,Near-Prime,20000
+MERCH_0232,Suresh City Transport,Suresh Kumar,auto_rickshaw,Indore,2,11,29,39,60.32,12.63,68221,0.538,0.08,1,0.14,1.21,0,1.0,0.0042,0,890,Near-Prime,20000
+MERCH_0233,Raju City Transport,Raju Kumar,auto_rickshaw,Lucknow,2,63,30,38,61.59,12.82,70212,0.454,0.378,1,0.35,1.14,1,0.93,0.003,0,890,Prime,50000
+MERCH_0234,Raju City Transport,Raju Singh,auto_rickshaw,Ahmedabad,2,2,22,26,31.8,15.52,18189,0.473,0.358,1,0.05,1.04,0,1.0,0.0844,0,846,Near-Prime,20000
+MERCH_0235,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Jaipur,2,3,25,100,90.51,46.68,226275,0.299,0.289,1,1.99,1.19,0,1.0,0.0004,0,890,Near-Prime,20000
+MERCH_0236,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Ahmedabad,2,25,30,87,253.16,92.21,660747,0.593,0.464,1,0.45,1.02,0,1.0,0.0,0,890,Prime,50000
+MERCH_0237,Vikram City Transport,Vikram Kumar,auto_rickshaw,Lucknow,2,44,27,28,166.41,50.63,125805,0.196,0.31,1,0.05,1.43,0,1.0,0.0016,0,890,Prime,50000
+MERCH_0238,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Mumbai,1,23,26,151,21.84,12.07,85743,0.479,0.518,1,0.93,0.83,1,0.87,0.0148,0,890,Prime,50000
+MERCH_0239,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Mumbai,1,6,16,87,192.96,69.29,268600,0.668,0.293,1,0.87,1.17,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0240,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Indore,2,1,22,85,28.57,16.69,53425,0.456,0.091,1,0.05,1.16,0,1.0,0.0271,0,883,Near-Prime,20000
+MERCH_0241,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Varanasi,3,1,22,105,36.38,12.69,84037,0.795,0.361,1,0.25,1.38,0,1.0,0.0132,0,890,Near-Prime,20000
+MERCH_0242,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Varanasi,3,1,16,55,44.9,24.82,39512,0.598,0.307,1,0.33,1.36,0,1.0,0.039,0,890,Near-Prime,20000
+MERCH_0243,Apna Provision & Kirana,Apna Kumar,kirana_store,Lucknow,2,1,27,40,219.04,81.28,236563,0.394,0.08,1,0.68,1.31,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0244,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Delhi NCR,1,2,26,93,20.43,7.24,49399,0.503,0.207,1,0.82,0.93,0,1.0,0.0399,0,890,Near-Prime,20000
+MERCH_0245,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Indore,2,39,23,53,41.44,11.2,50515,0.302,0.437,1,0.4,0.86,0,1.0,0.0235,0,880,Prime,50000
+MERCH_0246,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Jaipur,2,20,30,48,202.57,130.92,291700,0.45,0.594,1,0.42,1.05,1,0.68,0.0001,0,890,Prime,50000
+MERCH_0247,Raju City Transport,Raju Kumar,auto_rickshaw,Patna,2,49,28,36,117.01,18.5,117946,0.522,0.233,1,1.61,0.82,1,0.86,0.0048,0,890,Prime,50000
+MERCH_0248,Apna Provision & Kirana,Apna Singh,kirana_store,Lucknow,2,20,30,26,457.01,131.6,356467,0.376,0.484,1,0.2,0.79,0,1.0,0.0,0,890,Prime,50000
+MERCH_0249,Pravin City Transport,Pravin Singh,auto_rickshaw,Delhi NCR,1,2,29,45,57.97,35.62,75650,0.298,0.317,1,0.24,0.77,0,1.0,0.0123,0,890,Near-Prime,20000
+MERCH_0250,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Ahmedabad,2,14,30,71,63.54,30.62,135340,0.472,0.12,1,1.99,1.03,0,1.0,0.0038,0,890,Prime,50000
+MERCH_0251,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Mumbai,1,2,21,70,106.98,64.2,157260,0.449,0.459,1,0.28,0.75,0,1.0,0.002,0,885,Near-Prime,20000
+MERCH_0252,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Varanasi,3,19,22,94,180.14,28.48,372529,0.302,0.215,1,0.08,1.33,2,0.93,0.0,0,890,Prime,50000
+MERCH_0253,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Lucknow,2,23,23,66,71.41,11.17,108400,0.388,0.652,1,0.64,1.02,0,1.0,0.009,0,887,Prime,50000
+MERCH_0254,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Patna,2,4,30,78,27.32,5.42,63928,0.571,0.361,1,0.29,1.03,0,1.0,0.0284,0,882,Near-Prime,20000
+MERCH_0255,Vikram City Transport,Vikram Kumar,auto_rickshaw,Jaipur,2,6,29,37,44.67,9.57,47930,0.67,0.32,1,1.05,1.18,0,1.0,0.049,0,868,Near-Prime,20000
+MERCH_0256,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Delhi NCR,1,3,30,73,77.88,16.57,170557,0.637,0.202,1,0.62,0.81,0,1.0,0.0008,0,890,Near-Prime,20000
+MERCH_0257,Apna Provision & Kirana,Apna Kumar,kirana_store,Indore,2,4,30,71,266.05,45.44,566686,0.771,0.42,1,1.33,1.16,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0258,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Jaipur,2,23,30,39,69.49,34.81,81303,0.459,0.291,1,0.3,0.79,1,0.79,0.0156,0,890,Prime,50000
+MERCH_0259,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Mumbai,1,10,22,78,208.27,57.37,357391,0.75,0.298,1,0.56,0.86,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0260,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Varanasi,3,19,20,30,43.91,21.07,26345,0.463,0.341,1,2.26,1.2,0,1.0,0.3604,1,706,Near-Prime,20000
+MERCH_0261,Meena Pushp Bhandar,Meena Singh,flower_vendor,Indore,2,15,22,21,33.2,7.09,15338,0.474,0.33,1,0.72,1.36,0,1.0,0.0792,0,843,Prime,50000
+MERCH_0262,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Varanasi,3,15,29,30,36.07,15.62,31380,0.821,0.224,1,0.13,1.05,1,0.81,0.0295,0,871,Prime,50000
+MERCH_0263,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Indore,2,1,26,76,42.53,24.0,84039,0.359,0.387,1,0.05,1.03,0,1.0,0.0123,0,884,Near-Prime,20000
+MERCH_0264,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Lucknow,2,13,27,93,32.02,17.77,80402,0.843,0.272,1,0.83,1.02,0,1.0,0.0066,0,889,Prime,50000
+MERCH_0265,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Varanasi,3,41,22,20,40.41,15.0,17780,0.456,0.472,1,0.8,1.3,0,1.0,0.0925,0,854,Prime,50000
+MERCH_0266,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Jaipur,2,16,27,61,297.81,77.5,490493,0.841,0.355,1,0.74,1.28,2,0.76,0.0,0,890,Prime,50000
+MERCH_0267,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Ahmedabad,2,3,24,73,54.48,9.57,95448,0.85,0.296,1,0.56,0.79,0,1.0,0.0057,0,887,Near-Prime,20000
+MERCH_0268,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Indore,2,1,30,83,234.23,147.54,583232,0.669,0.16,1,0.05,1.41,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0269,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Patna,2,1,28,48,213.0,45.08,286272,0.319,0.358,1,0.12,1.02,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0270,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Mumbai,1,14,29,106,106.34,38.04,326889,0.31,0.258,1,2.51,1.17,2,0.65,0.0001,0,887,Prime,50000
+MERCH_0271,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Varanasi,3,14,29,49,49.05,9.14,69700,0.381,0.278,1,0.2,1.03,0,1.0,0.0141,0,887,Prime,50000
+MERCH_0272,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Lucknow,2,3,24,50,184.69,95.2,221628,0.85,0.225,1,0.43,1.13,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0273,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Patna,2,9,25,58,140.73,48.97,204058,0.292,0.18,1,0.43,1.0,0,1.0,0.0005,0,890,Near-Prime,20000
+MERCH_0274,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Lucknow,2,3,30,90,127.78,55.6,345006,0.768,0.36,1,0.24,1.24,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0275,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Jaipur,2,15,27,55,45.02,9.75,66854,0.608,0.143,1,0.27,0.75,1,0.76,0.0119,0,889,Prime,50000
+MERCH_0276,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Mumbai,1,3,25,43,48.78,22.58,52438,0.145,0.347,1,1.77,1.17,0,1.0,0.1967,0,781,Near-Prime,20000
+MERCH_0277,Suresh City Transport,Suresh Kumar,auto_rickshaw,Lucknow,2,29,30,28,68.86,16.55,57842,0.757,0.23,1,0.65,1.16,0,1.0,0.0144,0,881,Prime,50000
+MERCH_0278,Vikram City Transport,Vikram Kumar,auto_rickshaw,Lucknow,2,1,20,18,67.49,19.68,24296,0.761,0.448,1,2.16,0.76,0,1.0,0.2588,0,765,Near-Prime,20000
+MERCH_0279,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Varanasi,3,3,24,73,256.93,125.78,450141,0.578,0.276,1,0.21,1.38,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0280,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Ahmedabad,2,2,22,68,190.14,92.68,284449,0.774,0.158,1,3.0,1.2,0,1.0,0.0001,0,887,Near-Prime,20000
+MERCH_0281,Deepak City Transport,Deepak Singh,auto_rickshaw,Lucknow,2,49,29,26,88.1,55.75,66427,0.645,0.221,1,0.68,0.89,2,0.74,0.0042,0,890,Prime,50000
+MERCH_0282,Irfan City Transport,Irfan Kumar,auto_rickshaw,Delhi NCR,1,9,28,33,50.35,27.27,46523,0.442,0.279,1,2.5,1.01,0,1.0,0.1095,0,849,Near-Prime,20000
+MERCH_0283,Raju City Transport,Raju Kumar,auto_rickshaw,Ahmedabad,2,7,24,29,57.83,17.84,40249,0.577,0.406,1,1.56,1.29,0,1.0,0.1123,0,843,Near-Prime,20000
+MERCH_0284,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Delhi NCR,1,52,21,38,81.77,32.73,65252,0.328,0.365,1,0.12,1.42,2,0.74,0.0209,0,889,Prime,50000
+MERCH_0285,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Indore,2,52,28,57,140.93,73.42,224924,0.4,0.276,1,0.05,1.25,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0286,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Jaipur,2,8,24,58,192.48,81.7,267932,0.767,0.473,1,1.42,1.25,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0287,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Varanasi,3,2,26,51,33.81,19.94,44832,0.753,0.209,1,0.05,1.42,0,1.0,0.0226,0,884,Near-Prime,20000
+MERCH_0288,Vikram City Transport,Vikram Kumar,auto_rickshaw,Mumbai,1,5,30,53,48.55,16.83,77194,0.624,0.354,1,0.46,1.37,0,1.0,0.0049,0,890,Near-Prime,20000
+MERCH_0289,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Lucknow,2,12,20,62,130.77,58.54,162154,0.322,0.274,1,1.37,1.2,2,0.99,0.0028,0,890,Prime,50000
+MERCH_0290,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Varanasi,3,98,28,53,99.92,25.19,148281,0.67,0.383,1,0.06,1.26,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0291,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Jaipur,2,2,27,21,236.28,79.72,133970,0.631,0.307,1,1.3,0.99,0,1.0,0.003,0,890,Near-Prime,20000
+MERCH_0292,Suresh City Transport,Suresh Kumar,auto_rickshaw,Jaipur,2,10,25,54,72.63,28.44,98050,0.701,0.419,1,3.88,1.35,0,1.0,0.059,0,854,Near-Prime,20000
+MERCH_0293,Anand Fast Food & Chaat,Anand Singh,street_food,Jaipur,2,7,22,93,72.14,22.99,147598,0.558,0.348,1,0.28,1.04,0,1.0,0.0011,0,890,Near-Prime,20000
+MERCH_0294,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Delhi NCR,1,8,16,94,84.75,25.34,127464,0.468,0.254,1,0.81,0.84,0,1.0,0.006,0,890,Near-Prime,20000
+MERCH_0295,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Indore,2,14,23,92,76.31,17.89,161471,0.731,0.243,1,0.27,1.01,2,0.95,0.0006,0,890,Prime,50000
+MERCH_0296,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Mumbai,1,3,25,56,116.96,55.29,163744,0.784,0.332,1,0.43,0.78,0,1.0,0.0007,0,890,Near-Prime,20000
+MERCH_0297,Suresh City Transport,Suresh Singh,auto_rickshaw,Mumbai,1,1,26,39,40.48,25.26,41046,0.707,0.478,1,0.34,1.19,0,1.0,0.0406,0,888,Near-Prime,20000
+MERCH_0298,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Varanasi,3,3,29,78,83.0,25.47,187746,0.666,0.272,1,1.35,1.02,0,1.0,0.0005,0,890,Near-Prime,20000
+MERCH_0299,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Delhi NCR,1,4,23,138,20.22,9.11,64178,0.268,0.489,1,0.16,0.83,0,1.0,0.0509,0,872,Near-Prime,20000
+MERCH_0300,Suresh City Transport,Suresh Singh,auto_rickshaw,Jaipur,2,38,30,23,56.16,25.55,38750,0.672,0.297,1,0.28,0.81,0,1.0,0.0072,0,890,Prime,50000
+MERCH_0301,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Lucknow,2,6,24,83,174.38,103.27,347364,0.458,0.29,1,0.37,1.28,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0302,Deepak City Transport,Deepak Singh,auto_rickshaw,Varanasi,3,7,28,32,35.21,18.38,31548,0.693,0.08,1,1.92,1.15,0,1.0,0.0375,0,887,Near-Prime,20000
+MERCH_0303,Pravin City Transport,Pravin Singh,auto_rickshaw,Ahmedabad,2,25,22,47,103.01,34.16,106512,0.526,0.389,1,1.31,1.34,2,0.86,0.0206,0,890,Prime,50000
+MERCH_0304,Anand Fast Food & Chaat,Anand Kumar,street_food,Delhi NCR,1,7,23,71,109.4,57.4,178650,0.341,0.14,1,2.74,1.25,0,1.0,0.0022,0,890,Near-Prime,20000
+MERCH_0305,Raju City Transport,Raju Kumar,auto_rickshaw,Patna,2,56,21,5,66.57,33.53,6989,0.816,0.302,1,0.05,0.78,0,1.0,0.0256,0,887,Prime,50000
+MERCH_0306,Meena Pushp Bhandar,Meena Singh,flower_vendor,Indore,2,14,26,51,37.48,16.87,49698,0.578,0.47,1,0.06,1.38,1,0.63,0.0412,0,869,Prime,50000
+MERCH_0307,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Jaipur,2,9,29,90,49.24,9.56,128516,0.581,0.363,1,0.14,1.24,0,1.0,0.0051,0,889,Near-Prime,20000
+MERCH_0308,Apna Provision & Kirana,Apna Singh,kirana_store,Jaipur,2,3,27,63,103.85,60.13,176648,0.256,0.326,1,0.24,0.79,0,1.0,0.0015,0,890,Near-Prime,20000
+MERCH_0309,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Varanasi,3,23,23,42,324.24,146.0,313215,0.532,0.14,1,1.04,1.4,2,0.72,0.0,0,890,Prime,50000
+MERCH_0310,Deepak City Transport,Deepak Kumar,auto_rickshaw,Varanasi,3,12,30,9,74.95,30.7,20236,0.721,0.551,0,0.46,0.94,2,0.75,0.2029,0,793,Prime,50000
+MERCH_0311,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Patna,2,12,29,36,217.4,69.17,226965,0.5,0.288,1,0.53,0.81,2,0.81,0.0001,0,890,Prime,50000
+MERCH_0312,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Patna,2,1,22,56,70.52,28.38,86880,0.41,0.311,1,1.49,0.93,0,1.0,0.0243,0,883,Near-Prime,20000
+MERCH_0313,Vikram City Transport,Vikram Kumar,auto_rickshaw,Ahmedabad,2,9,24,31,127.51,40.32,94867,0.79,0.222,1,1.16,1.43,0,1.0,0.0109,0,890,Near-Prime,20000
+MERCH_0314,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Varanasi,3,6,28,35,519.58,203.16,509188,0.338,0.317,1,1.95,1.18,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0315,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Varanasi,3,14,21,49,37.8,15.4,38896,0.531,0.124,1,0.92,1.4,0,1.0,0.0204,0,890,Prime,50000
+MERCH_0316,Deepak City Transport,Deepak Singh,auto_rickshaw,Ahmedabad,2,15,25,31,115.01,67.85,89132,0.627,0.201,1,1.92,1.28,1,0.93,0.0099,0,887,Prime,50000
+MERCH_0317,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Patna,2,11,27,52,33.72,12.96,47342,0.592,0.277,1,0.44,1.15,0,1.0,0.0368,0,875,Near-Prime,20000
+MERCH_0318,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Jaipur,2,38,24,45,35.46,21.51,38296,0.752,0.188,1,2.23,0.94,1,0.82,0.0477,0,872,Prime,50000
+MERCH_0319,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Jaipur,2,4,27,55,46.87,13.66,69601,0.334,0.261,1,1.63,0.88,0,1.0,0.0631,0,860,Near-Prime,20000
+MERCH_0320,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Ahmedabad,2,9,21,60,209.87,109.38,264436,0.839,0.247,1,0.7,1.37,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0321,Deepak City Transport,Deepak Singh,auto_rickshaw,Patna,2,2,30,41,128.17,45.55,157649,0.529,0.332,1,3.09,1.04,0,1.0,0.0085,0,882,Near-Prime,20000
+MERCH_0322,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Indore,2,22,25,89,139.07,80.96,309430,0.433,0.349,1,0.52,0.8,2,0.48,0.0,0,890,Prime,50000
+MERCH_0323,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Ahmedabad,2,1,30,47,60.58,17.9,85417,0.716,0.273,1,1.21,1.08,0,1.0,0.0077,0,884,Near-Prime,20000
+MERCH_0324,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Ahmedabad,2,4,23,62,83.9,54.04,119641,0.686,0.353,1,0.26,0.88,0,1.0,0.0028,0,890,Near-Prime,20000
+MERCH_0325,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Jaipur,2,1,24,43,71.09,11.63,73364,0.784,0.432,1,0.52,1.02,0,1.0,0.0276,0,875,Near-Prime,20000
+MERCH_0326,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Jaipur,2,47,18,44,62.58,23.56,49563,0.768,0.333,1,0.07,0.86,0,1.0,0.0066,0,890,Prime,50000
+MERCH_0327,Suresh City Transport,Suresh Singh,auto_rickshaw,Patna,2,10,18,32,51.53,15.54,29681,0.57,0.372,1,1.92,0.75,0,1.0,0.1644,0,807,Near-Prime,20000
+MERCH_0328,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Varanasi,3,1,27,41,114.05,56.62,126253,0.85,0.319,1,0.74,0.91,0,1.0,0.0037,0,887,Near-Prime,20000
+MERCH_0329,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Varanasi,3,14,25,75,368.07,86.58,690131,0.635,0.091,1,0.53,1.31,2,0.6,0.0,0,890,Prime,50000
+MERCH_0330,Anand Fast Food & Chaat,Anand Singh,street_food,Ahmedabad,2,5,18,20,114.02,72.23,41047,0.67,0.348,1,1.01,1.01,0,1.0,0.0955,0,853,Near-Prime,20000
+MERCH_0331,Sharma Fast Food & Chaat,Sharma Singh,street_food,Patna,2,1,15,52,77.28,48.95,60278,0.748,0.17,1,2.72,1.06,0,1.0,0.07,0,852,Near-Prime,20000
+MERCH_0332,Apna Provision & Kirana,Apna Kumar,kirana_store,Ahmedabad,2,20,17,71,153.49,26.99,185262,0.643,0.08,1,0.17,0.97,0,1.0,0.0002,0,890,Prime,50000
+MERCH_0333,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Patna,2,66,19,20,134.74,36.49,51201,0.477,0.504,1,0.9,0.79,2,0.87,0.0155,0,890,Prime,50000
+MERCH_0334,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Jaipur,2,2,24,36,31.94,14.7,27596,0.409,0.269,0,0.97,0.9,0,1.0,0.1216,0,843,Near-Prime,20000
+MERCH_0335,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Mumbai,1,8,26,80,76.14,30.68,158371,0.438,0.333,1,0.93,0.97,0,1.0,0.002,0,886,Near-Prime,20000
+MERCH_0336,Irfan City Transport,Irfan Singh,auto_rickshaw,Mumbai,1,1,23,26,45.06,22.38,26945,0.335,0.524,0,0.94,1.44,0,1.0,0.3598,1,694,Near-Prime,20000
+MERCH_0337,Suresh City Transport,Suresh Kumar,auto_rickshaw,Lucknow,2,4,29,49,76.96,22.11,109360,0.635,0.104,1,0.67,1.19,0,1.0,0.0018,0,888,Near-Prime,20000
+MERCH_0338,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Patna,2,4,25,12,48.37,11.65,14511,0.264,0.369,0,0.09,1.29,0,1.0,0.3123,0,728,Near-Prime,20000
+MERCH_0339,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Jaipur,2,29,23,100,52.95,23.23,121785,0.411,0.08,1,0.82,0.81,0,1.0,0.0008,0,890,Prime,50000
+MERCH_0340,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Ahmedabad,2,14,22,52,36.72,20.1,42007,0.1,0.339,1,0.79,0.8,1,0.91,0.0892,0,837,Prime,50000
+MERCH_0341,Apna Provision & Kirana,Apna Kumar,kirana_store,Varanasi,3,51,29,52,171.45,88.8,258546,0.456,0.359,1,0.05,1.24,1,0.8,0.0,0,890,Prime,50000
+MERCH_0342,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Delhi NCR,1,2,24,78,210.09,118.32,393288,0.634,0.313,1,0.51,1.4,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0343,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Indore,2,13,29,40,20.59,6.75,23884,0.541,0.229,1,0.85,0.78,2,0.98,0.0199,0,887,Prime,50000
+MERCH_0344,Mishra Chai & Snacks,Mishra Singh,chai_stall,Lucknow,2,19,22,107,55.96,32.94,131729,0.759,0.347,1,1.94,1.32,2,0.71,0.0068,0,890,Prime,50000
+MERCH_0345,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Patna,2,15,23,49,98.34,23.81,110829,0.688,0.331,1,1.37,0.98,2,0.97,0.0084,0,890,Prime,50000
+MERCH_0346,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Patna,2,23,29,77,308.24,77.97,688299,0.597,0.37,1,0.79,0.88,0,1.0,0.0,0,890,Prime,50000
+MERCH_0347,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Mumbai,1,27,29,68,61.41,10.94,121100,0.592,0.344,1,0.05,1.16,1,0.94,0.002,0,890,Prime,50000
+MERCH_0348,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Mumbai,1,12,26,70,170.71,38.12,310692,0.669,0.265,1,0.72,1.28,1,0.94,0.0,0,890,Prime,50000
+MERCH_0349,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Delhi NCR,1,14,26,51,61.0,12.31,80886,0.548,0.379,1,0.9,0.96,1,0.94,0.0158,0,881,Prime,50000
+MERCH_0350,Suresh City Transport,Suresh Singh,auto_rickshaw,Ahmedabad,2,28,21,25,80.72,16.05,42378,0.368,0.462,1,0.79,0.94,0,1.0,0.1031,0,848,Prime,50000
+MERCH_0351,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Varanasi,3,1,28,36,81.38,52.56,82031,0.461,0.464,1,3.39,1.23,0,1.0,0.1519,0,823,Near-Prime,20000
+MERCH_0352,Pravin City Transport,Pravin Kumar,auto_rickshaw,Patna,2,2,22,32,67.3,22.98,47379,0.217,0.364,1,0.23,0.8,0,1.0,0.0907,0,866,Near-Prime,20000
+MERCH_0353,Raju City Transport,Raju Singh,auto_rickshaw,Lucknow,2,5,25,40,44.29,22.57,44290,0.491,0.149,1,1.39,0.91,0,1.0,0.0278,0,871,Near-Prime,20000
+MERCH_0354,Anand Fast Food & Chaat,Anand Kumar,street_food,Indore,2,16,30,74,107.07,59.94,237695,0.832,0.494,1,0.12,1.43,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0355,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Jaipur,2,60,22,48,107.08,59.75,113076,0.551,0.24,1,0.79,1.04,2,0.73,0.0022,0,890,Prime,50000
+MERCH_0356,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Indore,2,47,21,125,34.84,12.99,91455,0.573,0.246,1,0.36,1.12,0,1.0,0.003,0,890,Prime,50000
+MERCH_0357,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Mumbai,1,100,30,97,155.98,69.83,453901,0.319,0.143,1,0.43,0.85,1,0.79,0.0,0,886,Prime,50000
+MERCH_0358,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Indore,2,3,16,74,136.24,72.37,161308,0.633,0.318,1,1.01,1.06,0,1.0,0.002,0,886,Near-Prime,20000
+MERCH_0359,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Patna,2,23,27,48,69.76,18.72,90408,0.673,0.464,1,1.61,1.22,0,1.0,0.011,0,890,Prime,50000
+MERCH_0360,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Patna,2,4,13,48,59.22,38.36,36953,0.302,0.487,1,0.71,1.09,0,1.0,0.1897,0,805,Near-Prime,20000
+MERCH_0361,Apna Provision & Kirana,Apna Singh,kirana_store,Patna,2,5,19,45,282.67,176.99,241682,0.726,0.224,1,0.78,1.06,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0362,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Varanasi,3,27,22,46,159.95,80.81,161869,0.692,0.324,1,0.88,0.95,0,1.0,0.0005,0,890,Prime,50000
+MERCH_0363,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Jaipur,2,60,25,88,59.01,16.09,129822,0.587,0.179,1,3.54,1.02,2,0.94,0.0041,0,890,Prime,50000
+MERCH_0364,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Varanasi,3,5,19,46,116.09,37.06,101462,0.478,0.383,1,0.14,1.3,0,1.0,0.0084,0,888,Near-Prime,20000
+MERCH_0365,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Lucknow,2,17,25,28,28.05,15.0,19635,0.36,0.309,0,1.82,1.39,0,1.0,0.4357,1,664,Near-Prime,20000
+MERCH_0366,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Indore,2,1,22,53,58.9,17.35,68677,0.334,0.462,1,0.05,1.42,0,1.0,0.0414,0,875,Near-Prime,20000
+MERCH_0367,Pravin City Transport,Pravin Singh,auto_rickshaw,Patna,2,48,23,41,79.96,12.52,75402,0.112,0.324,1,1.16,1.09,0,1.0,0.041,0,887,Prime,50000
+MERCH_0368,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Jaipur,2,2,20,61,247.15,56.5,301523,0.787,0.324,1,0.23,1.31,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0369,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Jaipur,2,25,25,66,77.71,32.88,128221,0.687,0.39,1,0.11,1.25,1,0.97,0.0026,0,890,Prime,50000
+MERCH_0370,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Mumbai,1,4,19,135,45.79,9.77,117451,0.767,0.35,1,0.14,1.24,0,1.0,0.003,0,888,Near-Prime,20000
+MERCH_0371,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Patna,2,12,26,49,50.39,21.06,64196,0.739,0.465,1,1.43,1.03,2,0.51,0.0608,0,853,Prime,50000
+MERCH_0372,Raju City Transport,Raju Kumar,auto_rickshaw,Jaipur,2,28,16,32,58.45,36.51,29926,0.549,0.168,1,0.05,0.98,1,0.77,0.0307,0,869,Prime,50000
+MERCH_0373,Deepak City Transport,Deepak Singh,auto_rickshaw,Ahmedabad,2,5,26,34,34.33,18.19,30347,0.782,0.239,1,0.66,0.89,0,1.0,0.0493,0,884,Near-Prime,20000
+MERCH_0374,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Indore,2,24,26,41,84.79,26.25,90386,0.48,0.298,1,0.07,0.89,0,1.0,0.0064,0,888,Prime,50000
+MERCH_0375,Vikram City Transport,Vikram Kumar,auto_rickshaw,Ahmedabad,2,14,24,45,42.7,20.47,46116,0.507,0.326,1,0.29,0.86,0,1.0,0.0525,0,869,Prime,50000
+MERCH_0376,Apna Provision & Kirana,Apna Kumar,kirana_store,Patna,2,6,30,39,159.35,25.34,186439,0.491,0.303,1,1.29,1.08,0,1.0,0.0005,0,890,Near-Prime,20000
+MERCH_0377,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Delhi NCR,1,37,23,99,42.4,17.22,96544,0.648,0.327,1,0.17,0.77,1,0.8,0.0032,0,890,Prime,50000
+MERCH_0378,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Mumbai,1,5,21,56,90.31,35.63,106204,0.608,0.338,1,0.05,1.34,0,1.0,0.0043,0,890,Near-Prime,20000
+MERCH_0379,Deepak City Transport,Deepak Singh,auto_rickshaw,Mumbai,1,12,30,55,54.23,16.78,89479,0.562,0.291,1,0.05,1.31,2,0.7,0.0111,0,887,Prime,50000
+MERCH_0380,Mishra Chai & Snacks,Mishra Singh,chai_stall,Mumbai,1,27,30,123,40.92,9.33,150994,0.719,0.227,1,2.02,1.21,1,0.97,0.0006,0,890,Prime,50000
+MERCH_0381,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Delhi NCR,1,12,23,74,145.97,80.51,248440,0.719,0.146,1,1.28,1.25,2,0.95,0.0,0,890,Prime,50000
+MERCH_0382,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Ahmedabad,2,15,30,102,49.3,11.7,150858,0.744,0.52,1,1.13,1.17,2,0.81,0.0038,0,890,Prime,50000
+MERCH_0383,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Lucknow,2,11,22,28,48.99,20.82,30177,0.412,0.377,1,0.1,1.35,0,1.0,0.067,0,850,Near-Prime,20000
+MERCH_0384,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Indore,2,71,29,87,27.6,12.95,69634,0.677,0.53,1,0.24,1.01,2,0.86,0.0042,0,890,Prime,50000
+MERCH_0385,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Delhi NCR,1,25,21,110,137.46,50.32,317532,0.77,0.302,1,2.42,0.97,2,0.87,0.0,0,890,Prime,50000
+MERCH_0386,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Indore,2,11,30,46,371.34,137.98,512449,0.603,0.367,1,0.89,0.94,0,1.0,0.0,0,887,Near-Prime,20000
+MERCH_0387,Suresh City Transport,Suresh Singh,auto_rickshaw,Ahmedabad,2,5,25,39,136.67,22.5,133253,0.343,0.395,1,0.07,0.89,0,1.0,0.0038,0,887,Near-Prime,20000
+MERCH_0388,Apna Provision & Kirana,Apna Kumar,kirana_store,Lucknow,2,11,27,56,448.81,181.48,678600,0.783,0.105,1,0.23,1.2,0,1.0,0.0,0,887,Near-Prime,20000
+MERCH_0389,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Ahmedabad,2,18,23,130,32.66,20.9,97653,0.623,0.323,1,2.03,1.43,0,1.0,0.006,0,887,Prime,50000
+MERCH_0390,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Jaipur,2,52,30,46,237.3,90.85,327474,0.803,0.196,1,0.56,1.33,0,1.0,0.0,0,890,Prime,50000
+MERCH_0391,Deepak City Transport,Deepak Singh,auto_rickshaw,Mumbai,1,19,27,41,71.33,29.6,78962,0.715,0.126,1,0.65,1.27,0,1.0,0.0049,0,890,Prime,50000
+MERCH_0392,Balaji Provision & Kirana,Balaji Singh,kirana_store,Indore,2,1,18,77,178.65,88.74,247608,0.267,0.407,1,0.18,1.36,0,1.0,0.0003,0,890,Near-Prime,20000
+MERCH_0393,Raju City Transport,Raju Kumar,auto_rickshaw,Lucknow,2,1,23,40,68.45,42.46,62974,0.185,0.273,1,0.18,1.05,0,1.0,0.048,0,868,Near-Prime,20000
+MERCH_0394,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Jaipur,2,25,24,85,90.12,34.48,183844,0.442,0.393,1,1.02,1.41,2,0.52,0.0017,0,890,Prime,50000
+MERCH_0395,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Varanasi,3,14,18,86,36.23,15.2,56084,0.64,0.317,1,1.47,1.45,1,0.87,0.0302,0,883,Prime,50000
+MERCH_0396,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Lucknow,2,1,30,58,25.11,12.38,43691,0.462,0.443,1,0.83,1.43,0,1.0,0.087,0,864,Near-Prime,20000
+MERCH_0397,Vikram City Transport,Vikram Kumar,auto_rickshaw,Indore,2,22,25,43,66.99,14.3,72014,0.191,0.28,1,0.17,1.09,1,0.8,0.0111,0,888,Prime,50000
+MERCH_0398,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Patna,2,9,28,64,61.87,10.08,110871,0.752,0.287,1,0.07,1.32,0,1.0,0.0021,0,890,Near-Prime,20000
+MERCH_0399,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Ahmedabad,2,26,23,87,110.83,60.91,221770,0.549,0.266,1,3.16,0.86,1,0.91,0.0009,0,890,Prime,50000
+MERCH_0400,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Ahmedabad,2,14,23,69,137.41,81.64,218069,0.85,0.216,1,0.66,1.1,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0401,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Delhi NCR,1,2,17,65,332.94,51.36,367898,0.775,0.488,1,1.12,1.42,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0402,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Mumbai,1,3,20,74,99.71,32.71,147570,0.414,0.305,1,0.07,1.37,0,1.0,0.0022,0,890,Near-Prime,20000
+MERCH_0403,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Ahmedabad,2,1,26,72,87.58,38.05,163949,0.339,0.245,1,0.51,0.78,0,1.0,0.0017,0,890,Near-Prime,20000
+MERCH_0404,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Jaipur,2,10,22,70,19.04,10.99,29321,0.336,0.338,1,0.61,1.17,0,1.0,0.1236,0,834,Near-Prime,20000
+MERCH_0405,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Indore,2,8,25,64,66.8,20.32,106880,0.704,0.417,1,0.09,1.26,0,1.0,0.0037,0,890,Near-Prime,20000
+MERCH_0406,Irfan City Transport,Irfan Singh,auto_rickshaw,Mumbai,1,12,20,38,74.32,26.25,56483,0.85,0.392,1,0.65,1.24,0,1.0,0.0324,0,888,Prime,50000
+MERCH_0407,Deepak City Transport,Deepak Singh,auto_rickshaw,Delhi NCR,1,9,26,33,157.49,50.24,135126,0.74,0.34,1,1.13,1.31,0,1.0,0.0037,0,890,Near-Prime,20000
+MERCH_0408,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Indore,2,5,24,99,83.19,49.76,197659,0.615,0.204,1,0.22,1.04,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0409,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Patna,2,5,21,34,63.87,23.69,45603,0.264,0.355,1,0.32,1.27,0,1.0,0.1049,0,849,Near-Prime,20000
+MERCH_0410,Vikram City Transport,Vikram Singh,auto_rickshaw,Lucknow,2,5,22,36,95.74,26.48,75826,0.414,0.271,1,0.95,0.76,0,1.0,0.0331,0,876,Near-Prime,20000
+MERCH_0411,Balaji Provision & Kirana,Balaji Singh,kirana_store,Mumbai,1,8,27,37,288.45,159.11,288161,0.316,0.467,1,1.32,0.96,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0412,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Varanasi,3,8,26,59,42.63,23.83,65394,0.482,0.295,1,0.99,1.33,0,1.0,0.0228,0,884,Near-Prime,20000
+MERCH_0413,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Mumbai,1,35,21,66,120.72,35.68,167317,0.298,0.148,1,0.33,0.81,0,1.0,0.0002,0,886,Prime,50000
+MERCH_0414,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Mumbai,1,48,24,42,41.74,18.01,42073,0.671,0.258,1,3.95,1.04,1,0.99,0.0907,0,865,Prime,50000
+MERCH_0415,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Patna,2,1,29,37,33.44,7.69,35881,0.32,0.24,1,2.95,0.91,0,1.0,0.1768,0,805,Near-Prime,20000
+MERCH_0416,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Jaipur,2,2,28,58,317.22,73.71,515165,0.408,0.287,1,0.56,0.97,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0417,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Indore,2,23,26,49,83.26,25.12,106073,0.655,0.085,1,2.61,0.97,0,1.0,0.0054,0,890,Prime,50000
+MERCH_0418,Balaji Provision & Kirana,Balaji Singh,kirana_store,Indore,2,1,21,51,192.97,73.75,206670,0.759,0.171,1,1.19,0.79,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0419,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Mumbai,1,1,24,76,43.27,26.67,78924,0.535,0.542,1,2.96,1.43,0,1.0,0.1595,0,803,Near-Prime,20000
+MERCH_0420,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Varanasi,3,3,22,82,58.59,20.65,105696,0.671,0.482,1,0.14,1.43,0,1.0,0.0044,0,890,Near-Prime,20000
+MERCH_0421,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Varanasi,3,44,23,27,525.55,97.68,326366,0.281,0.143,1,1.92,1.19,0,1.0,0.0,0,890,Prime,50000
+MERCH_0422,Apna Provision & Kirana,Apna Singh,kirana_store,Lucknow,2,8,26,56,133.23,83.8,193982,0.458,0.295,1,0.17,0.88,0,1.0,0.0006,0,890,Near-Prime,20000
+MERCH_0423,Raju City Transport,Raju Kumar,auto_rickshaw,Mumbai,1,26,28,36,50.44,19.31,50843,0.595,0.272,1,0.49,1.38,0,1.0,0.0125,0,884,Prime,50000
+MERCH_0424,Anand Fast Food & Chaat,Anand Kumar,street_food,Lucknow,2,12,27,43,76.03,18.99,88270,0.644,0.403,1,1.53,1.09,2,0.92,0.0129,0,883,Prime,50000
+MERCH_0425,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Lucknow,2,8,25,63,288.81,50.32,454875,0.314,0.457,1,0.41,1.2,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0426,Anand Fast Food & Chaat,Anand Kumar,street_food,Jaipur,2,6,30,75,63.78,13.67,143505,0.48,0.084,1,1.34,1.36,0,1.0,0.0014,0,885,Near-Prime,20000
+MERCH_0427,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Lucknow,2,20,25,43,177.82,47.0,191156,0.85,0.165,1,1.37,1.0,2,0.89,0.0001,0,890,Prime,50000
+MERCH_0428,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Jaipur,2,55,27,24,73.62,15.7,47705,0.384,0.372,1,0.05,1.04,0,1.0,0.0069,0,890,Prime,50000
+MERCH_0429,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Patna,2,14,30,75,42.95,7.28,96637,0.551,0.327,1,1.48,0.96,0,1.0,0.0065,0,890,Prime,50000
+MERCH_0430,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Jaipur,2,3,14,42,160.75,30.81,94521,0.493,0.463,1,0.05,0.88,0,1.0,0.0104,0,888,Near-Prime,20000
+MERCH_0431,Deepak City Transport,Deepak Singh,auto_rickshaw,Varanasi,3,32,22,41,83.1,12.48,74956,0.324,0.226,1,0.26,0.88,1,0.9,0.0169,0,889,Prime,50000
+MERCH_0432,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Patna,2,14,22,97,58.89,23.36,125671,0.484,0.523,1,0.47,1.34,0,1.0,0.0128,0,890,Prime,50000
+MERCH_0433,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Jaipur,2,5,30,35,54.92,19.08,57666,0.465,0.231,1,0.18,1.09,0,1.0,0.0161,0,890,Near-Prime,20000
+MERCH_0434,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Varanasi,3,47,29,12,15.0,3.15,5220,0.389,0.324,1,0.9,1.29,0,1.0,0.0802,0,845,Prime,50000
+MERCH_0435,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Patna,2,2,23,60,73.74,17.81,101761,0.331,0.19,1,0.56,0.88,0,1.0,0.0177,0,890,Near-Prime,20000
+MERCH_0436,Vikram City Transport,Vikram Singh,auto_rickshaw,Lucknow,2,14,29,24,105.76,56.32,73608,0.85,0.462,1,0.3,0.81,1,0.9,0.0129,0,882,Prime,50000
+MERCH_0437,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Delhi NCR,1,7,29,70,123.5,22.66,250705,0.592,0.281,1,1.02,1.39,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0438,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Patna,2,13,23,61,101.67,44.32,142643,0.681,0.3,1,0.31,1.41,2,0.58,0.0019,0,890,Prime,50000
+MERCH_0439,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Ahmedabad,2,11,27,75,217.64,46.39,440721,0.655,0.264,1,2.17,1.25,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0440,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Indore,2,10,27,128,44.17,8.92,152651,0.744,0.411,1,1.05,1.04,0,1.0,0.0008,0,890,Near-Prime,20000
+MERCH_0441,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Jaipur,2,17,29,100,45.93,12.44,133197,0.583,0.425,1,0.08,1.08,1,0.98,0.0024,0,890,Prime,50000
+MERCH_0442,Balaji Provision & Kirana,Balaji Singh,kirana_store,Varanasi,3,4,27,49,296.43,100.77,392176,0.798,0.162,1,1.34,1.13,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0443,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Patna,2,2,24,57,225.04,46.43,307854,0.511,0.231,1,0.39,1.31,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0444,Deepak City Transport,Deepak Singh,auto_rickshaw,Lucknow,2,5,24,21,65.8,29.99,33163,0.689,0.272,1,1.8,1.43,0,1.0,0.0591,0,881,Near-Prime,20000
+MERCH_0445,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Delhi NCR,1,35,24,53,39.48,16.66,50218,0.29,0.254,1,0.87,1.05,1,0.96,0.0382,0,890,Prime,50000
+MERCH_0446,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Jaipur,2,3,26,70,136.38,82.81,248211,0.67,0.268,1,0.24,0.88,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0447,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Lucknow,2,19,23,9,28.93,18.28,5988,0.428,0.274,0,0.29,0.82,0,1.0,0.2038,0,781,Prime,50000
+MERCH_0448,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Varanasi,3,15,30,49,43.14,17.34,63415,0.268,0.274,1,0.09,1.09,1,0.9,0.0096,0,890,Prime,50000
+MERCH_0449,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Ahmedabad,2,39,22,39,70.34,38.31,60351,0.26,0.232,1,2.38,0.92,0,1.0,0.0934,0,840,Prime,50000
+MERCH_0450,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Mumbai,1,13,30,66,290.81,71.12,575803,0.397,0.277,1,0.58,1.0,1,0.98,0.0,0,890,Prime,50000
+MERCH_0451,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Mumbai,1,12,21,61,93.47,35.28,119735,0.789,0.319,1,0.63,0.87,0,1.0,0.0023,0,886,Prime,50000
+MERCH_0452,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Mumbai,1,25,26,52,42.43,17.83,57365,0.85,0.277,1,0.69,0.88,0,1.0,0.01,0,890,Prime,50000
+MERCH_0453,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Lucknow,2,18,27,65,85.69,18.04,150385,0.71,0.303,1,0.15,1.44,2,0.94,0.0011,0,890,Prime,50000
+MERCH_0454,Meena Pushp Bhandar,Meena Singh,flower_vendor,Patna,2,67,22,17,47.87,26.57,17903,0.619,0.306,1,1.8,1.23,0,1.0,0.0484,0,873,Prime,50000
+MERCH_0455,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Mumbai,1,9,30,59,94.73,45.93,167672,0.178,0.313,1,0.63,0.96,0,1.0,0.0025,0,890,Near-Prime,20000
+MERCH_0456,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Varanasi,3,3,25,39,281.06,97.02,274033,0.828,0.258,1,0.3,1.21,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0457,Meena Pushp Bhandar,Meena Singh,flower_vendor,Mumbai,1,11,28,48,39.33,6.35,52859,0.526,0.36,1,0.06,0.84,0,1.0,0.0148,0,890,Near-Prime,20000
+MERCH_0458,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Delhi NCR,1,18,30,74,47.12,22.4,104606,0.85,0.487,1,0.74,1.36,1,0.86,0.0072,0,890,Prime,50000
+MERCH_0459,Apna Provision & Kirana,Apna Kumar,kirana_store,Ahmedabad,2,8,24,36,119.76,68.06,103472,0.512,0.08,1,0.55,1.22,0,1.0,0.0038,0,890,Near-Prime,20000
+MERCH_0460,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Jaipur,2,1,24,82,83.93,31.03,165174,0.316,0.212,1,2.6,1.17,0,1.0,0.0044,0,890,Near-Prime,20000
+MERCH_0461,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Delhi NCR,1,9,25,133,16.54,9.6,54995,0.455,0.34,1,2.34,1.04,0,1.0,0.0614,0,879,Near-Prime,20000
+MERCH_0462,Vikram City Transport,Vikram Singh,auto_rickshaw,Indore,2,7,27,36,104.25,30.51,101331,0.613,0.08,1,1.04,1.0,0,1.0,0.0062,0,890,Near-Prime,20000
+MERCH_0463,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Delhi NCR,1,14,30,80,47.65,9.16,114360,0.603,0.437,1,0.35,1.03,0,1.0,0.005,0,884,Prime,50000
+MERCH_0464,Apna Provision & Kirana,Apna Singh,kirana_store,Ahmedabad,2,9,25,58,165.17,93.29,239496,0.688,0.392,1,0.5,1.19,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0465,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Indore,2,12,24,64,52.58,27.22,80762,0.424,0.307,1,0.63,0.85,0,1.0,0.0129,0,880,Prime,50000
+MERCH_0466,Anand Fast Food & Chaat,Anand Singh,street_food,Mumbai,1,24,30,113,99.06,48.13,335813,0.387,0.367,1,1.05,1.12,0,1.0,0.0,0,890,Prime,50000
+MERCH_0467,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Mumbai,1,40,28,53,270.74,119.16,401778,0.45,0.14,1,0.19,0.97,1,0.92,0.0,0,890,Prime,50000
+MERCH_0468,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Indore,2,10,29,74,34.19,19.85,73371,0.565,0.217,1,0.84,1.37,0,1.0,0.0153,0,886,Near-Prime,20000
+MERCH_0469,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Lucknow,2,25,24,77,44.79,14.01,82771,0.609,0.315,1,0.32,1.06,0,1.0,0.0053,0,890,Prime,50000
+MERCH_0470,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Ahmedabad,2,5,27,64,50.86,15.76,87886,0.473,0.418,1,0.89,1.08,0,1.0,0.0169,0,890,Near-Prime,20000
+MERCH_0471,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Mumbai,1,17,25,100,166.16,54.63,415400,0.845,0.462,1,0.66,1.37,2,0.46,0.0,0,890,Prime,50000
+MERCH_0472,Pravin City Transport,Pravin Kumar,auto_rickshaw,Mumbai,1,60,25,50,56.16,11.05,70200,0.85,0.452,1,1.46,0.8,1,0.79,0.0072,0,890,Prime,50000
+MERCH_0473,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Ahmedabad,2,21,30,45,83.87,54.38,113224,0.496,0.327,1,1.15,1.13,0,1.0,0.0038,0,890,Prime,50000
+MERCH_0474,Irfan City Transport,Irfan Singh,auto_rickshaw,Delhi NCR,1,33,24,38,57.41,10.69,52357,0.314,0.315,1,2.14,0.75,0,1.0,0.0711,0,857,Prime,50000
+MERCH_0475,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Lucknow,2,2,25,49,155.27,95.78,190205,0.455,0.405,1,0.19,1.22,0,1.0,0.0008,0,890,Near-Prime,20000
+MERCH_0476,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Indore,2,1,20,49,34.95,13.34,34251,0.627,0.233,1,0.87,0.86,0,1.0,0.0424,0,885,Near-Prime,20000
+MERCH_0477,Sharma Fast Food & Chaat,Sharma Singh,street_food,Ahmedabad,2,9,26,102,64.39,18.09,170762,0.805,0.434,1,0.78,0.95,0,1.0,0.0014,0,890,Near-Prime,20000
+MERCH_0478,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Lucknow,2,8,26,76,73.91,20.29,146046,0.434,0.251,1,0.58,1.07,0,1.0,0.0007,0,890,Near-Prime,20000
+MERCH_0479,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Mumbai,1,46,24,69,189.6,80.48,313977,0.761,0.261,1,0.24,0.78,0,1.0,0.0,0,887,Prime,50000
+MERCH_0480,Irfan City Transport,Irfan Kumar,auto_rickshaw,Jaipur,2,2,27,38,61.01,16.17,62596,0.428,0.425,1,0.38,1.04,0,1.0,0.0312,0,890,Near-Prime,20000
+MERCH_0481,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Patna,2,34,30,68,107.25,46.15,218790,0.443,0.589,1,0.94,1.02,1,0.98,0.0007,0,890,Prime,50000
+MERCH_0482,Suresh City Transport,Suresh Kumar,auto_rickshaw,Patna,2,11,26,43,64.4,13.47,71999,0.58,0.191,1,0.28,1.1,0,1.0,0.0038,0,890,Near-Prime,20000
+MERCH_0483,Raju City Transport,Raju Singh,auto_rickshaw,Varanasi,3,4,18,26,56.32,10.01,26357,0.242,0.168,0,0.05,1.34,0,1.0,0.0889,0,867,Near-Prime,20000
+MERCH_0484,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Delhi NCR,1,1,30,137,56.54,26.78,232379,0.748,0.241,1,1.75,0.82,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0485,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Patna,2,9,27,63,18.15,4.09,30873,0.725,0.376,1,0.54,0.93,0,1.0,0.0577,0,884,Near-Prime,20000
+MERCH_0486,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Lucknow,2,38,19,100,48.77,8.39,92663,0.449,0.276,1,0.54,1.37,0,1.0,0.0083,0,890,Prime,50000
+MERCH_0487,Raju City Transport,Raju Singh,auto_rickshaw,Indore,2,1,15,27,75.08,15.53,30407,0.85,0.399,1,1.59,1.29,0,1.0,0.1077,0,849,Near-Prime,20000
+MERCH_0488,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Mumbai,1,3,27,134,17.77,5.0,64291,0.38,0.356,1,0.52,1.0,0,1.0,0.0426,0,864,Near-Prime,20000
+MERCH_0489,Pravin City Transport,Pravin Singh,auto_rickshaw,Delhi NCR,1,3,26,31,56.93,26.33,45885,0.591,0.338,1,0.05,1.38,0,1.0,0.0219,0,882,Near-Prime,20000
+MERCH_0490,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Varanasi,3,13,28,78,77.86,16.7,170046,0.719,0.33,1,0.05,1.04,0,1.0,0.0003,0,890,Prime,50000
+MERCH_0491,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Mumbai,1,42,26,59,122.75,74.98,188298,0.552,0.4,1,0.2,1.06,0,1.0,0.0001,0,888,Prime,50000
+MERCH_0492,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Jaipur,2,27,24,90,146.89,70.12,317282,0.763,0.184,1,0.26,0.9,0,1.0,0.0,0,890,Prime,50000
+MERCH_0493,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Jaipur,2,1,24,80,188.4,37.28,361728,0.485,0.423,1,0.05,1.34,0,1.0,0.0,0,887,Near-Prime,20000
+MERCH_0494,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Ahmedabad,2,10,20,79,186.42,72.07,294543,0.534,0.307,1,1.48,1.31,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0495,Sharma Fast Food & Chaat,Sharma Singh,street_food,Lucknow,2,9,23,64,115.29,47.52,169706,0.355,0.341,1,0.08,0.94,0,1.0,0.001,0,890,Near-Prime,20000
+MERCH_0496,Raju City Transport,Raju Kumar,auto_rickshaw,Delhi NCR,1,34,25,41,44.88,22.61,46002,0.586,0.3,1,0.95,1.31,0,1.0,0.0108,0,890,Prime,50000
+MERCH_0497,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Jaipur,2,4,20,95,145.25,67.67,275975,0.629,0.112,1,0.43,1.26,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0498,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Lucknow,2,20,22,107,61.04,20.44,143688,0.843,0.269,1,0.09,1.23,1,0.87,0.0017,0,890,Prime,50000
+MERCH_0499,Apna Provision & Kirana,Apna Singh,kirana_store,Varanasi,3,67,19,60,226.45,43.37,258153,0.757,0.168,1,0.55,1.27,2,0.88,0.0,0,890,Prime,50000
+MERCH_0500,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Delhi NCR,1,23,22,97,28.37,11.77,60541,0.85,0.276,1,1.21,1.18,1,0.72,0.0136,0,890,Prime,50000
+MERCH_0501,Sharma Fast Food & Chaat,Sharma Singh,street_food,Mumbai,1,9,25,111,69.34,34.79,192418,0.459,0.303,1,0.29,1.39,0,1.0,0.0003,0,890,Near-Prime,20000
+MERCH_0502,Raju City Transport,Raju Kumar,auto_rickshaw,Indore,2,13,21,40,46.07,15.78,38698,0.778,0.245,1,0.38,1.0,1,0.8,0.0583,0,864,Prime,50000
+MERCH_0503,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Lucknow,2,30,24,87,175.94,51.74,367362,0.442,0.249,1,0.59,1.01,0,1.0,0.0,0,890,Prime,50000
+MERCH_0504,Raju City Transport,Raju Kumar,auto_rickshaw,Patna,2,7,28,26,39.5,12.18,28756,0.283,0.274,1,2.21,1.01,0,1.0,0.1118,0,841,Near-Prime,20000
+MERCH_0505,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Delhi NCR,1,19,22,60,206.98,47.36,273213,0.85,0.439,1,0.66,0.97,0,1.0,0.0,0,890,Prime,50000
+MERCH_0506,Raju City Transport,Raju Singh,auto_rickshaw,Patna,2,36,21,28,87.86,37.4,51661,0.507,0.293,1,1.28,1.16,0,1.0,0.0154,0,889,Prime,50000
+MERCH_0507,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Varanasi,3,1,30,44,62.04,14.04,81892,0.85,0.209,1,0.19,1.16,0,1.0,0.006,0,890,Near-Prime,20000
+MERCH_0508,Pravin City Transport,Pravin Kumar,auto_rickshaw,Varanasi,3,5,23,30,70.66,38.63,48755,0.238,0.229,1,0.06,1.16,0,1.0,0.0326,0,887,Near-Prime,20000
+MERCH_0509,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Delhi NCR,1,13,25,108,57.08,9.32,154116,0.263,0.111,1,0.47,0.76,1,0.94,0.0014,0,890,Prime,50000
+MERCH_0510,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Patna,2,17,26,79,35.97,20.3,73882,0.371,0.258,1,0.43,1.11,1,0.97,0.0243,0,890,Prime,50000
+MERCH_0511,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Indore,2,36,27,72,77.23,38.47,150135,0.687,0.308,1,0.11,1.38,0,1.0,0.0004,0,890,Prime,50000
+MERCH_0512,Raju City Transport,Raju Singh,auto_rickshaw,Varanasi,3,24,29,41,78.76,28.82,93645,0.361,0.497,1,1.38,1.14,0,1.0,0.0184,0,890,Prime,50000
+MERCH_0513,Anand Fast Food & Chaat,Anand Singh,street_food,Lucknow,2,3,27,75,120.46,20.05,243931,0.509,0.376,1,1.53,1.13,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0514,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Ahmedabad,2,5,20,47,223.98,51.35,210541,0.504,0.511,1,0.47,1.3,0,1.0,0.0007,0,890,Near-Prime,20000
+MERCH_0515,Irfan City Transport,Irfan Singh,auto_rickshaw,Patna,2,17,16,19,79.84,27.47,24271,0.69,0.146,1,0.58,0.87,1,0.86,0.0313,0,890,Prime,50000
+MERCH_0516,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Varanasi,3,16,25,71,157.96,79.3,280379,0.302,0.32,1,0.62,1.07,1,0.98,0.0,0,885,Prime,50000
+MERCH_0517,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Lucknow,2,1,24,68,214.79,113.91,350537,0.774,0.235,1,3.41,0.97,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0518,Mishra Chai & Snacks,Mishra Singh,chai_stall,Varanasi,3,2,26,47,29.86,14.04,36488,0.705,0.24,1,0.43,0.88,0,1.0,0.0363,0,869,Near-Prime,20000
+MERCH_0519,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Ahmedabad,2,35,30,89,78.42,38.17,209381,0.72,0.365,1,0.38,1.42,2,0.7,0.0001,0,890,Prime,50000
+MERCH_0520,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Lucknow,2,5,28,16,67.48,25.09,30231,0.393,0.404,1,0.84,1.21,0,1.0,0.1086,0,855,Near-Prime,20000
+MERCH_0521,Suresh City Transport,Suresh Singh,auto_rickshaw,Varanasi,3,48,24,39,88.69,17.36,83013,0.334,0.309,1,2.23,0.88,0,1.0,0.0113,0,890,Prime,50000
+MERCH_0522,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Ahmedabad,2,68,25,49,40.68,14.74,49833,0.381,0.236,1,0.73,1.39,2,0.9,0.0062,0,890,Prime,50000
+MERCH_0523,Suresh City Transport,Suresh Singh,auto_rickshaw,Delhi NCR,1,5,29,53,61.29,23.05,94202,0.451,0.314,1,1.22,1.23,0,1.0,0.0116,0,890,Near-Prime,20000
+MERCH_0524,Raju City Transport,Raju Singh,auto_rickshaw,Patna,2,18,30,34,29.64,6.47,30232,0.492,0.31,1,0.9,1.31,0,1.0,0.0312,0,890,Prime,50000
+MERCH_0525,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Patna,2,12,30,73,56.5,19.44,123735,0.713,0.264,1,0.72,1.29,1,0.78,0.0029,0,890,Prime,50000
+MERCH_0526,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Varanasi,3,14,18,32,26.7,7.83,15379,0.517,0.382,1,0.05,0.94,0,1.0,0.1048,0,850,Prime,50000
+MERCH_0527,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Varanasi,3,4,26,32,15.0,8.8,12480,0.38,0.32,0,1.9,1.27,0,1.0,0.416,1,658,Near-Prime,20000
+MERCH_0528,Apna Provision & Kirana,Apna Kumar,kirana_store,Jaipur,2,14,16,60,516.91,185.66,496233,0.618,0.324,1,0.42,1.23,2,0.98,0.0,0,890,Prime,50000
+MERCH_0529,Irfan City Transport,Irfan Singh,auto_rickshaw,Indore,2,54,23,47,65.23,10.45,70513,0.266,0.454,1,0.2,0.77,1,0.83,0.0124,0,884,Prime,50000
+MERCH_0530,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Mumbai,1,10,30,92,196.52,56.54,542395,0.85,0.521,1,0.08,1.25,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0531,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Mumbai,1,9,22,129,19.72,6.62,55965,0.85,0.299,1,0.42,0.77,0,1.0,0.0218,0,890,Near-Prime,20000
+MERCH_0532,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Mumbai,1,12,30,164,24.73,6.83,121671,0.844,0.319,1,0.32,0.85,1,0.66,0.0019,0,890,Prime,50000
+MERCH_0533,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Lucknow,2,16,26,55,24.63,7.58,35220,0.587,0.17,1,0.05,1.11,0,1.0,0.0231,0,879,Prime,50000
+MERCH_0534,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Indore,2,16,25,73,330.12,202.68,602469,0.629,0.229,1,0.56,1.27,2,0.83,0.0,0,890,Prime,50000
+MERCH_0535,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Mumbai,1,10,20,116,132.98,78.68,308513,0.284,0.439,1,1.03,1.03,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0536,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Delhi NCR,1,4,19,61,149.59,41.29,173374,0.449,0.315,1,0.07,0.81,0,1.0,0.0019,0,890,Near-Prime,20000
+MERCH_0537,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Jaipur,2,9,30,35,48.1,19.64,50505,0.404,0.348,1,0.18,0.93,0,1.0,0.0202,0,890,Near-Prime,20000
+MERCH_0538,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Mumbai,1,3,22,75,88.53,14.15,146074,0.249,0.327,1,1.3,1.3,0,1.0,0.0057,0,890,Near-Prime,20000
+MERCH_0539,Apna Provision & Kirana,Apna Kumar,kirana_store,Jaipur,2,3,21,41,154.07,65.96,132654,0.665,0.408,1,0.33,0.85,0,1.0,0.0025,0,890,Near-Prime,20000
+MERCH_0540,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Varanasi,3,35,29,32,77.64,30.89,72049,0.781,0.244,1,0.05,0.85,0,1.0,0.0023,0,890,Prime,50000
+MERCH_0541,Bombay Fast Food & Chaat,Bombay Singh,street_food,Patna,2,9,30,72,57.25,12.21,123660,0.757,0.286,1,1.17,0.78,0,1.0,0.004,0,890,Near-Prime,20000
+MERCH_0542,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Mumbai,1,2,23,38,42.12,20.1,36812,0.85,0.45,1,0.34,0.81,0,1.0,0.0656,0,862,Near-Prime,20000
+MERCH_0543,Deepak City Transport,Deepak Kumar,auto_rickshaw,Patna,2,7,19,16,49.75,16.0,15124,0.815,0.32,1,0.7,1.39,0,1.0,0.0602,0,868,Near-Prime,20000
+MERCH_0544,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Jaipur,2,1,29,57,268.59,42.85,443979,0.504,0.384,1,0.05,1.39,0,1.0,0.0,0,887,Near-Prime,20000
+MERCH_0545,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Delhi NCR,1,21,24,50,215.51,55.42,258612,0.698,0.356,1,0.76,0.76,1,0.69,0.0,0,888,Prime,50000
+MERCH_0546,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Lucknow,2,7,23,42,133.21,58.95,128680,0.507,0.313,1,0.94,1.26,0,1.0,0.0029,0,888,Near-Prime,20000
+MERCH_0547,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Indore,2,1,29,114,28.34,18.14,93692,0.543,0.23,1,2.3,1.01,0,1.0,0.0198,0,890,Near-Prime,20000
+MERCH_0548,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Lucknow,2,43,27,53,95.12,44.61,136116,0.686,0.324,1,1.2,1.36,1,0.86,0.0038,0,885,Prime,50000
+MERCH_0549,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Indore,2,17,23,59,420.85,97.68,571093,0.751,0.35,1,0.15,1.22,1,0.81,0.0,0,890,Prime,50000
+MERCH_0550,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Indore,2,11,21,59,44.28,27.22,54862,0.723,0.375,1,0.26,1.33,0,1.0,0.0119,0,890,Near-Prime,20000
+MERCH_0551,Irfan City Transport,Irfan Singh,auto_rickshaw,Mumbai,1,1,17,51,101.67,58.54,88147,0.448,0.401,1,0.48,0.76,0,1.0,0.052,0,866,Near-Prime,20000
+MERCH_0552,Pravin City Transport,Pravin Kumar,auto_rickshaw,Varanasi,3,16,27,34,123.7,22.68,113556,0.746,0.513,1,0.32,1.25,2,0.52,0.0062,0,883,Prime,50000
+MERCH_0553,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Ahmedabad,2,18,23,68,82.59,51.31,129170,0.85,0.384,1,0.33,1.08,1,0.87,0.0027,0,890,Prime,50000
+MERCH_0554,Sharma Fast Food & Chaat,Sharma Singh,street_food,Patna,2,10,19,98,117.9,47.05,219529,0.462,0.151,1,0.05,0.93,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0555,Bombay Fast Food & Chaat,Bombay Singh,street_food,Delhi NCR,1,36,28,53,84.78,34.66,125813,0.85,0.21,1,0.36,1.33,0,1.0,0.0011,0,890,Prime,50000
+MERCH_0556,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Mumbai,1,2,23,62,66.05,16.9,94187,0.656,0.263,1,0.4,1.15,0,1.0,0.0066,0,890,Near-Prime,20000
+MERCH_0557,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Ahmedabad,2,55,30,85,71.87,22.1,183268,0.695,0.237,1,2.05,1.35,0,1.0,0.0002,0,890,Prime,50000
+MERCH_0558,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Jaipur,2,12,30,29,199.95,80.48,173956,0.549,0.484,1,1.23,1.28,1,0.9,0.0011,0,887,Prime,50000
+MERCH_0559,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Indore,2,7,21,105,80.22,51.34,176885,0.636,0.559,1,0.54,1.24,0,1.0,0.0024,0,890,Near-Prime,20000
+MERCH_0560,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Lucknow,2,6,25,119,16.42,8.97,48849,0.823,0.358,1,0.2,1.25,0,1.0,0.0167,0,877,Near-Prime,20000
+MERCH_0561,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Delhi NCR,1,51,30,109,54.33,21.07,177659,0.271,0.269,1,0.4,1.42,0,1.0,0.0005,0,890,Prime,50000
+MERCH_0562,Apna Provision & Kirana,Apna Singh,kirana_store,Indore,2,22,19,57,429.68,122.15,465343,0.417,0.604,1,0.42,0.89,0,1.0,0.0,0,890,Prime,50000
+MERCH_0563,Suresh City Transport,Suresh Singh,auto_rickshaw,Jaipur,2,58,30,35,32.02,11.32,33621,0.206,0.567,1,0.12,1.1,2,0.87,0.0304,0,874,Prime,50000
+MERCH_0564,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Mumbai,1,43,30,127,116.57,38.97,444131,0.504,0.403,1,0.05,0.8,1,0.91,0.0,0,890,Prime,50000
+MERCH_0565,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Patna,2,14,24,57,82.56,40.3,112942,0.415,0.432,1,2.46,1.32,1,0.69,0.0306,0,884,Prime,50000
+MERCH_0566,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Lucknow,2,48,30,61,86.7,42.78,158661,0.445,0.302,1,0.05,0.98,2,0.72,0.0013,0,890,Prime,50000
+MERCH_0567,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Ahmedabad,2,41,24,57,45.09,23.38,61683,0.463,0.28,1,0.05,0.82,1,0.93,0.0133,0,890,Prime,50000
+MERCH_0568,Anand Fast Food & Chaat,Anand Kumar,street_food,Indore,2,12,29,79,127.1,47.68,291186,0.655,0.221,1,1.18,0.98,2,0.74,0.0,0,890,Prime,50000
+MERCH_0569,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Ahmedabad,2,10,30,48,79.19,13.65,114033,0.74,0.266,1,0.3,1.12,0,1.0,0.0012,0,890,Near-Prime,20000
+MERCH_0570,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Varanasi,3,22,30,40,60.87,25.6,73044,0.67,0.377,1,0.76,1.32,2,0.89,0.0065,0,888,Prime,50000
+MERCH_0571,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Patna,2,13,27,60,107.65,42.79,174393,0.307,0.324,1,0.23,1.26,2,0.95,0.0006,0,890,Prime,50000
+MERCH_0572,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Delhi NCR,1,14,30,104,72.2,37.02,225264,0.65,0.229,1,0.33,1.32,2,0.92,0.0001,0,890,Prime,50000
+MERCH_0573,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Delhi NCR,1,8,27,36,110.46,46.48,107367,0.464,0.428,1,0.1,0.99,0,1.0,0.006,0,888,Near-Prime,20000
+MERCH_0574,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Patna,2,1,26,83,108.03,24.99,233128,0.517,0.163,1,0.27,1.1,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0575,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Varanasi,3,13,27,46,87.79,21.59,109035,0.515,0.193,1,1.67,0.96,1,0.55,0.011,0,888,Prime,50000
+MERCH_0576,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Jaipur,2,11,26,108,35.98,23.36,101031,0.789,0.318,1,0.54,0.77,0,1.0,0.0036,0,890,Near-Prime,20000
+MERCH_0577,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Varanasi,3,20,27,23,84.9,30.02,52722,0.741,0.339,1,0.14,1.22,2,0.81,0.0086,0,890,Prime,50000
+MERCH_0578,Bombay Fast Food & Chaat,Bombay Singh,street_food,Varanasi,3,13,27,85,91.2,38.72,209304,0.168,0.413,1,0.45,1.33,0,1.0,0.0005,0,886,Prime,50000
+MERCH_0579,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Mumbai,1,31,27,43,33.22,9.91,38568,0.564,0.385,1,0.22,1.02,2,0.84,0.0181,0,890,Prime,50000
+MERCH_0580,Sharma Fast Food & Chaat,Sharma Singh,street_food,Indore,2,10,20,57,103.93,25.41,118480,0.433,0.172,1,0.92,0.76,0,1.0,0.0076,0,887,Near-Prime,20000
+MERCH_0581,Anand Fast Food & Chaat,Anand Singh,street_food,Indore,2,23,30,78,90.96,30.02,212846,0.586,0.362,1,2.0,1.32,0,1.0,0.0003,0,890,Prime,50000
+MERCH_0582,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Lucknow,2,2,23,54,27.31,15.08,33919,0.497,0.288,1,0.56,0.78,0,1.0,0.0459,0,865,Near-Prime,20000
+MERCH_0583,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Delhi NCR,1,7,26,72,76.04,27.67,142346,0.811,0.298,1,0.5,0.81,0,1.0,0.0015,0,890,Near-Prime,20000
+MERCH_0584,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Lucknow,2,16,21,52,241.15,45.32,263335,0.85,0.376,1,1.02,1.12,0,1.0,0.0,0,890,Prime,50000
+MERCH_0585,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Indore,2,16,21,47,59.89,11.22,59111,0.701,0.298,1,1.49,1.04,0,1.0,0.0358,0,883,Prime,50000
+MERCH_0586,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Varanasi,3,10,30,66,124.3,30.25,246114,0.588,0.08,1,0.09,0.85,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0587,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Delhi NCR,1,55,22,92,205.85,97.29,416640,0.761,0.345,1,0.61,1.02,0,1.0,0.0,0,890,Prime,50000
+MERCH_0588,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Ahmedabad,2,7,28,89,152.22,53.44,379332,0.808,0.185,1,1.09,0.79,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0589,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Mumbai,1,14,21,74,73.52,24.1,114250,0.391,0.141,1,0.38,1.1,2,0.9,0.0021,0,890,Prime,50000
+MERCH_0590,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Lucknow,2,26,29,52,49.44,12.49,74555,0.842,0.418,1,0.09,1.44,1,0.8,0.0062,0,890,Prime,50000
+MERCH_0591,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Delhi NCR,1,1,19,87,168.9,57.97,279191,0.85,0.19,1,0.95,0.82,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0592,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Delhi NCR,1,19,21,45,43.03,16.86,40663,0.697,0.273,1,0.89,1.3,1,0.88,0.0293,0,881,Prime,50000
+MERCH_0593,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Ahmedabad,2,4,22,85,70.09,43.63,131068,0.799,0.217,1,0.05,0.96,0,1.0,0.0008,0,886,Near-Prime,20000
+MERCH_0594,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Mumbai,1,24,28,66,104.88,36.08,193818,0.336,0.101,1,0.06,1.11,1,0.99,0.0002,0,890,Prime,50000
+MERCH_0595,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Jaipur,2,10,30,56,58.92,20.12,98985,0.455,0.137,1,1.09,1.12,0,1.0,0.0059,0,890,Near-Prime,20000
+MERCH_0596,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Ahmedabad,2,29,22,116,50.03,16.16,127676,0.654,0.315,1,0.65,0.88,0,1.0,0.0015,0,890,Prime,50000
+MERCH_0597,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Lucknow,2,4,27,39,15.0,3.86,15795,0.558,0.536,1,1.07,0.85,0,1.0,0.1783,0,810,Near-Prime,20000
+MERCH_0598,Vikram City Transport,Vikram Kumar,auto_rickshaw,Mumbai,1,60,23,49,59.19,12.97,66707,0.358,0.301,1,0.74,1.23,0,1.0,0.0054,0,889,Prime,50000
+MERCH_0599,Bombay Fast Food & Chaat,Bombay Singh,street_food,Patna,2,20,28,57,133.97,22.51,213816,0.474,0.232,1,0.25,0.92,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0600,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Jaipur,2,86,26,39,108.7,50.77,110221,0.723,0.461,1,0.44,1.31,0,1.0,0.0019,0,887,Prime,50000
+MERCH_0601,Suresh City Transport,Suresh Singh,auto_rickshaw,Jaipur,2,95,16,50,36.67,12.2,29336,0.836,0.292,0,0.19,1.1,0,1.0,0.01,0,890,Prime,50000
+MERCH_0602,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Ahmedabad,2,1,25,57,103.49,63.43,147473,0.543,0.303,1,0.18,0.84,0,1.0,0.002,0,890,Near-Prime,20000
+MERCH_0603,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Jaipur,2,28,30,94,157.05,101.01,442881,0.423,0.416,1,0.49,1.01,0,1.0,0.0,0,890,Prime,50000
+MERCH_0604,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Varanasi,3,7,30,83,59.71,23.7,148677,0.341,0.113,1,0.87,1.04,0,1.0,0.0018,0,890,Near-Prime,20000
+MERCH_0605,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Delhi NCR,1,29,21,140,23.28,4.84,68443,0.738,0.586,1,2.89,0.79,0,1.0,0.0821,0,854,Prime,50000
+MERCH_0606,Raju City Transport,Raju Kumar,auto_rickshaw,Ahmedabad,2,15,24,48,68.03,21.5,78370,0.457,0.463,1,1.31,1.24,0,1.0,0.0276,0,882,Prime,50000
+MERCH_0607,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Jaipur,2,13,21,41,167.62,75.35,144320,0.822,0.083,1,2.2,0.79,2,0.89,0.0019,0,890,Prime,50000
+MERCH_0608,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Mumbai,1,6,23,85,152.49,78.5,298117,0.549,0.46,1,0.05,0.77,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0609,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Mumbai,1,14,23,77,161.63,92.53,286246,0.203,0.118,1,1.63,1.17,2,0.93,0.0001,0,890,Prime,50000
+MERCH_0610,Vikram City Transport,Vikram Singh,auto_rickshaw,Indore,2,137,22,31,144.8,85.03,98753,0.698,0.217,1,0.25,1.11,1,0.94,0.0001,0,890,Prime,50000
+MERCH_0611,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Mumbai,1,24,28,86,266.41,115.98,641515,0.442,0.678,1,1.01,0.83,1,0.79,0.0,0,890,Prime,50000
+MERCH_0612,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Patna,2,11,24,20,84.14,38.0,40387,0.685,0.177,1,0.05,1.32,0,1.0,0.0101,0,890,Near-Prime,20000
+MERCH_0613,Mishra Chai & Snacks,Mishra Singh,chai_stall,Indore,2,10,23,44,32.46,18.79,32849,0.618,0.389,1,0.37,0.98,0,1.0,0.0603,0,873,Near-Prime,20000
+MERCH_0614,Meena Pushp Bhandar,Meena Singh,flower_vendor,Indore,2,11,20,62,65.81,34.86,81604,0.54,0.279,1,0.05,0.92,0,1.0,0.0093,0,890,Near-Prime,20000
+MERCH_0615,Mishra Chai & Snacks,Mishra Singh,chai_stall,Delhi NCR,1,1,22,100,39.47,19.19,86834,0.626,0.409,1,1.79,0.95,0,1.0,0.0237,0,887,Near-Prime,20000
+MERCH_0616,Balaji Provision & Kirana,Balaji Singh,kirana_store,Lucknow,2,45,25,46,179.99,77.23,206988,0.473,0.299,1,1.87,1.04,0,1.0,0.0005,0,890,Prime,50000
+MERCH_0617,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Patna,2,13,14,56,37.15,11.46,29125,0.726,0.261,1,0.13,1.21,0,1.0,0.0571,0,868,Prime,50000
+MERCH_0618,Balaji Provision & Kirana,Balaji Singh,kirana_store,Jaipur,2,12,28,61,349.04,105.36,596160,0.764,0.482,1,0.85,1.1,0,1.0,0.0,0,890,Prime,50000
+MERCH_0619,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Delhi NCR,1,1,30,64,90.81,23.93,174355,0.577,0.192,1,1.41,1.02,0,1.0,0.0015,0,890,Near-Prime,20000
+MERCH_0620,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Mumbai,1,4,27,123,35.63,11.36,118327,0.341,0.209,1,0.24,0.78,0,1.0,0.0029,0,890,Near-Prime,20000
+MERCH_0621,Raju City Transport,Raju Singh,auto_rickshaw,Patna,2,21,21,31,47.23,24.9,30746,0.541,0.285,1,0.06,1.32,0,1.0,0.0507,0,859,Prime,50000
+MERCH_0622,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Jaipur,2,16,24,74,70.82,26.92,125776,0.74,0.316,1,2.07,1.03,2,0.75,0.0093,0,890,Prime,50000
+MERCH_0623,Balaji Provision & Kirana,Balaji Singh,kirana_store,Mumbai,1,35,28,65,159.66,28.19,290581,0.695,0.267,1,1.85,1.33,0,1.0,0.0,0,890,Prime,50000
+MERCH_0624,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Ahmedabad,2,11,28,57,46.21,9.83,73751,0.457,0.183,1,0.58,0.92,0,1.0,0.0102,0,881,Near-Prime,20000
+MERCH_0625,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Jaipur,2,3,30,43,172.98,66.64,223144,0.519,0.162,1,1.51,1.36,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0626,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Ahmedabad,2,17,24,93,40.59,24.95,90596,0.582,0.165,1,0.29,0.98,1,0.8,0.0041,0,890,Prime,50000
+MERCH_0627,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Varanasi,3,1,25,56,87.87,38.24,123018,0.454,0.473,1,0.62,0.81,0,1.0,0.0136,0,890,Near-Prime,20000
+MERCH_0628,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Mumbai,1,60,28,81,58.66,31.98,133040,0.624,0.31,1,1.29,1.16,2,0.81,0.0009,0,885,Prime,50000
+MERCH_0629,Deepak City Transport,Deepak Singh,auto_rickshaw,Delhi NCR,1,14,24,27,41.15,26.07,26665,0.362,0.302,0,0.71,1.1,1,0.79,0.0901,0,858,Prime,50000
+MERCH_0630,Raju City Transport,Raju Singh,auto_rickshaw,Lucknow,2,6,22,11,45.16,16.54,10928,0.459,0.204,1,0.42,1.01,0,1.0,0.041,0,884,Near-Prime,20000
+MERCH_0631,Deepak City Transport,Deepak Singh,auto_rickshaw,Varanasi,3,46,24,20,71.54,15.87,34339,0.494,0.563,1,1.66,1.0,1,0.96,0.0846,0,847,Prime,50000
+MERCH_0632,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Varanasi,3,67,27,48,201.96,84.03,261740,0.369,0.126,1,2.49,0.77,2,0.92,0.0,0,890,Prime,50000
+MERCH_0633,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Varanasi,3,12,26,47,35.92,17.85,43894,0.702,0.415,1,0.35,1.35,2,0.96,0.0299,0,890,Prime,50000
+MERCH_0634,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Lucknow,2,12,28,76,123.35,48.58,262488,0.669,0.23,1,1.23,1.01,2,0.75,0.0001,0,890,Prime,50000
+MERCH_0635,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Varanasi,3,56,29,69,58.01,26.29,116078,0.329,0.43,1,4.8,1.1,2,0.97,0.0407,0,884,Prime,50000
+MERCH_0636,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Ahmedabad,2,5,28,42,45.07,28.75,53002,0.455,0.585,1,0.56,1.09,0,1.0,0.0749,0,844,Near-Prime,20000
+MERCH_0637,Balaji Provision & Kirana,Balaji Singh,kirana_store,Lucknow,2,3,21,44,182.07,81.07,168232,0.422,0.263,1,0.22,0.95,0,1.0,0.0009,0,890,Near-Prime,20000
+MERCH_0638,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Ahmedabad,2,9,25,44,132.65,49.63,145915,0.225,0.431,1,0.09,1.34,0,1.0,0.0028,0,890,Near-Prime,20000
+MERCH_0639,Anand Fast Food & Chaat,Anand Kumar,street_food,Patna,2,2,25,57,128.75,42.69,183468,0.85,0.326,1,0.95,1.28,0,1.0,0.0007,0,888,Near-Prime,20000
+MERCH_0640,Raju City Transport,Raju Singh,auto_rickshaw,Patna,2,9,21,28,145.26,93.97,85412,0.378,0.322,1,0.56,1.12,0,1.0,0.0148,0,890,Near-Prime,20000
+MERCH_0641,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Ahmedabad,2,65,20,20,79.85,32.9,31939,0.454,0.367,1,1.0,1.05,2,0.87,0.0476,0,889,Prime,50000
+MERCH_0642,Irfan City Transport,Irfan Singh,auto_rickshaw,Delhi NCR,1,26,20,43,82.21,25.56,70700,0.568,0.615,1,0.28,0.77,2,0.79,0.0295,0,890,Prime,50000
+MERCH_0643,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Varanasi,3,10,30,57,94.09,40.27,160893,0.288,0.226,1,0.77,1.13,0,1.0,0.0017,0,890,Near-Prime,20000
+MERCH_0644,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Patna,2,13,29,51,58.09,21.27,85915,0.787,0.42,1,2.45,0.79,0,1.0,0.0309,0,890,Prime,50000
+MERCH_0645,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Mumbai,1,16,17,67,126.45,49.25,144026,0.28,0.402,1,1.89,1.04,0,1.0,0.0073,0,886,Prime,50000
+MERCH_0646,Irfan City Transport,Irfan Kumar,auto_rickshaw,Ahmedabad,2,10,23,51,30.77,13.59,36093,0.372,0.301,1,0.05,1.24,0,1.0,0.042,0,866,Near-Prime,20000
+MERCH_0647,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Lucknow,2,34,27,87,70.81,40.55,166332,0.619,0.289,1,3.0,1.38,2,0.89,0.0054,0,890,Prime,50000
+MERCH_0648,Irfan City Transport,Irfan Singh,auto_rickshaw,Varanasi,3,13,19,24,59.5,35.57,27132,0.482,0.139,1,1.57,1.24,0,1.0,0.0628,0,856,Prime,50000
+MERCH_0649,Deepak City Transport,Deepak Kumar,auto_rickshaw,Mumbai,1,14,21,45,37.28,9.48,35229,0.592,0.416,1,0.84,1.36,2,0.85,0.0754,0,851,Prime,50000
+MERCH_0650,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Varanasi,3,8,21,69,120.99,71.04,175314,0.586,0.417,1,2.62,1.21,0,1.0,0.0043,0,890,Near-Prime,20000
+MERCH_0651,Deepak City Transport,Deepak Singh,auto_rickshaw,Jaipur,2,32,19,35,187.89,97.93,124946,0.85,0.155,1,0.47,1.28,0,1.0,0.0006,0,890,Prime,50000
+MERCH_0652,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Jaipur,2,15,28,77,132.59,82.55,285864,0.45,0.482,1,0.47,1.15,1,0.35,0.0001,0,890,Prime,50000
+MERCH_0653,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Indore,2,1,28,57,69.69,16.78,111225,0.429,0.359,1,0.17,0.95,0,1.0,0.0077,0,890,Near-Prime,20000
+MERCH_0654,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Varanasi,3,5,24,69,68.0,20.33,112608,0.484,0.285,1,2.48,0.89,0,1.0,0.0184,0,876,Near-Prime,20000
+MERCH_0655,Bombay Fast Food & Chaat,Bombay Singh,street_food,Patna,2,38,30,68,56.94,21.16,116157,0.297,0.47,1,0.87,0.83,0,1.0,0.0026,0,890,Prime,50000
+MERCH_0656,Raju City Transport,Raju Kumar,auto_rickshaw,Delhi NCR,1,50,26,49,41.49,11.02,52858,0.688,0.23,1,0.16,1.19,2,0.65,0.0098,0,890,Prime,50000
+MERCH_0657,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Patna,2,8,27,68,18.89,4.68,34682,0.678,0.407,1,0.48,1.16,0,1.0,0.04,0,887,Near-Prime,20000
+MERCH_0658,Apna Provision & Kirana,Apna Singh,kirana_store,Mumbai,1,10,24,85,508.26,241.76,1036850,0.769,0.472,1,0.05,1.04,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0659,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Delhi NCR,1,21,27,82,145.23,47.46,321539,0.83,0.612,1,0.45,0.89,0,1.0,0.0,0,887,Prime,50000
+MERCH_0660,Vikram City Transport,Vikram Kumar,auto_rickshaw,Patna,2,28,21,40,65.13,32.79,54709,0.486,0.209,1,1.24,0.99,2,0.92,0.0243,0,872,Prime,50000
+MERCH_0661,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Mumbai,1,9,29,58,197.5,112.3,332195,0.518,0.259,1,1.2,1.17,0,1.0,0.0,0,887,Near-Prime,20000
+MERCH_0662,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Delhi NCR,1,2,27,61,70.01,30.71,115306,0.529,0.238,1,2.47,0.84,0,1.0,0.0121,0,888,Near-Prime,20000
+MERCH_0663,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Ahmedabad,2,21,23,47,26.86,5.66,29035,0.59,0.117,0,0.68,1.37,2,0.56,0.0835,0,866,Prime,50000
+MERCH_0664,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Delhi NCR,1,2,27,57,77.18,45.89,118780,0.218,0.374,1,0.99,0.84,0,1.0,0.0062,0,890,Near-Prime,20000
+MERCH_0665,Apna Provision & Kirana,Apna Kumar,kirana_store,Ahmedabad,2,30,27,59,162.68,65.6,259149,0.514,0.516,1,0.05,1.19,2,0.67,0.0002,0,890,Prime,50000
+MERCH_0666,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Lucknow,2,1,16,85,44.91,8.55,61077,0.85,0.308,1,1.37,0.81,0,1.0,0.0323,0,880,Near-Prime,20000
+MERCH_0667,Vikram City Transport,Vikram Kumar,auto_rickshaw,Mumbai,1,34,30,27,55.22,16.91,44728,0.359,0.37,1,0.75,1.04,1,0.83,0.0406,0,876,Prime,50000
+MERCH_0668,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Lucknow,2,35,24,77,47.87,13.76,88463,0.455,0.225,1,1.44,1.04,0,1.0,0.0105,0,883,Prime,50000
+MERCH_0669,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Delhi NCR,1,15,20,68,104.06,25.6,141521,0.725,0.297,1,0.3,0.97,0,1.0,0.0021,0,886,Prime,50000
+MERCH_0670,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Mumbai,1,1,20,84,119.42,22.74,200625,0.829,0.35,1,0.53,1.0,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0671,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Lucknow,2,39,23,70,187.88,46.46,302486,0.525,0.421,1,2.22,1.27,1,0.99,0.0,0,890,Prime,50000
+MERCH_0672,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Jaipur,2,6,28,71,366.17,167.46,727945,0.408,0.345,1,0.24,1.14,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0673,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Varanasi,3,13,26,36,105.23,65.7,98495,0.508,0.413,1,0.58,1.22,0,1.0,0.0114,0,890,Prime,50000
+MERCH_0674,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Indore,2,9,25,66,127.76,21.85,210804,0.448,0.308,1,1.42,0.76,0,1.0,0.0003,0,890,Near-Prime,20000
+MERCH_0675,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Jaipur,2,5,28,92,95.18,26.39,245183,0.592,0.494,1,2.06,1.25,0,1.0,0.0006,0,890,Near-Prime,20000
+MERCH_0676,Suresh City Transport,Suresh Singh,auto_rickshaw,Mumbai,1,1,21,29,32.85,7.67,20005,0.627,0.397,1,0.15,1.25,0,1.0,0.0932,0,842,Near-Prime,20000
+MERCH_0677,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Patna,2,25,25,20,60.23,36.49,30115,0.619,0.301,1,0.42,0.94,1,0.9,0.0581,0,881,Prime,50000
+MERCH_0678,Deepak City Transport,Deepak Singh,auto_rickshaw,Delhi NCR,1,22,19,50,59.61,25.63,56629,0.845,0.308,1,0.51,0.97,0,1.0,0.0116,0,880,Prime,50000
+MERCH_0679,Deepak City Transport,Deepak Singh,auto_rickshaw,Ahmedabad,2,21,27,44,74.3,24.6,88268,0.612,0.293,1,0.28,1.21,1,0.72,0.0107,0,890,Prime,50000
+MERCH_0680,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Patna,2,47,25,73,236.88,87.56,432306,0.377,0.279,1,0.48,1.35,1,0.97,0.0,0,890,Prime,50000
+MERCH_0681,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Delhi NCR,1,14,23,76,101.43,65.22,177299,0.704,0.563,1,1.59,1.35,1,0.9,0.0019,0,890,Prime,50000
+MERCH_0682,Pravin City Transport,Pravin Kumar,auto_rickshaw,Lucknow,2,51,28,38,43.14,20.97,45900,0.66,0.368,1,0.05,0.9,1,0.71,0.0124,0,890,Prime,50000
+MERCH_0683,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Jaipur,2,50,30,60,50.78,8.4,91404,0.475,0.173,1,0.82,1.18,0,1.0,0.0033,0,890,Prime,50000
+MERCH_0684,Sharma Fast Food & Chaat,Sharma Singh,street_food,Patna,2,2,27,44,77.22,43.83,91737,0.396,0.318,1,0.39,1.17,0,1.0,0.0135,0,890,Near-Prime,20000
+MERCH_0685,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Indore,2,44,25,64,120.02,19.49,192032,0.486,0.269,1,0.88,1.05,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0686,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Mumbai,1,10,24,85,97.8,34.89,199512,0.553,0.336,1,0.46,1.31,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0687,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Ahmedabad,2,17,25,47,28.95,12.0,34016,0.421,0.311,1,0.44,0.88,2,0.99,0.04,0,881,Prime,50000
+MERCH_0688,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Mumbai,1,34,30,62,57.26,9.3,106503,0.609,0.384,1,0.29,1.18,0,1.0,0.0046,0,890,Prime,50000
+MERCH_0689,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Varanasi,3,40,23,44,115.49,71.18,116875,0.558,0.192,1,0.74,1.32,0,1.0,0.001,0,890,Prime,50000
+MERCH_0690,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Jaipur,2,25,21,48,109.76,68.45,110638,0.387,0.259,1,0.31,1.14,0,1.0,0.0038,0,887,Prime,50000
+MERCH_0691,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Lucknow,2,2,23,41,155.19,56.87,146344,0.806,0.372,1,0.06,0.83,0,1.0,0.0009,0,890,Near-Prime,20000
+MERCH_0692,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Indore,2,12,27,64,80.81,26.51,139639,0.633,0.541,1,0.05,1.41,1,0.92,0.0033,0,890,Prime,50000
+MERCH_0693,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Indore,2,6,26,60,62.39,14.66,97328,0.397,0.429,1,2.34,0.85,0,1.0,0.0454,0,879,Near-Prime,20000
+MERCH_0694,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Lucknow,2,8,24,85,142.06,30.78,289802,0.447,0.241,1,0.22,1.26,0,1.0,0.0,0,889,Near-Prime,20000
+MERCH_0695,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Lucknow,2,9,27,74,48.36,18.14,96623,0.799,0.298,1,0.44,1.28,0,1.0,0.0075,0,890,Near-Prime,20000
+MERCH_0696,Raju City Transport,Raju Singh,auto_rickshaw,Delhi NCR,1,5,28,35,64.36,35.96,63072,0.561,0.46,1,1.24,0.93,0,1.0,0.0835,0,870,Near-Prime,20000
+MERCH_0697,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Patna,2,25,20,115,22.03,8.29,50669,0.439,0.287,1,0.17,1.16,1,0.66,0.0183,0,890,Prime,50000
+MERCH_0698,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Lucknow,2,46,22,72,169.73,70.46,268852,0.316,0.268,1,0.08,1.22,2,0.98,0.0,0,890,Prime,50000
+MERCH_0699,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Varanasi,3,69,30,36,23.44,14.42,25315,0.353,0.225,1,1.43,1.38,0,1.0,0.0069,0,886,Prime,50000
+MERCH_0700,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Delhi NCR,1,9,26,85,34.02,21.87,75184,0.811,0.237,1,1.63,0.92,0,1.0,0.0139,0,890,Near-Prime,20000
+MERCH_0701,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Lucknow,2,7,22,50,223.33,48.4,245663,0.341,0.53,1,0.16,1.18,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0702,Deepak City Transport,Deepak Singh,auto_rickshaw,Delhi NCR,1,23,28,36,34.31,14.71,34584,0.773,0.181,1,0.41,1.28,1,0.9,0.0154,0,890,Prime,50000
+MERCH_0703,Raju City Transport,Raju Singh,auto_rickshaw,Delhi NCR,1,14,30,40,51.59,14.72,61908,0.517,0.265,1,0.33,0.78,0,1.0,0.0083,0,882,Prime,50000
+MERCH_0704,Meena Pushp Bhandar,Meena Singh,flower_vendor,Indore,2,16,23,59,67.04,22.65,90973,0.63,0.374,1,0.05,0.9,2,0.94,0.0075,0,890,Prime,50000
+MERCH_0705,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Mumbai,1,21,29,71,43.93,26.5,90451,0.79,0.342,1,0.53,1.07,0,1.0,0.0037,0,890,Prime,50000
+MERCH_0706,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Ahmedabad,2,9,27,100,44.59,10.71,120393,0.505,0.439,1,0.67,1.35,0,1.0,0.0056,0,888,Near-Prime,20000
+MERCH_0707,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Delhi NCR,1,33,25,75,28.3,16.55,53062,0.755,0.207,1,1.12,0.94,0,1.0,0.0105,0,886,Prime,50000
+MERCH_0708,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Varanasi,3,10,24,31,40.68,19.27,30265,0.493,0.389,1,0.23,1.38,0,1.0,0.0857,0,858,Near-Prime,20000
+MERCH_0709,Vikram City Transport,Vikram Singh,auto_rickshaw,Ahmedabad,2,19,30,31,62.4,33.83,58032,0.295,0.404,1,1.28,1.11,0,1.0,0.0414,0,871,Prime,50000
+MERCH_0710,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Indore,2,2,27,28,77.79,48.62,58809,0.361,0.256,1,0.15,0.77,0,1.0,0.0319,0,883,Near-Prime,20000
+MERCH_0711,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Varanasi,3,4,24,52,116.87,71.16,145853,0.764,0.08,1,0.43,1.4,0,1.0,0.0006,0,890,Near-Prime,20000
+MERCH_0712,Raju City Transport,Raju Kumar,auto_rickshaw,Varanasi,3,43,27,33,43.42,19.84,38687,0.422,0.52,1,0.25,0.82,1,0.87,0.0397,0,887,Prime,50000
+MERCH_0713,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Jaipur,2,8,22,66,148.78,96.61,216028,0.487,0.268,1,0.79,1.31,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0714,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Varanasi,3,15,29,54,315.49,50.66,494057,0.518,0.433,1,0.61,0.9,0,1.0,0.0,0,890,Prime,50000
+MERCH_0715,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Delhi NCR,1,3,25,31,37.86,19.48,29341,0.77,0.428,1,1.18,1.4,0,1.0,0.063,0,870,Near-Prime,20000
+MERCH_0716,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Mumbai,1,11,20,54,219.02,70.7,236541,0.448,0.119,1,0.1,1.23,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0717,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Indore,2,9,23,100,28.94,8.0,66562,0.535,0.531,1,0.42,0.88,0,1.0,0.0743,0,867,Near-Prime,20000
+MERCH_0718,Suresh City Transport,Suresh Singh,auto_rickshaw,Delhi NCR,1,24,21,48,58.89,22.06,59361,0.154,0.473,1,0.28,0.98,0,1.0,0.0256,0,890,Prime,50000
+MERCH_0719,Suresh City Transport,Suresh Kumar,auto_rickshaw,Ahmedabad,2,75,22,32,76.21,11.64,53651,0.742,0.263,1,0.57,1.32,1,0.79,0.0071,0,890,Prime,50000
+MERCH_0720,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Delhi NCR,1,2,18,85,262.1,72.99,401013,0.563,0.235,1,0.29,0.84,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0721,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Ahmedabad,2,20,25,113,17.25,8.75,48731,0.521,0.121,1,0.82,1.32,1,0.84,0.0196,0,890,Prime,50000
+MERCH_0722,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Mumbai,1,11,23,42,41.53,13.98,40117,0.493,0.271,1,0.58,1.15,0,1.0,0.0529,0,873,Near-Prime,20000
+MERCH_0723,Vikram City Transport,Vikram Singh,auto_rickshaw,Varanasi,3,6,21,32,82.86,30.51,55681,0.574,0.313,1,1.29,1.29,0,1.0,0.0374,0,884,Near-Prime,20000
+MERCH_0724,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Jaipur,2,45,21,65,209.81,41.26,286390,0.628,0.301,1,0.89,1.44,1,0.71,0.0,0,890,Prime,50000
+MERCH_0725,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Ahmedabad,2,2,30,45,42.45,23.18,57307,0.588,0.325,1,0.79,1.44,0,1.0,0.0246,0,890,Near-Prime,20000
+MERCH_0726,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Ahmedabad,2,9,29,50,79.09,36.97,114680,0.85,0.314,1,0.05,1.25,0,1.0,0.0014,0,890,Near-Prime,20000
+MERCH_0727,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Varanasi,3,6,23,18,195.63,95.34,80990,0.258,0.358,1,0.1,0.8,0,1.0,0.0266,0,890,Near-Prime,20000
+MERCH_0728,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Jaipur,2,66,21,136,52.78,28.5,150739,0.701,0.316,1,0.74,0.89,1,0.84,0.0005,0,890,Prime,50000
+MERCH_0729,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Patna,2,4,23,49,102.94,19.43,116013,0.709,0.219,1,0.53,0.81,0,1.0,0.0027,0,890,Near-Prime,20000
+MERCH_0730,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Ahmedabad,2,2,27,89,21.45,9.11,51544,0.437,0.29,1,1.5,1.22,0,1.0,0.0613,0,875,Near-Prime,20000
+MERCH_0731,Anand Fast Food & Chaat,Anand Singh,street_food,Mumbai,1,44,27,78,70.45,29.88,148367,0.71,0.276,1,0.31,1.02,0,1.0,0.0004,0,890,Prime,50000
+MERCH_0732,Suresh City Transport,Suresh Singh,auto_rickshaw,Ahmedabad,2,17,25,35,90.48,34.74,79170,0.717,0.33,1,0.71,0.94,2,0.94,0.0113,0,890,Prime,50000
+MERCH_0733,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Patna,2,6,24,47,131.56,35.67,148399,0.397,0.302,1,3.1,1.42,0,1.0,0.016,0,884,Near-Prime,20000
+MERCH_0734,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Patna,2,7,27,36,212.93,122.96,206967,0.499,0.097,1,0.56,0.99,0,1.0,0.0001,0,888,Near-Prime,20000
+MERCH_0735,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Jaipur,2,25,29,96,18.67,10.75,51977,0.537,0.171,1,1.49,1.07,2,0.81,0.0207,0,885,Prime,50000
+MERCH_0736,Pravin City Transport,Pravin Singh,auto_rickshaw,Varanasi,3,5,26,41,38.16,20.17,40678,0.372,0.341,1,2.43,1.31,0,1.0,0.1176,0,839,Near-Prime,20000
+MERCH_0737,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Jaipur,2,15,27,82,43.04,27.49,95290,0.534,0.083,1,0.13,1.42,0,1.0,0.0035,0,890,Prime,50000
+MERCH_0738,Irfan City Transport,Irfan Singh,auto_rickshaw,Lucknow,2,3,24,29,66.1,35.17,46005,0.623,0.296,1,0.79,1.15,0,1.0,0.033,0,890,Near-Prime,20000
+MERCH_0739,Deepak City Transport,Deepak Kumar,auto_rickshaw,Delhi NCR,1,17,18,45,51.86,29.8,42006,0.599,0.266,1,1.09,1.21,2,0.87,0.0721,0,849,Prime,50000
+MERCH_0740,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Jaipur,2,25,23,35,25.09,6.1,20197,0.702,0.489,1,1.24,1.28,0,1.0,0.0948,0,851,Prime,50000
+MERCH_0741,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Varanasi,3,7,30,53,32.52,20.96,51706,0.341,0.232,1,0.26,0.83,0,1.0,0.0205,0,890,Near-Prime,20000
+MERCH_0742,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Patna,2,25,21,53,98.71,56.87,109864,0.621,0.579,1,0.05,0.76,0,1.0,0.0052,0,890,Prime,50000
+MERCH_0743,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Patna,2,2,23,26,139.72,68.0,83552,0.602,0.234,1,0.38,1.19,0,1.0,0.005,0,890,Near-Prime,20000
+MERCH_0744,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Ahmedabad,2,7,26,72,249.85,131.57,467719,0.188,0.47,1,0.05,1.17,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0745,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Patna,2,11,23,32,52.55,18.75,38676,0.557,0.447,1,0.57,1.05,0,1.0,0.0371,0,882,Near-Prime,20000
+MERCH_0746,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Indore,2,51,26,29,302.45,113.37,228047,0.459,0.443,1,0.11,1.28,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0747,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Lucknow,2,1,17,115,44.28,17.91,86567,0.85,0.254,1,0.06,0.89,0,1.0,0.0056,0,890,Near-Prime,20000
+MERCH_0748,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Varanasi,3,11,24,59,39.16,16.65,55450,0.508,0.328,1,0.19,1.08,0,1.0,0.0205,0,890,Near-Prime,20000
+MERCH_0749,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Indore,2,86,27,123,45.89,24.69,152400,0.707,0.482,1,1.39,1.44,2,0.95,0.0005,0,890,Prime,50000
+MERCH_0750,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Mumbai,1,8,24,50,34.54,21.14,41448,0.585,0.367,1,0.4,1.27,0,1.0,0.0771,0,854,Near-Prime,20000
+MERCH_0751,Vikram City Transport,Vikram Kumar,auto_rickshaw,Ahmedabad,2,8,28,39,64.82,16.66,70783,0.431,0.264,1,0.05,1.05,0,1.0,0.0106,0,890,Near-Prime,20000
+MERCH_0752,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Patna,2,9,24,44,60.7,24.01,64099,0.575,0.224,1,0.71,0.99,0,1.0,0.0219,0,878,Near-Prime,20000
+MERCH_0753,Bombay Fast Food & Chaat,Bombay Singh,street_food,Varanasi,3,5,25,80,90.24,21.31,180480,0.476,0.456,1,0.19,1.04,0,1.0,0.0006,0,890,Near-Prime,20000
+MERCH_0754,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Mumbai,1,3,26,67,244.0,61.12,425048,0.477,0.349,1,0.17,1.18,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0755,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Lucknow,2,2,26,61,69.23,37.84,109798,0.762,0.27,1,1.34,0.86,0,1.0,0.0126,0,890,Near-Prime,20000
+MERCH_0756,Irfan City Transport,Irfan Kumar,auto_rickshaw,Indore,2,28,28,39,46.93,19.64,51247,0.333,0.398,1,0.5,1.29,0,1.0,0.0469,0,880,Prime,50000
+MERCH_0757,Anand Fast Food & Chaat,Anand Singh,street_food,Ahmedabad,2,1,19,60,102.97,58.21,117385,0.53,0.123,1,0.27,1.39,0,1.0,0.0018,0,890,Near-Prime,20000
+MERCH_0758,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Jaipur,2,25,25,71,130.72,40.06,232028,0.546,0.284,1,2.55,0.93,0,1.0,0.0005,0,890,Prime,50000
+MERCH_0759,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Ahmedabad,2,20,25,53,52.71,17.4,69840,0.579,0.175,1,1.09,1.12,0,1.0,0.0058,0,890,Prime,50000
+MERCH_0760,Balaji Provision & Kirana,Balaji Singh,kirana_store,Delhi NCR,1,119,22,61,253.73,161.38,340505,0.743,0.314,1,0.13,1.08,1,0.9,0.0,0,890,Prime,50000
+MERCH_0761,Irfan City Transport,Irfan Singh,auto_rickshaw,Lucknow,2,5,18,37,64.42,20.35,42903,0.56,0.259,1,1.96,0.91,0,1.0,0.1007,0,839,Near-Prime,20000
+MERCH_0762,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Patna,2,21,25,71,103.44,55.95,183606,0.54,0.117,1,0.15,1.28,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0763,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Delhi NCR,1,83,22,95,88.01,19.22,183940,0.288,0.416,1,0.28,0.98,0,1.0,0.0001,0,890,Prime,50000
+MERCH_0764,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Ahmedabad,2,4,30,36,161.02,31.26,173901,0.576,0.221,1,0.4,0.79,0,1.0,0.0006,0,890,Near-Prime,20000
+MERCH_0765,Deepak City Transport,Deepak Singh,auto_rickshaw,Lucknow,2,4,27,38,50.79,11.03,52110,0.241,0.35,1,1.31,0.76,0,1.0,0.1035,0,849,Near-Prime,20000
+MERCH_0766,Deepak City Transport,Deepak Singh,auto_rickshaw,Indore,2,8,20,30,90.31,58.23,54186,0.771,0.358,1,0.44,1.17,0,1.0,0.0238,0,890,Near-Prime,20000
+MERCH_0767,Anand Fast Food & Chaat,Anand Kumar,street_food,Jaipur,2,1,26,100,82.14,36.62,213564,0.652,0.258,1,0.05,0.97,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0768,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Indore,2,19,20,58,127.19,24.75,147540,0.683,0.267,1,0.74,1.23,1,0.86,0.0023,0,890,Prime,50000
+MERCH_0769,Anand Fast Food & Chaat,Anand Kumar,street_food,Jaipur,2,6,29,113,197.37,92.51,646781,0.433,0.372,1,0.91,1.38,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0770,Balaji Provision & Kirana,Balaji Singh,kirana_store,Ahmedabad,2,23,22,59,169.49,36.46,219998,0.209,0.22,1,1.3,1.39,1,0.91,0.0005,0,890,Prime,50000
+MERCH_0771,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Patna,2,4,27,79,53.99,19.59,115160,0.533,0.08,1,0.26,1.08,0,1.0,0.0007,0,890,Near-Prime,20000
+MERCH_0772,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Indore,2,30,22,104,79.33,47.42,181507,0.615,0.367,1,1.06,1.35,2,0.89,0.0005,0,890,Prime,50000
+MERCH_0773,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Ahmedabad,2,7,25,58,48.59,7.99,70455,0.544,0.357,1,1.02,1.32,0,1.0,0.0471,0,864,Near-Prime,20000
+MERCH_0774,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Mumbai,1,9,22,124,121.57,78.53,331642,0.745,0.383,1,0.4,0.88,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0775,Suresh City Transport,Suresh Kumar,auto_rickshaw,Jaipur,2,6,17,30,88.56,13.63,45165,0.565,0.421,1,0.88,1.21,0,1.0,0.0382,0,881,Near-Prime,20000
+MERCH_0776,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Lucknow,2,32,22,70,54.8,11.04,84392,0.481,0.44,1,1.09,0.92,1,0.9,0.0329,0,874,Prime,50000
+MERCH_0777,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Lucknow,2,13,25,106,43.16,15.69,114373,0.43,0.528,1,1.02,1.18,0,1.0,0.0143,0,890,Prime,50000
+MERCH_0778,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Varanasi,3,49,23,46,140.0,39.12,148120,0.548,0.381,1,0.49,0.98,0,1.0,0.0006,0,890,Prime,50000
+MERCH_0779,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Delhi NCR,1,3,26,60,79.41,16.39,123879,0.475,0.44,1,0.66,0.81,0,1.0,0.0081,0,890,Near-Prime,20000
+MERCH_0780,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Patna,2,30,25,63,196.6,59.58,309645,0.669,0.293,1,0.21,1.16,0,1.0,0.0,0,890,Prime,50000
+MERCH_0781,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Patna,2,46,28,57,42.85,10.42,68388,0.842,0.294,1,0.15,1.01,1,0.86,0.0026,0,890,Prime,50000
+MERCH_0782,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Mumbai,1,2,20,50,461.92,210.93,461920,0.407,0.204,1,1.01,1.18,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0783,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Ahmedabad,2,3,22,15,30.41,18.62,10035,0.294,0.295,0,0.12,0.93,0,1.0,0.3759,1,702,Near-Prime,20000
+MERCH_0784,Vikram City Transport,Vikram Kumar,auto_rickshaw,Mumbai,1,1,25,43,74.3,24.49,79872,0.547,0.388,1,1.39,1.09,0,1.0,0.0301,0,880,Near-Prime,20000
+MERCH_0785,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Patna,2,20,30,36,37.14,6.55,40111,0.619,0.399,1,0.53,1.17,0,1.0,0.0376,0,890,Prime,50000
+MERCH_0786,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Mumbai,1,6,18,102,84.07,53.02,154352,0.85,0.359,1,2.17,0.89,0,1.0,0.0023,0,885,Near-Prime,20000
+MERCH_0787,Raju City Transport,Raju Singh,auto_rickshaw,Jaipur,2,26,24,31,57.57,13.63,42832,0.758,0.236,1,2.01,1.03,0,1.0,0.0255,0,876,Prime,50000
+MERCH_0788,Apna Provision & Kirana,Apna Singh,kirana_store,Mumbai,1,34,21,47,542.77,122.02,535713,0.376,0.324,1,0.2,1.04,1,0.99,0.0,0,886,Prime,50000
+MERCH_0789,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Lucknow,2,28,22,125,69.17,43.57,190217,0.345,0.08,1,0.33,0.88,2,0.85,0.0002,0,890,Prime,50000
+MERCH_0790,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Varanasi,3,57,24,66,32.79,15.84,51939,0.339,0.244,1,0.1,0.81,0,1.0,0.0254,0,890,Prime,50000
+MERCH_0791,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Ahmedabad,2,7,25,66,155.22,63.46,256113,0.71,0.344,1,0.54,1.36,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0792,Suresh City Transport,Suresh Singh,auto_rickshaw,Jaipur,2,1,27,48,137.92,76.76,178744,0.584,0.32,1,0.39,1.18,0,1.0,0.001,0,890,Near-Prime,20000
+MERCH_0793,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Jaipur,2,1,29,44,43.29,26.83,55238,0.511,0.08,1,0.8,1.31,0,1.0,0.0266,0,890,Near-Prime,20000
+MERCH_0794,Irfan City Transport,Irfan Singh,auto_rickshaw,Lucknow,2,13,24,45,39.04,19.87,42163,0.475,0.435,1,0.05,1.28,2,0.76,0.0294,0,883,Prime,50000
+MERCH_0795,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Indore,2,38,24,74,40.23,11.91,71448,0.734,0.411,1,0.05,0.77,1,0.78,0.0155,0,887,Prime,50000
+MERCH_0796,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Mumbai,1,17,22,56,26.3,16.12,32401,0.368,0.383,1,0.16,1.11,1,0.86,0.0944,0,853,Prime,50000
+MERCH_0797,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Varanasi,3,52,24,63,65.28,13.39,98703,0.56,0.364,1,0.37,0.78,1,0.8,0.0031,0,885,Prime,50000
+MERCH_0798,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Lucknow,2,15,23,85,163.09,39.23,318840,0.537,0.361,1,0.7,1.36,0,1.0,0.0,0,890,Prime,50000
+MERCH_0799,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Indore,2,55,27,72,40.19,11.15,78129,0.681,0.098,1,0.05,1.22,0,1.0,0.0004,0,890,Prime,50000
+MERCH_0800,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Mumbai,1,18,30,76,196.53,92.48,448088,0.85,0.322,1,2.1,1.04,1,0.93,0.0,0,890,Prime,50000
+MERCH_0801,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Delhi NCR,1,5,28,44,34.96,22.27,43070,0.293,0.499,1,1.97,1.22,0,1.0,0.2747,0,747,Near-Prime,20000
+MERCH_0802,Anand Fast Food & Chaat,Anand Kumar,street_food,Delhi NCR,1,3,23,109,92.24,42.68,231245,0.497,0.227,1,0.53,1.24,0,1.0,0.0001,0,887,Near-Prime,20000
+MERCH_0803,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Mumbai,1,4,19,91,59.13,12.01,102235,0.541,0.271,1,0.18,0.96,0,1.0,0.0083,0,890,Near-Prime,20000
+MERCH_0804,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Indore,2,22,22,41,224.74,135.86,202715,0.819,0.403,1,0.32,1.13,1,0.97,0.0001,0,890,Prime,50000
+MERCH_0805,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Indore,2,1,25,48,30.42,15.26,36504,0.796,0.532,1,4.25,1.41,0,1.0,0.3089,0,737,Near-Prime,20000
+MERCH_0806,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Indore,2,1,21,51,251.11,156.23,268938,0.371,0.415,1,0.05,0.75,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0807,Raju City Transport,Raju Kumar,auto_rickshaw,Varanasi,3,1,22,28,61.3,37.24,37760,0.763,0.285,1,0.05,1.03,0,1.0,0.0213,0,888,Near-Prime,20000
+MERCH_0808,Anand Fast Food & Chaat,Anand Singh,street_food,Varanasi,3,3,30,80,33.23,11.42,79751,0.619,0.217,1,0.43,0.96,0,1.0,0.005,0,890,Near-Prime,20000
+MERCH_0809,Apna Provision & Kirana,Apna Kumar,kirana_store,Indore,2,1,24,54,213.19,85.72,276294,0.436,0.245,1,0.67,1.14,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0810,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Indore,2,34,25,68,78.2,11.92,132940,0.34,0.346,1,1.99,1.19,2,0.84,0.0056,0,890,Prime,50000
+MERCH_0811,Apna Provision & Kirana,Apna Kumar,kirana_store,Delhi NCR,1,46,23,65,179.98,55.21,269070,0.624,0.303,1,0.21,1.04,0,1.0,0.0,0,889,Prime,50000
+MERCH_0812,Bombay Fast Food & Chaat,Bombay Singh,street_food,Delhi NCR,1,22,23,84,86.92,49.0,167929,0.429,0.344,1,0.95,1.43,0,1.0,0.0019,0,890,Prime,50000
+MERCH_0813,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Ahmedabad,2,20,28,33,41.09,18.1,37967,0.768,0.206,1,0.25,0.82,1,0.92,0.0209,0,875,Prime,50000
+MERCH_0814,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Varanasi,3,22,27,48,180.33,42.6,233707,0.612,0.458,1,0.94,1.04,1,0.83,0.0002,0,890,Prime,50000
+MERCH_0815,Anand Fast Food & Chaat,Anand Kumar,street_food,Mumbai,1,56,18,94,132.25,39.11,223767,0.829,0.217,1,0.08,1.11,2,0.79,0.0,0,890,Prime,50000
+MERCH_0816,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Lucknow,2,18,28,53,221.99,67.24,329433,0.6,0.184,1,0.09,0.89,1,0.91,0.0,0,890,Prime,50000
+MERCH_0817,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Ahmedabad,2,10,17,41,53.0,21.02,36941,0.64,0.332,1,1.59,1.04,0,1.0,0.0447,0,863,Near-Prime,20000
+MERCH_0818,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Varanasi,3,24,23,101,18.29,10.36,42487,0.269,0.179,1,0.46,1.13,1,0.97,0.0376,0,890,Prime,50000
+MERCH_0819,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Delhi NCR,1,18,23,71,159.57,44.47,260577,0.57,0.189,1,1.5,1.32,0,1.0,0.0001,0,886,Prime,50000
+MERCH_0820,Bombay Fast Food & Chaat,Bombay Singh,street_food,Lucknow,2,11,23,89,91.36,34.62,187013,0.386,0.399,1,0.14,1.26,0,1.0,0.0004,0,886,Near-Prime,20000
+MERCH_0821,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Indore,2,6,16,28,58.96,27.33,26414,0.533,0.343,1,0.52,0.78,0,1.0,0.0602,0,854,Near-Prime,20000
+MERCH_0822,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Indore,2,1,23,25,85.68,40.66,49266,0.34,0.276,1,0.19,0.78,0,1.0,0.0305,0,879,Near-Prime,20000
+MERCH_0823,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Jaipur,2,57,24,101,42.75,26.37,103626,0.711,0.25,1,1.19,0.93,0,1.0,0.0027,0,890,Prime,50000
+MERCH_0824,Raju City Transport,Raju Kumar,auto_rickshaw,Indore,2,7,25,16,78.2,24.83,31280,0.596,0.455,1,1.1,1.39,0,1.0,0.0768,0,860,Near-Prime,20000
+MERCH_0825,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Jaipur,2,39,27,86,56.35,31.88,130844,0.73,0.285,1,1.43,0.76,1,0.6,0.0018,0,890,Prime,50000
+MERCH_0826,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Ahmedabad,2,15,29,102,30.65,6.98,90662,0.48,0.177,1,0.05,0.81,0,1.0,0.0027,0,890,Prime,50000
+MERCH_0827,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Indore,2,36,30,43,240.84,130.17,310683,0.545,0.455,1,0.15,0.94,1,0.94,0.0,0,890,Prime,50000
+MERCH_0828,Bombay Fast Food & Chaat,Bombay Singh,street_food,Lucknow,2,1,30,56,117.79,27.34,197887,0.245,0.349,1,0.72,1.1,0,1.0,0.0004,0,890,Near-Prime,20000
+MERCH_0829,Pravin City Transport,Pravin Kumar,auto_rickshaw,Lucknow,2,47,30,24,44.98,16.0,32385,0.565,0.343,1,0.27,1.13,0,1.0,0.016,0,888,Prime,50000
+MERCH_0830,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Mumbai,1,1,24,95,63.85,24.28,145578,0.305,0.259,1,0.29,1.08,0,1.0,0.0023,0,890,Near-Prime,20000
+MERCH_0831,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Ahmedabad,2,20,26,93,283.43,164.3,685333,0.659,0.396,1,0.41,0.88,0,1.0,0.0,0,890,Prime,50000
+MERCH_0832,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Varanasi,3,25,25,58,32.53,14.66,47168,0.741,0.089,1,0.49,1.42,2,0.86,0.0247,0,889,Prime,50000
+MERCH_0833,Apna Provision & Kirana,Apna Singh,kirana_store,Lucknow,2,27,30,49,99.71,63.25,146573,0.387,0.228,1,0.05,1.41,1,0.93,0.0004,0,890,Prime,50000
+MERCH_0834,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Delhi NCR,1,38,15,58,64.03,11.28,55706,0.695,0.255,1,0.54,0.76,0,1.0,0.0102,0,890,Prime,50000
+MERCH_0835,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Delhi NCR,1,20,20,48,27.94,11.98,26822,0.432,0.263,1,0.44,0.76,2,0.89,0.0263,0,890,Prime,50000
+MERCH_0836,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Delhi NCR,1,12,20,145,57.74,33.14,167446,0.331,0.08,1,0.83,1.14,0,1.0,0.0016,0,890,Prime,50000
+MERCH_0837,Vikram City Transport,Vikram Kumar,auto_rickshaw,Mumbai,1,18,30,51,73.45,36.06,112378,0.636,0.167,1,0.06,1.29,0,1.0,0.001,0,890,Prime,50000
+MERCH_0838,Deepak City Transport,Deepak Singh,auto_rickshaw,Jaipur,2,5,30,43,99.22,36.9,127993,0.608,0.26,1,0.65,1.01,0,1.0,0.0021,0,890,Near-Prime,20000
+MERCH_0839,Vikram City Transport,Vikram Kumar,auto_rickshaw,Ahmedabad,2,6,28,37,106.01,57.75,109826,0.796,0.314,1,0.05,1.28,0,1.0,0.0041,0,883,Near-Prime,20000
+MERCH_0840,Bombay Fast Food & Chaat,Bombay Singh,street_food,Varanasi,3,3,22,72,86.47,22.76,136968,0.592,0.344,1,0.55,1.08,0,1.0,0.0032,0,890,Near-Prime,20000
+MERCH_0841,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Delhi NCR,1,5,21,71,80.52,43.7,120055,0.589,0.24,1,0.07,1.08,0,1.0,0.0041,0,890,Near-Prime,20000
+MERCH_0842,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Ahmedabad,2,24,22,82,28.1,9.0,50692,0.633,0.391,1,1.41,0.86,1,0.77,0.0439,0,884,Prime,50000
+MERCH_0843,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Patna,2,6,26,36,290.25,54.97,271674,0.585,0.102,1,1.37,0.88,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0844,Pravin City Transport,Pravin Singh,auto_rickshaw,Varanasi,3,11,24,26,63.71,12.31,39755,0.814,0.391,1,1.35,1.29,0,1.0,0.056,0,859,Near-Prime,20000
+MERCH_0845,Suresh City Transport,Suresh Kumar,auto_rickshaw,Patna,2,49,25,45,29.8,16.25,33525,0.591,0.344,1,0.95,0.93,1,0.68,0.0481,0,872,Prime,50000
+MERCH_0846,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Lucknow,2,34,25,70,118.58,65.11,207515,0.844,0.237,1,0.11,1.31,1,0.97,0.0001,0,890,Prime,50000
+MERCH_0847,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Delhi NCR,1,2,24,68,90.81,57.83,148201,0.85,0.08,1,0.12,1.23,0,1.0,0.0003,0,890,Near-Prime,20000
+MERCH_0848,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Jaipur,2,89,30,48,177.1,37.91,255024,0.667,0.26,1,0.11,1.24,2,1.0,0.0,0,889,Prime,50000
+MERCH_0849,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Mumbai,1,1,25,93,102.33,19.05,237917,0.442,0.194,1,1.73,1.26,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0850,Deepak City Transport,Deepak Singh,auto_rickshaw,Ahmedabad,2,19,22,44,48.05,26.01,46512,0.696,0.358,1,0.06,1.11,0,1.0,0.0324,0,889,Prime,50000
+MERCH_0851,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Varanasi,3,54,20,6,21.1,10.07,2532,0.612,0.451,1,1.47,0.95,0,1.0,0.1419,0,823,Prime,50000
+MERCH_0852,Raju City Transport,Raju Singh,auto_rickshaw,Jaipur,2,48,30,39,44.13,27.87,51632,0.504,0.249,1,1.46,1.11,0,1.0,0.0179,0,890,Prime,50000
+MERCH_0853,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Lucknow,2,1,24,54,148.76,85.44,192792,0.765,0.412,1,1.07,1.4,0,1.0,0.0009,0,885,Near-Prime,20000
+MERCH_0854,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Indore,2,10,22,70,53.24,9.02,81989,0.562,0.462,1,1.8,0.8,0,1.0,0.0422,0,886,Near-Prime,20000
+MERCH_0855,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Mumbai,1,3,25,101,162.32,59.19,409858,0.555,0.453,1,1.83,1.45,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0856,Raju City Transport,Raju Kumar,auto_rickshaw,Jaipur,2,25,24,26,38.15,10.94,23805,0.622,0.431,1,2.14,1.28,0,1.0,0.0807,0,853,Prime,50000
+MERCH_0857,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Indore,2,14,25,104,38.6,21.03,100360,0.806,0.292,1,1.48,0.93,1,0.87,0.0088,0,890,Prime,50000
+MERCH_0858,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Jaipur,2,6,25,74,28.59,16.61,52891,0.416,0.423,1,1.11,0.8,0,1.0,0.0784,0,849,Near-Prime,20000
+MERCH_0859,Raju City Transport,Raju Kumar,auto_rickshaw,Indore,2,12,22,49,33.3,13.33,35897,0.5,0.357,1,0.26,1.0,1,0.98,0.0741,0,851,Prime,50000
+MERCH_0860,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Jaipur,2,1,30,71,79.89,34.93,170165,0.732,0.126,1,0.12,0.77,0,1.0,0.0003,0,890,Near-Prime,20000
+MERCH_0861,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Lucknow,2,1,20,43,144.08,27.22,123908,0.85,0.317,1,1.38,1.03,0,1.0,0.0078,0,890,Near-Prime,20000
+MERCH_0862,Pravin City Transport,Pravin Singh,auto_rickshaw,Lucknow,2,75,13,49,79.11,50.0,50393,0.706,0.394,1,0.16,0.99,1,0.73,0.0064,0,887,Prime,50000
+MERCH_0863,Pravin City Transport,Pravin Kumar,auto_rickshaw,Lucknow,2,29,26,31,38.04,19.93,30660,0.641,0.379,1,2.94,1.23,0,1.0,0.2175,0,784,Prime,50000
+MERCH_0864,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Patna,2,40,29,53,33.27,18.02,51135,0.702,0.367,1,0.09,1.33,1,0.74,0.0074,0,890,Prime,50000
+MERCH_0865,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Mumbai,1,1,19,39,90.04,42.59,66719,0.85,0.359,1,0.26,0.77,0,1.0,0.0118,0,890,Near-Prime,20000
+MERCH_0866,Mishra Chai & Snacks,Mishra Singh,chai_stall,Indore,2,9,20,33,23.1,7.11,15246,0.616,0.537,1,0.98,1.13,0,1.0,0.2832,0,760,Near-Prime,20000
+MERCH_0867,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Indore,2,18,12,42,176.4,38.87,88905,0.772,0.382,1,1.43,1.37,1,0.88,0.0229,0,878,Prime,50000
+MERCH_0868,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Lucknow,2,11,28,54,99.58,53.48,150564,0.301,0.386,1,1.67,0.97,0,1.0,0.0036,0,890,Near-Prime,20000
+MERCH_0869,Apna Provision & Kirana,Apna Kumar,kirana_store,Ahmedabad,2,5,25,53,171.95,101.04,227833,0.85,0.18,1,0.05,1.09,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_0870,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Delhi NCR,1,30,26,67,145.8,56.0,253983,0.668,0.389,1,0.82,1.07,2,0.73,0.0001,0,890,Prime,50000
+MERCH_0871,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Jaipur,2,12,22,114,15.0,6.16,37620,0.389,0.207,1,1.8,1.4,2,0.9,0.1049,0,830,Prime,50000
+MERCH_0872,Suresh City Transport,Suresh Singh,auto_rickshaw,Delhi NCR,1,3,25,43,59.62,31.56,64091,0.539,0.31,1,1.98,0.96,0,1.0,0.0502,0,878,Near-Prime,20000
+MERCH_0873,Irfan City Transport,Irfan Kumar,auto_rickshaw,Patna,2,31,21,44,62.36,32.11,57620,0.85,0.184,1,0.18,0.88,0,1.0,0.0041,0,887,Prime,50000
+MERCH_0874,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Ahmedabad,2,12,26,133,39.16,19.37,135415,0.436,0.26,1,1.57,1.29,1,0.95,0.0057,0,887,Prime,50000
+MERCH_0875,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Ahmedabad,2,1,27,73,50.23,11.44,99003,0.453,0.208,1,0.16,0.89,0,1.0,0.0063,0,890,Near-Prime,20000
+MERCH_0876,Pravin City Transport,Pravin Singh,auto_rickshaw,Lucknow,2,4,22,19,47.48,25.54,19846,0.634,0.54,1,1.74,1.04,0,1.0,0.1647,0,796,Near-Prime,20000
+MERCH_0877,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Ahmedabad,2,2,21,92,29.27,8.88,56549,0.517,0.084,1,0.16,0.85,0,1.0,0.0116,0,881,Near-Prime,20000
+MERCH_0878,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Mumbai,1,52,24,51,180.78,38.79,221274,0.558,0.163,1,0.45,1.44,2,0.92,0.0001,0,890,Prime,50000
+MERCH_0879,Apna Provision & Kirana,Apna Kumar,kirana_store,Patna,2,34,29,48,159.91,103.08,222594,0.585,0.417,1,1.39,1.34,1,0.86,0.0003,0,890,Prime,50000
+MERCH_0880,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Ahmedabad,2,2,26,52,61.26,20.4,82823,0.67,0.233,1,0.6,1.4,0,1.0,0.0064,0,890,Near-Prime,20000
+MERCH_0881,Suresh City Transport,Suresh Singh,auto_rickshaw,Varanasi,3,28,24,24,65.79,11.2,37895,0.654,0.376,1,0.2,1.18,2,0.84,0.0501,0,873,Prime,50000
+MERCH_0882,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Patna,2,3,25,69,91.39,31.1,157647,0.74,0.332,1,1.82,0.76,0,1.0,0.0039,0,886,Near-Prime,20000
+MERCH_0883,Mishra Chai & Snacks,Mishra Singh,chai_stall,Jaipur,2,10,21,60,57.79,17.99,72815,0.456,0.426,1,0.55,1.13,0,1.0,0.0268,0,877,Near-Prime,20000
+MERCH_0884,Pravin City Transport,Pravin Kumar,auto_rickshaw,Indore,2,56,26,34,36.69,9.08,32433,0.266,0.411,1,1.19,0.92,1,0.93,0.0609,0,852,Prime,50000
+MERCH_0885,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Patna,2,90,24,47,19.23,11.68,21691,0.537,0.261,1,1.44,0.9,0,1.0,0.0138,0,890,Prime,50000
+MERCH_0886,Sharma Fast Food & Chaat,Sharma Singh,street_food,Delhi NCR,1,7,26,108,66.13,35.25,185693,0.809,0.08,1,1.86,0.78,0,1.0,0.0003,0,890,Near-Prime,20000
+MERCH_0887,Suresh City Transport,Suresh Kumar,auto_rickshaw,Delhi NCR,1,11,25,38,91.02,56.09,86469,0.624,0.255,1,0.15,1.1,0,1.0,0.0032,0,890,Near-Prime,20000
+MERCH_0888,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Jaipur,2,11,24,51,44.91,17.87,54969,0.85,0.175,1,0.48,1.12,0,1.0,0.0172,0,890,Near-Prime,20000
+MERCH_0889,Santosh Fresh Vegetables,Santosh Singh,vegetable_vendor,Jaipur,2,2,24,38,152.13,88.8,138742,0.615,0.244,1,0.35,1.12,0,1.0,0.0009,0,890,Near-Prime,20000
+MERCH_0890,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Delhi NCR,1,16,30,78,163.51,86.73,382613,0.62,0.139,1,0.61,1.21,0,1.0,0.0,0,890,Prime,50000
+MERCH_0891,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Patna,2,31,22,56,32.81,21.08,40421,0.557,0.326,1,1.53,0.99,2,0.89,0.0624,0,853,Prime,50000
+MERCH_0892,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Ahmedabad,2,4,22,67,46.27,24.97,68201,0.556,0.342,1,4.2,1.32,0,1.0,0.1391,0,826,Near-Prime,20000
+MERCH_0893,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Indore,2,32,30,56,92.02,17.9,154593,0.78,0.349,1,0.99,1.02,2,0.84,0.0012,0,890,Prime,50000
+MERCH_0894,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Ahmedabad,2,38,22,64,34.44,20.48,48491,0.634,0.286,1,0.58,0.98,0,1.0,0.0197,0,890,Prime,50000
+MERCH_0895,Anand Fast Food & Chaat,Anand Kumar,street_food,Patna,2,2,19,78,105.36,25.85,156143,0.471,0.518,1,0.81,1.12,0,1.0,0.0037,0,890,Near-Prime,20000
+MERCH_0896,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Patna,2,26,27,119,27.08,15.99,87008,0.676,0.476,1,0.63,1.01,1,0.6,0.0102,0,886,Prime,50000
+MERCH_0897,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Jaipur,2,74,27,87,110.3,34.76,259094,0.402,0.563,1,0.4,1.1,0,1.0,0.0,0,890,Prime,50000
+MERCH_0898,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Lucknow,2,37,25,84,43.96,15.5,92316,0.553,0.323,1,0.09,1.3,1,0.94,0.0056,0,882,Prime,50000
+MERCH_0899,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Delhi NCR,1,3,23,108,138.81,34.2,344804,0.539,0.323,1,0.68,1.39,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0900,Balaji Provision & Kirana,Balaji Singh,kirana_store,Delhi NCR,1,12,18,103,173.74,73.88,322113,0.736,0.332,1,1.8,0.88,0,1.0,0.0,0,890,Prime,50000
+MERCH_0901,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Patna,2,1,18,43,66.71,40.54,51633,0.459,0.375,1,0.05,0.79,0,1.0,0.0992,0,848,Near-Prime,20000
+MERCH_0902,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Jaipur,2,39,23,98,98.18,54.29,221297,0.703,0.203,1,0.64,0.82,0,1.0,0.0001,0,885,Prime,50000
+MERCH_0903,Suresh City Transport,Suresh Singh,auto_rickshaw,Mumbai,1,13,19,58,56.95,23.25,62758,0.644,0.406,1,0.35,1.07,0,1.0,0.0223,0,890,Prime,50000
+MERCH_0904,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Ahmedabad,2,71,30,5,61.31,17.32,9196,0.51,0.312,1,2.5,1.37,0,1.0,0.0338,0,886,Prime,50000
+MERCH_0905,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Jaipur,2,26,30,84,176.13,34.11,443847,0.458,0.191,1,1.45,0.95,1,0.72,0.0,0,890,Prime,50000
+MERCH_0906,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Mumbai,1,29,25,99,49.03,23.83,121349,0.521,0.118,1,0.22,1.16,2,0.98,0.0005,0,890,Prime,50000
+MERCH_0907,Bombay Fast Food & Chaat,Bombay Singh,street_food,Ahmedabad,2,1,26,59,61.35,21.27,94110,0.75,0.294,1,0.59,1.32,0,1.0,0.0111,0,890,Near-Prime,20000
+MERCH_0908,Pravin City Transport,Pravin Singh,auto_rickshaw,Mumbai,1,10,22,61,117.68,27.94,157926,0.617,0.172,1,0.69,1.31,0,1.0,0.0006,0,890,Near-Prime,20000
+MERCH_0909,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Jaipur,2,80,29,20,92.94,52.77,53905,0.571,0.322,1,0.92,1.16,2,0.85,0.0031,0,890,Prime,50000
+MERCH_0910,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Patna,2,21,21,89,110.17,27.22,205907,0.264,0.237,1,0.75,0.77,2,0.83,0.0005,0,890,Prime,50000
+MERCH_0911,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Varanasi,3,11,19,51,46.29,17.07,44855,0.532,0.328,1,0.14,0.76,0,1.0,0.0264,0,886,Near-Prime,20000
+MERCH_0912,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Varanasi,3,9,24,77,49.63,18.67,91716,0.609,0.121,1,0.74,1.02,0,1.0,0.0055,0,890,Near-Prime,20000
+MERCH_0913,Anand Fast Food & Chaat,Anand Kumar,street_food,Lucknow,2,8,23,78,179.67,93.31,322327,0.823,0.306,1,0.11,1.1,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0914,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Varanasi,3,1,27,70,53.23,28.23,100604,0.378,0.31,1,0.48,0.96,0,1.0,0.0076,0,890,Near-Prime,20000
+MERCH_0915,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Indore,2,15,26,47,320.36,162.69,391479,0.276,0.455,1,0.56,1.29,2,0.95,0.0,0,890,Prime,50000
+MERCH_0916,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Varanasi,3,153,19,44,34.51,7.99,28850,0.673,0.449,1,0.24,0.99,2,0.76,0.0023,0,890,Prime,50000
+MERCH_0917,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Patna,2,28,27,97,49.75,17.38,130295,0.781,0.379,1,0.92,0.93,2,0.92,0.0015,0,888,Prime,50000
+MERCH_0918,Vikram City Transport,Vikram Singh,auto_rickshaw,Jaipur,2,5,22,36,202.91,51.05,160704,0.526,0.545,1,0.17,1.23,0,1.0,0.0025,0,889,Near-Prime,20000
+MERCH_0919,Sharma Fast Food & Chaat,Sharma Singh,street_food,Indore,2,5,23,84,77.96,37.2,150618,0.475,0.163,1,0.05,1.39,0,1.0,0.0015,0,890,Near-Prime,20000
+MERCH_0920,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Varanasi,3,8,26,63,212.77,76.05,348517,0.522,0.395,1,0.12,1.06,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0921,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Delhi NCR,1,7,29,77,116.77,69.5,260747,0.679,0.37,1,0.22,1.06,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0922,Om Sai Provision & Kirana,Om Sai Kumar,kirana_store,Jaipur,2,1,23,38,250.97,156.25,219347,0.523,0.306,1,0.06,1.03,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0923,Pravin City Transport,Pravin Singh,auto_rickshaw,Ahmedabad,2,19,15,30,57.0,11.4,25650,0.473,0.197,0,0.2,1.2,1,0.88,0.1361,0,830,Prime,50000
+MERCH_0924,Suresh City Transport,Suresh Singh,auto_rickshaw,Indore,2,19,17,34,54.16,9.69,31304,0.8,0.304,1,0.7,0.85,1,0.78,0.0567,0,854,Prime,50000
+MERCH_0925,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Varanasi,3,4,27,51,87.18,14.63,120046,0.85,0.372,1,0.82,1.08,0,1.0,0.0028,0,890,Near-Prime,20000
+MERCH_0926,Apna Provision & Kirana,Apna Kumar,kirana_store,Indore,2,5,28,40,151.93,85.03,170161,0.358,0.415,1,0.1,1.24,0,1.0,0.0012,0,890,Near-Prime,20000
+MERCH_0927,Apna Provision & Kirana,Apna Kumar,kirana_store,Patna,2,20,19,58,123.13,34.33,135689,0.809,0.091,1,0.14,0.78,2,0.69,0.001,0,890,Prime,50000
+MERCH_0928,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Lucknow,2,2,21,68,221.57,69.44,316401,0.709,0.326,1,0.15,1.29,0,1.0,0.0,0,889,Near-Prime,20000
+MERCH_0929,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Mumbai,1,20,25,128,15.0,3.86,48000,0.619,0.224,1,0.38,1.32,2,0.8,0.0113,0,883,Prime,50000
+MERCH_0930,Mishra Chai & Snacks,Mishra Singh,chai_stall,Lucknow,2,13,19,83,15.0,8.22,23655,0.527,0.427,0,0.05,1.12,2,0.9,0.2523,0,766,Prime,50000
+MERCH_0931,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Jaipur,2,50,23,56,82.16,46.42,105822,0.634,0.08,1,0.69,1.06,0,1.0,0.0007,0,890,Prime,50000
+MERCH_0932,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Indore,2,1,25,68,153.19,34.92,260423,0.668,0.415,1,0.25,0.77,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0933,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Ahmedabad,2,25,25,79,130.66,70.75,258053,0.713,0.352,1,0.5,1.2,0,1.0,0.0001,0,886,Prime,50000
+MERCH_0934,Raju City Transport,Raju Kumar,auto_rickshaw,Jaipur,2,6,26,22,61.85,9.29,35378,0.394,0.234,1,0.53,1.03,0,1.0,0.029,0,890,Near-Prime,20000
+MERCH_0935,Meena Pushp Bhandar,Meena Singh,flower_vendor,Mumbai,1,59,30,54,69.13,28.91,111990,0.537,0.382,1,0.94,0.98,2,0.91,0.0023,0,890,Prime,50000
+MERCH_0936,Deepak City Transport,Deepak Singh,auto_rickshaw,Mumbai,1,8,24,46,51.6,24.61,56966,0.298,0.339,1,0.06,1.45,0,1.0,0.0235,0,888,Near-Prime,20000
+MERCH_0937,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Mumbai,1,1,27,61,43.69,7.03,71957,0.771,0.291,1,0.64,1.2,0,1.0,0.0134,0,879,Near-Prime,20000
+MERCH_0938,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Delhi NCR,1,3,24,105,175.98,72.61,443469,0.771,0.313,1,0.4,0.94,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0939,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Varanasi,3,14,29,46,29.6,4.62,39486,0.803,0.383,1,2.09,1.03,0,1.0,0.1003,0,835,Prime,50000
+MERCH_0940,Mishra Chai & Snacks,Mishra Singh,chai_stall,Ahmedabad,2,6,24,127,42.13,20.63,128412,0.394,0.281,1,1.02,1.33,0,1.0,0.0056,0,890,Near-Prime,20000
+MERCH_0941,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Lucknow,2,7,24,54,266.78,70.89,345746,0.807,0.255,1,1.32,1.39,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0942,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Delhi NCR,1,10,29,46,109.5,50.52,146073,0.673,0.372,1,0.23,1.26,0,1.0,0.0008,0,887,Near-Prime,20000
+MERCH_0943,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Ahmedabad,2,6,20,92,170.88,101.07,314419,0.834,0.268,1,0.35,0.98,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0944,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Mumbai,1,20,27,94,36.52,16.64,92687,0.718,0.405,1,3.09,1.17,0,1.0,0.0226,0,887,Prime,50000
+MERCH_0945,Bombay Fast Food & Chaat,Bombay Singh,street_food,Lucknow,2,1,30,74,92.94,37.84,206326,0.198,0.248,1,0.36,1.15,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_0946,Vikram City Transport,Vikram Singh,auto_rickshaw,Delhi NCR,1,4,25,45,62.34,36.36,70132,0.307,0.551,1,1.36,1.01,0,1.0,0.1261,0,835,Near-Prime,20000
+MERCH_0947,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Jaipur,2,18,22,68,165.25,86.0,247214,0.468,0.344,1,0.63,1.42,1,0.96,0.0001,0,890,Prime,50000
+MERCH_0948,Irfan City Transport,Irfan Singh,auto_rickshaw,Varanasi,3,23,28,35,109.26,43.63,107074,0.808,0.468,1,1.33,1.04,0,1.0,0.0038,0,888,Prime,50000
+MERCH_0949,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Indore,2,50,30,69,262.96,140.14,544327,0.85,0.357,1,1.03,1.08,1,0.89,0.0,0,890,Prime,50000
+MERCH_0950,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Indore,2,16,29,39,32.37,17.76,36610,0.387,0.673,1,0.85,1.39,2,0.9,0.1897,0,810,Prime,50000
+MERCH_0951,Apna Provision & Kirana,Apna Kumar,kirana_store,Indore,2,16,30,29,165.67,28.87,144132,0.563,0.315,1,0.29,0.82,1,0.81,0.0011,0,890,Prime,50000
+MERCH_0952,Pravin City Transport,Pravin Singh,auto_rickshaw,Varanasi,3,40,18,31,51.03,14.47,28474,0.85,0.34,1,0.48,1.36,0,1.0,0.0315,0,876,Prime,50000
+MERCH_0953,Bombay Fast Food & Chaat,Bombay Singh,street_food,Mumbai,1,3,25,106,55.59,21.22,147313,0.622,0.164,1,0.64,0.83,0,1.0,0.0009,0,890,Near-Prime,20000
+MERCH_0954,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Patna,2,6,23,22,78.46,39.56,39700,0.782,0.244,1,1.48,1.27,0,1.0,0.0344,0,888,Near-Prime,20000
+MERCH_0955,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Lucknow,2,61,20,60,58.79,16.6,70548,0.743,0.568,1,1.06,0.94,1,0.94,0.0174,0,889,Prime,50000
+MERCH_0956,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Mumbai,1,21,29,112,44.9,17.13,145835,0.547,0.353,1,0.09,1.05,0,1.0,0.0011,0,890,Prime,50000
+MERCH_0957,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Delhi NCR,1,20,24,104,34.01,14.72,84888,0.338,0.201,1,2.24,1.32,1,0.87,0.025,0,890,Prime,50000
+MERCH_0958,Raju City Transport,Raju Singh,auto_rickshaw,Mumbai,1,4,22,51,44.98,15.64,50467,0.762,0.157,1,0.09,1.09,0,1.0,0.0217,0,890,Near-Prime,20000
+MERCH_0959,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Indore,2,30,21,56,122.27,56.18,143789,0.681,0.25,1,0.71,1.39,1,0.83,0.0015,0,890,Prime,50000
+MERCH_0960,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Lucknow,2,2,26,85,43.4,18.02,95914,0.418,0.101,1,0.98,1.19,0,1.0,0.0034,0,886,Near-Prime,20000
+MERCH_0961,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Jaipur,2,2,24,38,48.5,12.39,44232,0.569,0.224,1,2.29,0.82,0,1.0,0.0885,0,858,Near-Prime,20000
+MERCH_0962,Aggarwal Fast Food & Chaat,Aggarwal Singh,street_food,Ahmedabad,2,34,30,66,68.13,36.36,134897,0.332,0.3,1,0.2,1.28,0,1.0,0.0013,0,890,Prime,50000
+MERCH_0963,Bombay Fast Food & Chaat,Bombay Singh,street_food,Delhi NCR,1,8,15,114,64.5,20.63,110295,0.534,0.278,1,1.21,1.2,0,1.0,0.0234,0,887,Near-Prime,20000
+MERCH_0964,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Jaipur,2,1,30,88,23.89,14.45,63069,0.56,0.424,1,0.05,0.82,0,1.0,0.0251,0,887,Near-Prime,20000
+MERCH_0965,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Lucknow,2,1,17,84,31.38,14.62,44810,0.421,0.298,1,1.82,1.44,0,1.0,0.1226,0,838,Near-Prime,20000
+MERCH_0966,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Jaipur,2,18,25,109,39.38,10.89,107310,0.631,0.555,1,0.33,0.99,0,1.0,0.0041,0,890,Prime,50000
+MERCH_0967,Sharma Fast Food & Chaat,Sharma Singh,street_food,Jaipur,2,29,24,69,73.61,24.51,121898,0.739,0.08,1,0.1,0.85,1,0.82,0.0009,0,890,Prime,50000
+MERCH_0968,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Ahmedabad,2,1,30,69,397.44,201.3,822700,0.379,0.485,1,0.26,0.96,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0969,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Jaipur,2,1,26,70,53.42,20.1,97224,0.657,0.405,1,1.78,1.15,0,1.0,0.0198,0,890,Near-Prime,20000
+MERCH_0970,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Patna,2,48,20,49,36.52,18.66,35789,0.534,0.181,1,0.87,0.86,1,0.83,0.0189,0,890,Prime,50000
+MERCH_0971,Vikram City Transport,Vikram Singh,auto_rickshaw,Varanasi,3,12,24,14,81.06,35.01,27236,0.593,0.08,1,1.91,0.87,1,0.92,0.0506,0,869,Prime,50000
+MERCH_0972,Irfan City Transport,Irfan Singh,auto_rickshaw,Varanasi,3,3,21,36,42.35,17.19,32016,0.72,0.253,1,0.71,0.94,0,1.0,0.0845,0,848,Near-Prime,20000
+MERCH_0973,Meena Pushp Bhandar,Meena Singh,flower_vendor,Patna,2,39,21,24,37.29,10.53,18794,0.586,0.277,0,0.23,1.4,0,1.0,0.0531,0,877,Prime,50000
+MERCH_0974,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Ahmedabad,2,25,24,71,105.74,29.76,180180,0.638,0.393,1,2.11,0.92,2,0.86,0.0013,0,887,Prime,50000
+MERCH_0975,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Jaipur,2,8,28,42,45.55,27.06,53566,0.625,0.256,1,1.68,1.06,0,1.0,0.0264,0,890,Near-Prime,20000
+MERCH_0976,Pravin City Transport,Pravin Kumar,auto_rickshaw,Patna,2,5,20,34,73.84,19.85,50211,0.178,0.314,1,0.1,0.98,0,1.0,0.0416,0,883,Near-Prime,20000
+MERCH_0977,Anand Fast Food & Chaat,Anand Singh,street_food,Jaipur,2,29,23,76,171.56,71.86,299886,0.693,0.423,1,0.36,1.13,1,0.57,0.0,0,886,Prime,50000
+MERCH_0978,Bombay Fast Food & Chaat,Bombay Singh,street_food,Delhi NCR,1,1,25,112,123.13,47.23,344764,0.684,0.278,1,1.63,1.37,0,1.0,0.0,0,888,Near-Prime,20000
+MERCH_0979,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Jaipur,2,7,30,67,233.93,106.26,470199,0.644,0.322,1,1.01,1.27,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0980,Irfan City Transport,Irfan Kumar,auto_rickshaw,Patna,2,42,23,31,48.82,20.07,34808,0.592,0.28,1,3.68,0.9,2,0.88,0.1301,0,843,Prime,50000
+MERCH_0981,Suresh City Transport,Suresh Singh,auto_rickshaw,Delhi NCR,1,21,27,40,44.18,24.5,47714,0.759,0.306,1,0.19,1.36,0,1.0,0.0182,0,876,Prime,50000
+MERCH_0982,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Mumbai,1,9,26,135,145.3,64.26,510003,0.34,0.156,1,0.13,1.15,0,1.0,0.0,0,887,Near-Prime,20000
+MERCH_0983,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Mumbai,1,13,28,152,45.42,25.91,193307,0.321,0.313,1,0.11,0.84,0,1.0,0.0004,0,890,Prime,50000
+MERCH_0984,Apna Provision & Kirana,Apna Singh,kirana_store,Varanasi,3,5,25,41,268.95,170.07,275673,0.353,0.336,1,0.06,1.29,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0985,Vikram City Transport,Vikram Singh,auto_rickshaw,Lucknow,2,5,22,39,79.19,34.53,67945,0.499,0.518,1,0.4,1.37,0,1.0,0.0567,0,878,Near-Prime,20000
+MERCH_0986,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Lucknow,2,70,15,86,55.94,26.44,72162,0.621,0.324,1,0.32,1.08,1,0.95,0.0026,0,890,Prime,50000
+MERCH_0987,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Lucknow,2,4,20,87,131.02,35.12,227974,0.487,0.293,1,1.1,1.4,0,1.0,0.0003,0,889,Near-Prime,20000
+MERCH_0988,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Indore,2,10,19,107,37.3,7.69,75830,0.411,0.205,1,1.23,1.24,0,1.0,0.0229,0,873,Near-Prime,20000
+MERCH_0989,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Lucknow,2,7,30,133,46.29,17.12,184697,0.336,0.309,1,0.62,1.17,0,1.0,0.0004,0,890,Near-Prime,20000
+MERCH_0990,Apna Provision & Kirana,Apna Kumar,kirana_store,Jaipur,2,9,30,52,364.48,234.68,568588,0.85,0.148,1,0.66,0.86,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_0991,Pravin City Transport,Pravin Kumar,auto_rickshaw,Jaipur,2,34,24,42,48.97,24.09,49361,0.481,0.396,1,0.66,0.78,1,0.81,0.0321,0,890,Prime,50000
+MERCH_0992,Apna Provision & Kirana,Apna Singh,kirana_store,Mumbai,1,17,25,79,291.92,156.19,576542,0.512,0.08,1,0.32,1.2,1,0.82,0.0,0,890,Prime,50000
+MERCH_0993,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Mumbai,1,7,22,119,30.61,5.18,80136,0.483,0.2,1,0.09,1.4,0,1.0,0.0169,0,890,Near-Prime,20000
+MERCH_0994,Pravin City Transport,Pravin Singh,auto_rickshaw,Patna,2,12,23,15,90.96,22.76,31381,0.116,0.293,1,0.33,1.04,0,1.0,0.0914,0,841,Prime,50000
+MERCH_0995,Mishra Chai & Snacks,Mishra Singh,chai_stall,Lucknow,2,1,23,132,21.34,11.55,64788,0.401,0.413,1,0.38,1.26,0,1.0,0.0438,0,876,Near-Prime,20000
+MERCH_0996,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Lucknow,2,28,27,53,96.2,40.02,137662,0.788,0.301,1,0.16,1.2,0,1.0,0.0011,0,890,Prime,50000
+MERCH_0997,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Ahmedabad,2,88,23,59,271.79,155.57,368819,0.695,0.23,1,0.56,1.21,1,0.98,0.0,0,890,Prime,50000
+MERCH_0998,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Lucknow,2,6,30,80,23.4,8.37,56160,0.631,0.321,1,0.45,1.26,0,1.0,0.0106,0,883,Near-Prime,20000
+MERCH_0999,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Patna,2,4,28,91,38.57,10.31,98276,0.422,0.408,1,0.83,1.43,0,1.0,0.0087,0,890,Near-Prime,20000
+MERCH_1000,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Varanasi,3,14,19,71,167.54,87.71,226011,0.85,0.197,1,0.07,1.28,0,1.0,0.0001,0,890,Prime,50000
+MERCH_1001,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Patna,2,1,25,58,106.85,61.09,154932,0.606,0.268,1,0.05,1.02,0,1.0,0.0006,0,890,Near-Prime,20000
+MERCH_1002,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Delhi NCR,1,10,28,67,171.44,90.55,321621,0.66,0.312,1,0.6,1.41,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1003,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Indore,2,1,27,108,184.77,46.7,538789,0.762,0.477,1,0.23,0.97,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1004,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Ahmedabad,2,9,26,21,55.04,35.06,30051,0.675,0.234,1,0.55,1.38,0,1.0,0.0253,0,890,Near-Prime,20000
+MERCH_1005,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Ahmedabad,2,7,30,123,40.01,14.05,147636,0.551,0.406,1,0.89,0.93,0,1.0,0.0032,0,890,Near-Prime,20000
+MERCH_1006,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Varanasi,3,13,21,34,172.37,77.46,123072,0.85,0.246,1,0.29,1.21,1,0.79,0.0032,0,890,Prime,50000
+MERCH_1007,Irfan City Transport,Irfan Kumar,auto_rickshaw,Patna,2,9,22,26,51.41,31.82,29406,0.461,0.285,1,0.05,1.3,0,1.0,0.0747,0,871,Near-Prime,20000
+MERCH_1008,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Jaipur,2,5,28,58,125.26,71.26,203422,0.764,0.166,1,1.05,0.92,0,1.0,0.0002,0,890,Near-Prime,20000
+MERCH_1009,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Patna,2,7,18,68,191.28,45.83,234126,0.647,0.103,1,0.37,1.3,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_1010,Deepak City Transport,Deepak Singh,auto_rickshaw,Lucknow,2,8,22,36,67.37,27.3,53357,0.489,0.222,1,0.28,1.37,0,1.0,0.0194,0,876,Near-Prime,20000
+MERCH_1011,Mishra Chai & Snacks,Mishra Singh,chai_stall,Jaipur,2,6,28,130,19.15,6.41,69706,0.714,0.246,1,1.69,1.06,0,1.0,0.0177,0,890,Near-Prime,20000
+MERCH_1012,Apna Provision & Kirana,Apna Singh,kirana_store,Jaipur,2,37,30,36,674.22,412.83,728157,0.45,0.34,1,0.65,1.19,0,1.0,0.0,0,890,Prime,50000
+MERCH_1013,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Indore,2,10,22,103,19.58,4.51,44368,0.541,0.492,1,0.76,1.32,0,1.0,0.0743,0,865,Near-Prime,20000
+MERCH_1014,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Delhi NCR,1,25,23,165,44.94,18.35,170547,0.455,0.302,1,0.82,1.12,1,0.8,0.0015,0,890,Prime,50000
+MERCH_1015,Apna Provision & Kirana,Apna Kumar,kirana_store,Lucknow,2,41,25,65,145.05,35.01,235706,0.48,0.355,1,1.05,1.35,0,1.0,0.0001,0,890,Prime,50000
+MERCH_1016,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Delhi NCR,1,21,22,82,61.45,34.35,110855,0.741,0.305,1,0.38,1.31,2,0.58,0.0035,0,890,Prime,50000
+MERCH_1017,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Patna,2,3,30,100,73.95,37.81,221850,0.589,0.08,1,0.6,0.91,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_1018,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Varanasi,3,1,17,101,28.12,4.91,48282,0.281,0.359,1,1.87,1.09,0,1.0,0.1666,0,813,Near-Prime,20000
+MERCH_1019,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Varanasi,3,23,30,39,42.46,9.46,49678,0.261,0.476,1,0.06,0.99,0,1.0,0.0372,0,887,Prime,50000
+MERCH_1020,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Lucknow,2,31,19,78,118.87,47.45,176165,0.729,0.378,1,0.32,0.77,1,0.89,0.0014,0,890,Prime,50000
+MERCH_1021,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Patna,2,1,26,32,59.4,34.72,49420,0.313,0.355,1,0.34,1.16,0,1.0,0.0654,0,871,Near-Prime,20000
+MERCH_1022,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Ahmedabad,2,6,19,86,118.6,19.5,193792,0.68,0.396,1,1.73,0.94,0,1.0,0.0009,0,890,Near-Prime,20000
+MERCH_1023,Pravin City Transport,Pravin Singh,auto_rickshaw,Mumbai,1,15,20,37,219.35,111.6,162319,0.782,0.471,1,0.53,1.22,2,0.89,0.0009,0,890,Prime,50000
+MERCH_1024,Raju City Transport,Raju Singh,auto_rickshaw,Varanasi,3,1,23,54,46.48,18.44,57728,0.812,0.228,1,0.47,0.97,0,1.0,0.0251,0,890,Near-Prime,20000
+MERCH_1025,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Patna,2,25,19,105,44.3,7.36,88378,0.692,0.435,1,1.99,1.1,0,1.0,0.0254,0,890,Prime,50000
+MERCH_1026,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Mumbai,1,14,25,150,50.47,27.5,189262,0.565,0.14,1,0.09,1.31,1,0.93,0.0004,0,890,Prime,50000
+MERCH_1027,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Delhi NCR,1,18,23,66,46.83,19.18,71087,0.476,0.488,1,0.19,1.12,2,0.83,0.0514,0,868,Prime,50000
+MERCH_1028,Apna Provision & Kirana,Apna Singh,kirana_store,Jaipur,2,40,30,66,92.62,43.91,183387,0.85,0.227,1,0.46,0.8,0,1.0,0.0,0,890,Prime,50000
+MERCH_1029,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Varanasi,3,15,20,78,64.06,37.74,99933,0.513,0.2,1,0.13,0.85,2,0.72,0.0073,0,890,Prime,50000
+MERCH_1030,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Jaipur,2,28,27,42,43.98,21.59,49873,0.635,0.412,1,0.05,0.98,1,0.93,0.0096,0,890,Prime,50000
+MERCH_1031,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Patna,2,2,25,53,90.78,40.28,120283,0.653,0.38,1,0.11,1.16,0,1.0,0.0047,0,890,Near-Prime,20000
+MERCH_1032,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Lucknow,2,20,27,108,62.26,34.44,181550,0.829,0.14,1,0.05,1.24,1,0.86,0.0001,0,890,Prime,50000
+MERCH_1033,Suresh City Transport,Suresh Singh,auto_rickshaw,Ahmedabad,2,6,18,31,33.78,11.46,18849,0.641,0.468,0,1.85,0.76,0,1.0,0.5499,1,605,Moderate,10000
+MERCH_1034,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Lucknow,2,34,30,48,47.25,12.46,68040,0.288,0.322,1,0.72,1.13,0,1.0,0.0166,0,880,Prime,50000
+MERCH_1035,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Ahmedabad,2,14,24,45,162.65,74.12,175662,0.546,0.256,1,0.36,1.4,0,1.0,0.0005,0,890,Prime,50000
+MERCH_1036,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Lucknow,2,35,21,65,39.59,19.44,54040,0.569,0.299,1,0.05,1.42,1,0.87,0.0043,0,890,Prime,50000
+MERCH_1037,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Indore,2,7,22,70,42.17,21.81,64941,0.302,0.299,1,1.27,1.19,0,1.0,0.049,0,888,Near-Prime,20000
+MERCH_1038,Sharma Fast Food & Chaat,Sharma Singh,street_food,Lucknow,2,6,24,48,64.66,38.01,74488,0.512,0.08,1,0.1,1.36,0,1.0,0.0073,0,890,Near-Prime,20000
+MERCH_1039,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Ahmedabad,2,1,24,88,92.41,59.06,195169,0.414,0.344,1,1.16,1.27,0,1.0,0.0014,0,890,Near-Prime,20000
+MERCH_1040,Deepak City Transport,Deepak Singh,auto_rickshaw,Lucknow,2,19,27,42,34.56,18.04,39191,0.476,0.244,1,2.22,0.87,0,1.0,0.0442,0,864,Prime,50000
+MERCH_1041,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Jaipur,2,42,27,48,37.42,20.41,48496,0.648,0.39,1,2.73,0.8,0,1.0,0.0433,0,874,Prime,50000
+MERCH_1042,Pravin City Transport,Pravin Kumar,auto_rickshaw,Patna,2,11,21,32,35.6,14.88,23923,0.559,0.37,1,0.91,1.37,0,1.0,0.1385,0,828,Near-Prime,20000
+MERCH_1043,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Patna,2,36,24,11,32.77,20.2,8651,0.597,0.278,0,2.77,0.97,0,1.0,0.2314,0,782,Prime,50000
+MERCH_1044,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Patna,2,1,29,91,60.4,23.22,159395,0.535,0.445,1,1.3,1.21,0,1.0,0.0032,0,890,Near-Prime,20000
+MERCH_1045,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Mumbai,1,10,16,69,42.06,16.48,46434,0.306,0.267,1,0.68,1.15,0,1.0,0.0706,0,866,Near-Prime,20000
+MERCH_1046,Raju City Transport,Raju Kumar,auto_rickshaw,Delhi NCR,1,44,20,42,46.28,11.66,38875,0.726,0.323,1,2.16,1.25,2,0.86,0.0928,0,846,Prime,50000
+MERCH_1047,Bombay Fast Food & Chaat,Bombay Kumar,street_food,Delhi NCR,1,56,30,110,107.86,35.27,355938,0.669,0.253,1,0.37,1.27,1,0.56,0.0,0,890,Prime,50000
+MERCH_1048,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Jaipur,2,42,30,49,38.38,15.91,56418,0.634,0.248,1,0.29,1.35,2,0.86,0.0077,0,890,Prime,50000
+MERCH_1049,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Lucknow,2,7,29,54,202.87,104.13,317694,0.548,0.191,1,1.86,1.21,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1050,Balaji Provision & Kirana,Balaji Singh,kirana_store,Varanasi,3,9,24,39,109.83,28.62,102800,0.556,0.26,1,0.68,0.85,0,1.0,0.0041,0,890,Near-Prime,20000
+MERCH_1051,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Delhi NCR,1,29,18,95,46.44,21.27,79412,0.504,0.436,1,2.55,1.17,0,1.0,0.0771,0,857,Prime,50000
+MERCH_1052,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Lucknow,2,18,26,55,35.08,11.77,50164,0.614,0.243,1,1.42,1.18,1,0.87,0.0163,0,890,Prime,50000
+MERCH_1053,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Ahmedabad,2,16,25,84,73.2,19.71,153720,0.421,0.519,1,1.15,1.33,0,1.0,0.0041,0,883,Prime,50000
+MERCH_1054,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Ahmedabad,2,11,25,49,90.14,23.12,110421,0.768,0.285,1,0.09,1.12,0,1.0,0.0014,0,890,Near-Prime,20000
+MERCH_1055,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Ahmedabad,2,1,26,134,27.66,9.43,96367,0.535,0.668,1,1.08,1.33,0,1.0,0.03,0,889,Near-Prime,20000
+MERCH_1056,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Delhi NCR,1,17,26,82,98.02,33.42,208978,0.212,0.34,1,2.85,0.85,2,0.88,0.0034,0,890,Prime,50000
+MERCH_1057,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Indore,2,15,30,65,299.07,144.07,583186,0.484,0.262,1,0.07,1.12,1,0.9,0.0,0,890,Prime,50000
+MERCH_1058,Vikram City Transport,Vikram Kumar,auto_rickshaw,Delhi NCR,1,10,20,49,30.52,16.52,29909,0.548,0.244,1,1.83,0.87,0,1.0,0.169,0,803,Near-Prime,20000
+MERCH_1059,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Lucknow,2,6,17,60,197.24,114.04,201184,0.335,0.234,1,0.58,1.27,0,1.0,0.0005,0,890,Near-Prime,20000
+MERCH_1060,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Varanasi,3,8,23,20,26.24,14.35,12070,0.85,0.365,1,0.47,1.32,0,1.0,0.1234,0,847,Near-Prime,20000
+MERCH_1061,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Patna,2,5,25,110,51.26,28.64,140965,0.673,0.507,1,0.05,0.81,0,1.0,0.0029,0,890,Near-Prime,20000
+MERCH_1062,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Varanasi,3,1,22,66,62.54,28.0,90808,0.382,0.617,1,1.82,1.03,0,1.0,0.086,0,847,Near-Prime,20000
+MERCH_1063,Sharma Fast Food & Chaat,Sharma Singh,street_food,Varanasi,3,8,25,57,98.48,28.05,140334,0.609,0.21,1,0.15,1.38,0,1.0,0.0015,0,889,Near-Prime,20000
+MERCH_1064,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Lucknow,2,28,29,80,18.27,8.76,42386,0.817,0.406,1,0.85,0.86,1,0.98,0.0154,0,880,Prime,50000
+MERCH_1065,Santosh Fresh Vegetables,Santosh Kumar,vegetable_vendor,Lucknow,2,29,28,97,121.2,29.77,329179,0.676,0.246,1,0.05,1.23,1,0.94,0.0,0,890,Prime,50000
+MERCH_1066,Balaji Provision & Kirana,Balaji Singh,kirana_store,Mumbai,1,4,28,35,221.29,118.6,216864,0.252,0.387,1,1.69,1.3,0,1.0,0.001,0,890,Near-Prime,20000
+MERCH_1067,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Ahmedabad,2,9,24,87,59.53,38.11,124298,0.525,0.407,1,0.28,1.09,0,1.0,0.004,0,890,Near-Prime,20000
+MERCH_1068,Suresh City Transport,Suresh Singh,auto_rickshaw,Varanasi,3,5,21,19,54.32,14.4,21673,0.156,0.296,1,0.13,0.77,0,1.0,0.12,0,846,Near-Prime,20000
+MERCH_1069,Mukesh Chai & Snacks,Mukesh Singh,chai_stall,Patna,2,82,26,80,15.0,6.8,31200,0.503,0.409,1,1.81,0.85,0,1.0,0.0223,0,877,Prime,50000
+MERCH_1070,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Lucknow,2,2,24,25,127.02,45.93,76212,0.434,0.304,1,0.05,1.02,0,1.0,0.0189,0,878,Near-Prime,20000
+MERCH_1071,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Delhi NCR,1,2,27,80,34.15,15.53,73764,0.313,0.248,1,0.52,1.02,0,1.0,0.0273,0,873,Near-Prime,20000
+MERCH_1072,Shree Ram Chai & Snacks,Shree Ram Kumar,chai_stall,Delhi NCR,1,21,23,120,22.71,13.54,62679,0.401,0.498,1,1.52,1.4,0,1.0,0.0245,0,890,Prime,50000
+MERCH_1073,Ramesh Chai & Snacks,Ramesh Singh,chai_stall,Mumbai,1,47,13,170,28.9,17.84,63869,0.761,0.296,1,0.75,1.23,1,0.92,0.0092,0,890,Prime,50000
+MERCH_1074,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Delhi NCR,1,1,20,139,111.1,68.95,308858,0.397,0.566,1,0.42,1.34,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_1075,Vikram City Transport,Vikram Kumar,auto_rickshaw,Varanasi,3,3,30,33,158.65,55.07,157063,0.552,0.08,1,0.66,1.45,0,1.0,0.0012,0,890,Near-Prime,20000
+MERCH_1076,Deepak City Transport,Deepak Singh,auto_rickshaw,Patna,2,28,23,43,64.5,27.29,63790,0.482,0.302,1,0.35,0.86,1,0.87,0.0183,0,890,Prime,50000
+MERCH_1077,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Patna,2,14,25,50,232.96,139.64,291200,0.691,0.339,1,0.49,1.3,0,1.0,0.0,0,890,Prime,50000
+MERCH_1078,Gupta Ji Chai & Snacks,Gupta Ji Singh,chai_stall,Patna,2,12,24,65,31.4,16.21,48984,0.56,0.486,1,0.25,1.31,1,0.72,0.0508,0,872,Prime,50000
+MERCH_1079,Meena Pushp Bhandar,Meena Singh,flower_vendor,Mumbai,1,3,22,71,35.84,14.46,55982,0.723,0.299,1,0.44,1.06,0,1.0,0.0205,0,887,Near-Prime,20000
+MERCH_1080,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Patna,2,25,23,83,85.02,28.46,162303,0.85,0.331,1,2.38,1.44,0,1.0,0.0012,0,888,Prime,50000
+MERCH_1081,Pravin City Transport,Pravin Singh,auto_rickshaw,Lucknow,2,11,30,28,147.84,86.78,124185,0.711,0.279,1,0.15,1.09,0,1.0,0.0013,0,890,Near-Prime,20000
+MERCH_1082,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Delhi NCR,1,31,25,28,36.99,23.27,25893,0.509,0.272,1,4.21,0.96,0,1.0,0.2663,0,758,Prime,50000
+MERCH_1083,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Ahmedabad,2,32,18,55,34.9,6.31,34551,0.455,0.322,1,0.6,1.11,2,0.89,0.0584,0,859,Prime,50000
+MERCH_1084,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Jaipur,2,15,22,99,19.76,7.97,43037,0.761,0.363,1,2.78,0.86,1,0.8,0.1576,0,811,Prime,50000
+MERCH_1085,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Mumbai,1,8,23,70,170.1,36.13,273861,0.489,0.288,1,1.19,1.04,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1086,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Lucknow,2,64,26,73,36.58,10.77,69428,0.85,0.18,1,0.75,1.38,0,1.0,0.0012,0,890,Prime,50000
+MERCH_1087,Om Sai Provision & Kirana,Om Sai Singh,kirana_store,Mumbai,1,32,22,71,229.63,53.45,358682,0.766,0.175,1,0.52,1.21,0,1.0,0.0,0,890,Prime,50000
+MERCH_1088,Raju City Transport,Raju Singh,auto_rickshaw,Ahmedabad,2,10,22,55,39.53,14.05,47831,0.308,0.374,1,0.05,1.44,0,1.0,0.038,0,886,Near-Prime,20000
+MERCH_1089,Pravin City Transport,Pravin Singh,auto_rickshaw,Indore,2,8,23,26,98.06,42.89,58639,0.475,0.209,1,0.14,1.2,0,1.0,0.0185,0,889,Near-Prime,20000
+MERCH_1090,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Mumbai,1,30,29,75,28.41,4.55,61791,0.295,0.274,1,1.41,0.95,1,0.85,0.0277,0,873,Prime,50000
+MERCH_1091,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Delhi NCR,1,15,25,49,49.09,13.16,60135,0.549,0.384,1,0.5,1.02,0,1.0,0.0207,0,890,Prime,50000
+MERCH_1092,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Varanasi,3,23,30,24,77.13,49.03,55533,0.623,0.231,1,0.49,0.9,2,0.66,0.021,0,890,Prime,50000
+MERCH_1093,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Patna,2,2,19,83,179.78,103.26,283513,0.731,0.203,1,1.0,0.9,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1094,Deepak City Transport,Deepak Singh,auto_rickshaw,Varanasi,3,3,30,17,49.76,7.71,25377,0.75,0.272,0,0.45,1.3,0,1.0,0.0945,0,834,Near-Prime,20000
+MERCH_1095,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Mumbai,1,1,26,67,241.25,155.65,420257,0.811,0.378,1,3.88,1.18,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1096,Balaji Provision & Kirana,Balaji Kumar,kirana_store,Delhi NCR,1,11,30,73,346.95,215.56,759820,0.348,0.264,1,0.05,0.81,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1097,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Lucknow,2,9,17,87,170.81,45.9,252627,0.83,0.31,1,0.85,0.88,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_1098,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Mumbai,1,13,26,39,290.36,94.98,294425,0.641,0.388,1,0.91,0.82,2,0.74,0.0,0,890,Prime,50000
+MERCH_1099,Deepak City Transport,Deepak Kumar,auto_rickshaw,Lucknow,2,1,24,40,63.84,22.18,61286,0.85,0.326,1,2.03,0.82,0,1.0,0.0363,0,884,Near-Prime,20000
+MERCH_1100,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Varanasi,3,4,29,39,277.1,49.18,313400,0.295,0.409,1,1.22,0.87,0,1.0,0.0,0,886,Near-Prime,20000
+MERCH_1101,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Varanasi,3,34,22,57,230.79,100.64,289410,0.499,0.359,1,0.37,1.18,2,0.99,0.0,0,890,Prime,50000
+MERCH_1102,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Indore,2,15,18,82,37.79,6.95,55778,0.704,0.376,1,2.23,0.8,0,1.0,0.0688,0,855,Prime,50000
+MERCH_1103,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Patna,2,8,24,84,129.32,73.87,260709,0.733,0.252,1,1.06,1.13,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_1104,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Ahmedabad,2,3,19,103,60.64,23.1,118672,0.674,0.391,1,0.52,1.07,0,1.0,0.007,0,890,Near-Prime,20000
+MERCH_1105,Mishra Chai & Snacks,Mishra Singh,chai_stall,Jaipur,2,1,28,110,29.91,4.76,92122,0.711,0.432,1,1.38,1.2,0,1.0,0.0256,0,890,Near-Prime,20000
+MERCH_1106,Balaji Provision & Kirana,Balaji Singh,kirana_store,Ahmedabad,2,9,30,54,189.68,60.89,307281,0.818,0.357,1,3.75,1.33,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1107,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Indore,2,37,27,69,225.87,71.13,420795,0.685,0.329,1,1.74,1.07,0,1.0,0.0,0,890,Prime,50000
+MERCH_1108,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Varanasi,3,26,26,69,306.32,153.24,549538,0.36,0.281,1,0.87,1.13,0,1.0,0.0,0,890,Prime,50000
+MERCH_1109,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Varanasi,3,1,29,78,129.42,74.37,292748,0.572,0.41,1,0.44,1.04,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1110,Chai Point Chai & Snacks,Chai Point Kumar,chai_stall,Patna,2,10,30,98,44.61,21.18,131153,0.704,0.491,1,0.91,0.98,0,1.0,0.0078,0,890,Near-Prime,20000
+MERCH_1111,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Patna,2,43,23,46,366.88,126.17,388159,0.712,0.196,1,0.35,1.13,1,0.86,0.0,0,890,Prime,50000
+MERCH_1112,Sharma Fast Food & Chaat,Sharma Singh,street_food,Ahmedabad,2,1,30,52,78.72,28.25,122803,0.626,0.322,1,0.59,0.92,0,1.0,0.003,0,890,Near-Prime,20000
+MERCH_1113,Sunita Fresh Vegetables,Sunita Singh,vegetable_vendor,Varanasi,3,44,21,70,151.69,88.88,222984,0.203,0.319,1,1.03,1.1,2,0.86,0.0001,0,890,Prime,50000
+MERCH_1114,Suresh City Transport,Suresh Kumar,auto_rickshaw,Varanasi,3,24,26,27,38.82,19.93,27251,0.448,0.257,1,0.32,1.19,1,0.83,0.0357,0,890,Prime,50000
+MERCH_1115,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Lucknow,2,10,21,116,26.5,12.86,64554,0.591,0.358,1,0.67,0.89,0,1.0,0.0251,0,890,Near-Prime,20000
+MERCH_1116,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Jaipur,2,6,26,47,36.46,17.5,44554,0.464,0.279,1,1.13,0.86,0,1.0,0.0482,0,878,Near-Prime,20000
+MERCH_1117,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Delhi NCR,1,19,27,55,161.76,70.75,240213,0.693,0.436,1,0.78,1.44,0,1.0,0.0001,0,890,Prime,50000
+MERCH_1118,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Ahmedabad,2,30,24,43,97.25,41.35,100362,0.761,0.25,1,0.68,1.23,1,0.99,0.0018,0,890,Prime,50000
+MERCH_1119,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Ahmedabad,2,20,30,61,242.76,57.31,444250,0.764,0.24,1,0.71,1.27,2,0.8,0.0,0,890,Prime,50000
+MERCH_1120,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Lucknow,2,3,23,69,17.44,2.8,27677,0.579,0.167,0,0.66,0.83,0,1.0,0.0788,0,851,Near-Prime,20000
+MERCH_1121,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Jaipur,2,1,23,47,490.2,277.22,529906,0.79,0.261,1,2.24,1.13,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1122,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Patna,2,27,25,138,38.62,8.79,133239,0.318,0.389,1,0.89,0.85,2,0.87,0.004,0,890,Prime,50000
+MERCH_1123,Raju City Transport,Raju Singh,auto_rickshaw,Lucknow,2,11,24,34,102.23,17.73,83419,0.373,0.263,1,2.53,0.85,0,1.0,0.0439,0,876,Near-Prime,20000
+MERCH_1124,Ramesh Chai & Snacks,Ramesh Kumar,chai_stall,Delhi NCR,1,24,20,126,37.04,13.33,93340,0.337,0.324,1,0.27,1.0,0,1.0,0.0086,0,890,Prime,50000
+MERCH_1125,Apna Provision & Kirana,Apna Singh,kirana_store,Varanasi,3,4,29,33,267.83,71.93,256313,0.601,0.42,1,0.15,0.82,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1126,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Lucknow,2,20,25,64,33.87,11.66,54191,0.389,0.242,1,1.33,1.29,2,0.9,0.0493,0,873,Prime,50000
+MERCH_1127,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Patna,2,56,21,62,38.85,23.83,50582,0.767,0.363,1,0.14,0.84,0,1.0,0.0049,0,890,Prime,50000
+MERCH_1128,Meena Pushp Bhandar,Meena Singh,flower_vendor,Indore,2,7,23,28,30.42,17.34,19590,0.603,0.358,1,0.87,1.2,0,1.0,0.1511,0,805,Near-Prime,20000
+MERCH_1129,Hari Om Fresh Vegetables,Hari Om Kumar,vegetable_vendor,Patna,2,1,15,69,127.38,19.95,131838,0.825,0.382,1,0.2,1.07,0,1.0,0.0033,0,890,Near-Prime,20000
+MERCH_1130,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Jaipur,2,8,21,119,28.97,4.48,72396,0.438,0.462,1,0.54,1.43,0,1.0,0.0195,0,885,Near-Prime,20000
+MERCH_1131,Pravin City Transport,Pravin Singh,auto_rickshaw,Indore,2,53,24,36,80.29,50.69,69370,0.649,0.227,1,0.2,1.03,1,0.55,0.0101,0,890,Prime,50000
+MERCH_1132,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Varanasi,3,10,18,40,390.68,88.66,281289,0.415,0.294,1,0.14,1.14,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1133,Mishra Chai & Snacks,Mishra Singh,chai_stall,Delhi NCR,1,19,22,98,29.81,11.91,64270,0.725,0.466,1,0.37,1.32,0,1.0,0.0127,0,890,Prime,50000
+MERCH_1134,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Varanasi,3,8,25,70,47.01,26.87,82267,0.623,0.126,1,0.75,1.15,0,1.0,0.0077,0,890,Near-Prime,20000
+MERCH_1135,Balaji Provision & Kirana,Balaji Singh,kirana_store,Indore,2,9,25,79,128.79,39.01,254360,0.418,0.305,1,0.57,1.2,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_1136,Sharma Fast Food & Chaat,Sharma Singh,street_food,Ahmedabad,2,82,25,92,65.57,22.05,150810,0.301,0.539,1,0.07,1.04,0,1.0,0.0014,0,890,Prime,50000
+MERCH_1137,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Jaipur,2,14,28,62,213.64,74.27,370879,0.554,0.295,1,0.49,1.42,1,0.92,0.0,0,890,Prime,50000
+MERCH_1138,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Jaipur,2,1,25,87,19.26,6.08,41890,0.357,0.443,1,1.21,1.42,0,1.0,0.0954,0,843,Near-Prime,20000
+MERCH_1139,Pooja Pushp Bhandar,Pooja Singh,flower_vendor,Indore,2,12,18,60,42.52,15.68,45921,0.767,0.462,1,0.36,1.45,2,0.95,0.0541,0,869,Prime,50000
+MERCH_1140,Pravin City Transport,Pravin Singh,auto_rickshaw,Varanasi,3,2,29,19,56.7,33.49,31241,0.566,0.267,1,0.12,1.26,0,1.0,0.0241,0,890,Near-Prime,20000
+MERCH_1141,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Lucknow,2,3,29,58,32.14,9.88,54059,0.666,0.361,1,1.15,0.88,0,1.0,0.0505,0,870,Near-Prime,20000
+MERCH_1142,Hari Om Fresh Vegetables,Hari Om Singh,vegetable_vendor,Ahmedabad,2,24,29,60,103.29,27.71,179724,0.777,0.192,1,0.33,1.13,0,1.0,0.0002,0,890,Prime,50000
+MERCH_1143,Kamla Pushp Bhandar,Kamla Singh,flower_vendor,Lucknow,2,1,19,58,76.65,18.06,84468,0.518,0.327,1,0.74,1.03,0,1.0,0.0253,0,882,Near-Prime,20000
+MERCH_1144,Apna Provision & Kirana,Apna Kumar,kirana_store,Jaipur,2,12,30,50,295.71,76.88,443564,0.575,0.294,1,2.97,1.26,2,0.72,0.0,0,890,Prime,50000
+MERCH_1145,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Patna,2,6,30,90,151.25,85.67,408375,0.578,0.489,1,1.42,1.09,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1146,Balaji Provision & Kirana,Balaji Singh,kirana_store,Patna,2,2,18,33,363.67,101.95,216019,0.476,0.377,1,0.17,1.41,0,1.0,0.0004,0,890,Near-Prime,20000
+MERCH_1147,Irfan City Transport,Irfan Singh,auto_rickshaw,Patna,2,9,20,32,160.47,104.12,102700,0.683,0.352,1,0.49,1.35,0,1.0,0.0067,0,890,Near-Prime,20000
+MERCH_1148,Laxmi Fresh Vegetables,Laxmi Singh,vegetable_vendor,Delhi NCR,1,60,18,80,137.52,75.49,198028,0.758,0.237,1,0.5,1.0,0,1.0,0.0001,0,890,Prime,50000
+MERCH_1149,Anand Fast Food & Chaat,Anand Kumar,street_food,Lucknow,2,14,29,101,27.87,9.72,81631,0.85,0.219,1,0.36,1.34,2,0.97,0.0055,0,890,Prime,50000
+MERCH_1150,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Jaipur,2,61,22,62,46.98,23.48,64080,0.667,0.35,1,2.08,1.31,2,0.88,0.0155,0,886,Prime,50000
+MERCH_1151,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Jaipur,2,33,26,58,50.0,29.73,75400,0.612,0.293,1,0.56,0.98,2,0.94,0.0052,0,890,Prime,50000
+MERCH_1152,Gayatri Pushp Bhandar,Gayatri Kumar,flower_vendor,Patna,2,26,23,31,37.89,10.89,27015,0.642,0.097,0,1.72,1.3,0,1.0,0.0573,0,862,Prime,50000
+MERCH_1153,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Jaipur,2,17,30,45,135.81,73.64,183343,0.85,0.402,1,0.19,1.3,1,0.84,0.0003,0,890,Prime,50000
+MERCH_1154,Radha Fresh Vegetables,Radha Kumar,vegetable_vendor,Varanasi,3,39,23,38,140.6,86.81,122884,0.542,0.344,1,0.94,1.37,0,1.0,0.0017,0,890,Prime,50000
+MERCH_1155,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Ahmedabad,2,37,25,53,44.92,16.22,59519,0.653,0.461,1,0.23,0.8,0,1.0,0.0088,0,888,Prime,50000
+MERCH_1156,Ganesh Provision & Kirana,Ganesh Singh,kirana_store,Varanasi,3,5,24,41,184.85,37.54,181892,0.7,0.423,1,1.68,1.2,0,1.0,0.0018,0,890,Near-Prime,20000
+MERCH_1157,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Delhi NCR,1,39,17,57,52.3,31.54,50678,0.619,0.304,1,2.27,1.42,0,1.0,0.048,0,871,Prime,50000
+MERCH_1158,Meena Pushp Bhandar,Meena Singh,flower_vendor,Varanasi,3,18,28,43,59.99,27.9,72227,0.734,0.237,1,0.26,1.16,2,0.68,0.0065,0,887,Prime,50000
+MERCH_1159,Vikram City Transport,Vikram Singh,auto_rickshaw,Jaipur,2,4,23,33,110.0,21.46,83490,0.235,0.172,1,1.45,1.25,0,1.0,0.0427,0,872,Near-Prime,20000
+MERCH_1160,Meena Pushp Bhandar,Meena Kumar,flower_vendor,Indore,2,50,21,41,39.62,15.12,34112,0.848,0.44,1,0.1,1.08,2,0.86,0.0168,0,890,Prime,50000
+MERCH_1161,Chaat Chatori Fast Food & Chaat,Chaat Chatori Kumar,street_food,Varanasi,3,1,30,62,92.65,25.47,172329,0.57,0.442,1,0.35,1.32,0,1.0,0.0011,0,890,Near-Prime,20000
+MERCH_1162,Chaat Chatori Fast Food & Chaat,Chaat Chatori Singh,street_food,Varanasi,3,10,24,72,74.69,12.95,129064,0.691,0.33,1,0.42,1.4,0,1.0,0.0019,0,890,Near-Prime,20000
+MERCH_1163,Sunita Fresh Vegetables,Sunita Kumar,vegetable_vendor,Jaipur,2,12,21,76,165.03,99.35,263387,0.447,0.253,1,0.42,1.41,0,1.0,0.0001,0,890,Prime,50000
+MERCH_1164,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Lucknow,2,1,24,89,173.49,69.44,370574,0.526,0.475,1,0.39,1.35,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1165,Kisaan Provision & Kirana,Kisaan Kumar,kirana_store,Delhi NCR,1,18,26,52,190.09,44.7,257001,0.366,0.144,1,0.56,0.92,2,0.81,0.0001,0,888,Prime,50000
+MERCH_1166,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Lucknow,2,5,28,40,52.41,17.66,58699,0.548,0.214,1,0.39,0.76,0,1.0,0.0143,0,887,Near-Prime,20000
+MERCH_1167,Radha Fresh Vegetables,Radha Singh,vegetable_vendor,Lucknow,2,41,29,63,91.53,50.47,167225,0.351,0.298,1,1.04,1.23,1,0.8,0.0006,0,890,Prime,50000
+MERCH_1168,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Lucknow,2,1,24,95,50.06,30.9,114136,0.85,0.331,1,2.09,0.98,0,1.0,0.0118,0,890,Near-Prime,20000
+MERCH_1169,Shakti Pushp Bhandar,Shakti Kumar,flower_vendor,Mumbai,1,7,30,45,67.9,11.05,91665,0.744,0.256,1,0.56,0.85,0,1.0,0.0038,0,890,Near-Prime,20000
+MERCH_1170,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Indore,2,9,19,73,29.29,4.46,40625,0.604,0.445,1,1.83,1.06,0,1.0,0.153,0,827,Near-Prime,20000
+MERCH_1171,Sharma Fast Food & Chaat,Sharma Kumar,street_food,Lucknow,2,1,23,48,40.86,15.68,45109,0.409,0.342,1,0.08,1.35,0,1.0,0.0865,0,859,Near-Prime,20000
+MERCH_1172,Apna Provision & Kirana,Apna Singh,kirana_store,Jaipur,2,4,25,41,245.82,146.91,251965,0.551,0.276,1,0.69,0.94,0,1.0,0.0001,0,885,Near-Prime,20000
+MERCH_1173,Dosa Corner Fast Food & Chaat,Dosa Corner Singh,street_food,Delhi NCR,1,19,21,101,114.32,26.36,242472,0.684,0.08,1,0.35,0.77,1,0.85,0.0,0,890,Prime,50000
+MERCH_1174,Chai Point Chai & Snacks,Chai Point Singh,chai_stall,Ahmedabad,2,8,27,55,31.26,7.5,46421,0.683,0.361,1,2.12,1.06,0,1.0,0.1089,0,843,Near-Prime,20000
+MERCH_1175,Irfan City Transport,Irfan Kumar,auto_rickshaw,Indore,2,73,20,27,38.29,17.74,20676,0.85,0.412,1,1.95,1.37,2,0.67,0.0661,0,851,Prime,50000
+MERCH_1176,Mukesh Chai & Snacks,Mukesh Kumar,chai_stall,Patna,2,3,23,86,48.47,24.61,95873,0.622,0.208,1,0.11,0.91,0,1.0,0.0036,0,890,Near-Prime,20000
+MERCH_1177,Pooja Pushp Bhandar,Pooja Kumar,flower_vendor,Lucknow,2,18,30,17,54.78,29.69,27937,0.644,0.299,0,1.07,1.38,2,0.98,0.0701,0,875,Prime,50000
+MERCH_1178,Shakti Pushp Bhandar,Shakti Singh,flower_vendor,Lucknow,2,22,25,60,53.46,15.28,80190,0.443,0.113,1,0.92,1.44,2,0.83,0.0042,0,890,Prime,50000
+MERCH_1179,Mahadev Provision & Kirana,Mahadev Singh,kirana_store,Jaipur,2,1,28,48,212.52,112.87,285626,0.51,0.351,1,0.05,1.27,0,1.0,0.0,0,890,Near-Prime,20000
+MERCH_1180,Ganesh Provision & Kirana,Ganesh Kumar,kirana_store,Varanasi,3,12,27,66,122.1,28.01,217582,0.544,0.386,1,0.36,0.88,0,1.0,0.0001,0,890,Prime,50000
+MERCH_1181,Dosa Corner Fast Food & Chaat,Dosa Corner Kumar,street_food,Jaipur,2,7,30,88,266.82,58.56,704404,0.263,0.378,1,0.62,1.19,0,1.0,0.0,0,889,Near-Prime,20000
+MERCH_1182,Mahadev Provision & Kirana,Mahadev Kumar,kirana_store,Mumbai,1,29,27,43,155.38,59.3,180396,0.683,0.286,1,1.97,1.37,2,0.76,0.0014,0,889,Prime,50000
+MERCH_1183,Ram Prasad Fresh Vegetables,Ram Prasad Singh,vegetable_vendor,Ahmedabad,2,12,22,43,165.54,71.18,156600,0.808,0.11,1,0.73,1.19,0,1.0,0.0007,0,887,Prime,50000
+MERCH_1184,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Mumbai,1,18,28,130,30.5,15.74,111020,0.574,0.644,1,0.32,1.34,2,0.76,0.0083,0,890,Prime,50000
+MERCH_1185,Anand Fast Food & Chaat,Anand Kumar,street_food,Mumbai,1,6,29,107,49.66,15.83,154094,0.61,0.339,1,0.4,0.77,0,1.0,0.0011,0,890,Near-Prime,20000
+MERCH_1186,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Lucknow,2,1,23,53,108.51,62.91,132273,0.65,0.591,1,0.69,1.09,0,1.0,0.0081,0,890,Near-Prime,20000
+MERCH_1187,Anand Fast Food & Chaat,Anand Singh,street_food,Varanasi,3,33,29,80,70.59,33.54,163768,0.533,0.464,1,1.49,1.27,2,0.91,0.0014,0,890,Prime,50000
+MERCH_1188,Ram Prasad Fresh Vegetables,Ram Prasad Kumar,vegetable_vendor,Patna,2,34,28,77,75.85,47.71,163532,0.468,0.445,1,1.09,0.98,0,1.0,0.0017,0,890,Prime,50000
+MERCH_1189,Gupta Ji Chai & Snacks,Gupta Ji Kumar,chai_stall,Indore,2,13,29,105,61.8,18.13,188181,0.447,0.45,1,1.71,1.06,0,1.0,0.0015,0,890,Prime,50000
+MERCH_1190,Apna Provision & Kirana,Apna Kumar,kirana_store,Jaipur,2,12,19,21,235.99,50.33,94160,0.514,0.406,1,0.37,1.26,2,0.94,0.0102,0,889,Prime,50000
+MERCH_1191,Raju City Transport,Raju Singh,auto_rickshaw,Varanasi,3,6,23,8,67.72,29.4,12460,0.683,0.121,0,1.88,0.88,0,1.0,0.1549,0,812,Near-Prime,20000
+MERCH_1192,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Mumbai,1,20,25,117,26.1,4.02,76342,0.331,0.185,1,0.07,0.98,1,0.99,0.008,0,890,Prime,50000
+MERCH_1193,Shree Ram Chai & Snacks,Shree Ram Singh,chai_stall,Patna,2,15,29,73,27.96,7.48,59191,0.681,0.234,1,0.78,1.06,1,0.96,0.0147,0,879,Prime,50000
+MERCH_1194,Aggarwal Fast Food & Chaat,Aggarwal Kumar,street_food,Jaipur,2,1,23,73,142.73,72.53,239643,0.556,0.408,1,0.41,1.03,0,1.0,0.0001,0,890,Near-Prime,20000
+MERCH_1195,Laxmi Fresh Vegetables,Laxmi Kumar,vegetable_vendor,Jaipur,2,66,24,56,84.09,26.04,113016,0.408,0.326,1,0.22,1.4,1,0.87,0.0023,0,890,Prime,50000
+MERCH_1196,Irfan City Transport,Irfan Kumar,auto_rickshaw,Indore,2,4,30,25,59.13,27.54,44347,0.378,0.336,1,1.02,1.13,0,1.0,0.1149,0,849,Near-Prime,20000
+MERCH_1197,Gayatri Pushp Bhandar,Gayatri Singh,flower_vendor,Indore,2,20,28,54,31.82,19.01,48111,0.263,0.398,1,0.28,1.4,2,0.95,0.0541,0,857,Prime,50000
+MERCH_1198,Kisaan Provision & Kirana,Kisaan Singh,kirana_store,Indore,2,37,25,45,425.93,123.92,479171,0.544,0.41,1,0.17,1.45,2,0.97,0.0,0,890,Prime,50000
+MERCH_1199,Kamla Pushp Bhandar,Kamla Kumar,flower_vendor,Delhi NCR,1,1,30,51,75.12,46.26,114933,0.772,0.173,1,0.1,0.85,0,1.0,0.0008,0,890,Near-Prime,20000
+MERCH_1200,Mishra Chai & Snacks,Mishra Kumar,chai_stall,Ahmedabad,2,3,27,91,61.12,11.7,150171,0.404,0.318,1,0.49,1.29,0,1.0,0.0023,0,890,Near-Prime,20000
