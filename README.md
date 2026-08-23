@@ -1,6 +1,7 @@
 # 🚀 MicroSetu (जन-सेतु)
 ### AI-Powered Alternative Credit Underwriting & Smart Vernacular Operating System for Informal Micro-Merchants
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-mudit--r%2Fmicrosetu-181717.svg?logo=github)](https://github.com/mudit-r/microsetu)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg)](https://fastapi.tiangolo.com/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4+-F7931E.svg)](https://scikit-learn.org/)
