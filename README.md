@@ -1,18 +1,18 @@
-# 🚀 MicroSetu (जन-सेतु)
+# MicroSetu (Jan-Setu)
 ### AI-Powered Alternative Credit Underwriting & Smart Vernacular Operating System for Informal Micro-Merchants
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-mudit--r%2Fmicrosetu-181717.svg?logo=github)](https://github.com/mudit-r/microsetu)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Mudit--R%2Fmicrosetu-181717.svg?logo=github)](https://github.com/Mudit-R/microsetu)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg)](https://fastapi.tiangolo.com/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4+-F7931E.svg)](https://scikit-learn.org/)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-emerald.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)]()
 
-> **MicroSetu** bridges the massive financial inclusion gap in India's informal economy (representing 90%+ of domestic employment). By transforming high-velocity, small-ticket UPI payment streams into verified digital credit footprints, MicroSetu enables collateral-free micro-lending under schemes like **PM SVANidhi (₹10,000 to ₹50,000)** with **0.99 ROC-AUC default prediction**.
+> **MicroSetu** bridges the massive financial inclusion gap in India's informal economy (representing 90%+ of domestic employment). By transforming high-velocity, small-ticket UPI payment streams into verified digital credit footprints, MicroSetu enables collateral-free micro-lending under schemes like **PM SVANidhi (Rs. 10,000 to Rs. 50,000)** with **0.99 ROC-AUC default prediction**.
 
 ---
 
-## 📌 Key Architectural Innovations
+## Key Architectural Innovations
 
 ```mermaid
 graph TD
@@ -49,47 +49,47 @@ graph TD
 
 ---
 
-## ✨ Features
+## Features
 
-### 1. 💳 Alternative Credit Underwriting Engine (`/api/underwrite`)
+### 1. Alternative Credit Underwriting Engine (/api/underwrite)
 - Replaces traditional CIBIL/FICO bureau checks with **13 high-frequency UPI cash-flow signals**:
   - Operational discipline (active trading days/month)
   - Turnover velocity & ticket variance
   - Customer retention & repeat payer ratios
-  - Cash flow volatility index ($CV = \sigma / \mu$)
+  - Cash flow volatility index (CV = sigma / mu)
   - Digital soundbox hygiene & dispute rates
 - Predicts default probability with **0.99 ROC-AUC** and maps into **SetuScore (300 to 900)**.
 - **Explainable AI (XAI)**: Generates human-readable positive/negative credit drivers for complete transparency.
 
-### 2. 📢 Vernacular Voice Soundbox Simulator
+### 2. Vernacular Voice Soundbox Simulator
 - Simulates real-time 4G audio soundbox hardware.
 - Supports multi-lingual announcements (Hindi, Indian English, Hinglish) via the **Web Speech API**.
 - Zero-latency acoustic wave animations and visual LED status lights.
 
-### 3. 🎙️ Voice-First Smart Ledger (`/api/voice-ledger/parse`)
+### 3. Voice-First Smart Ledger (/api/voice-ledger/parse)
 - Built for illiterate and semi-literate street vendors.
-- Allows vendors to speak natural Hinglish/Hindi expenses (e.g., *"Aaj ₹450 ki sabzi kharidi mandi se"*).
+- Allows vendors to speak natural Hinglish/Hindi expenses (e.g., *"Aaj Rs. 450 ki sabzi kharidi mandi se"*).
 - NLP regex parsing extracts amounts, categorizes inventory/wages/utilities, and automatically computes daily P&L.
 
-### 4. 🛡️ Anti-Fraud & Payment Spoof Prevention Shield (`/api/fraud-check`)
+### 4. Anti-Fraud & Payment Spoof Prevention Shield (/api/fraud-check)
 - Protects micro-merchants from fake payment screenshot APKs and cloned QR codes.
 - Verifies 12-digit NPCI banking switch routing rules.
 - Prevents duplicate UTR replay attacks via in-memory sliding window cache.
 - Detects timestamp anomalies (future-dated claims or stale receipts).
 
-### 5. 📈 Predictive Cash-Flow & Working Capital Intelligence (`/api/cashflow/forecast`)
+### 5. Predictive Cash-Flow & Working Capital Intelligence (/api/cashflow/forecast)
 - Generates 30-day forward time-series projections with **95% confidence intervals**.
 - Incorporates weekend surges and market seasonality.
 - Recommends safe daily micro-deduction debt caps (max 12% debt-service ratio).
 
-### 6. ⚡ Live Simulation Studio & Sanction Letter Generator
+### 6. Live Simulation Studio & Sanction Letter Generator
 - Simulates burst payment traffic (10 to 25 simultaneous transactions).
 - Dynamically recalculates credit limits in real-time.
-- One-click generates authenticated **MoHUA PM SVANidhi Loan Sanction Certificates** with confetti animations!
+- One-click generates authenticated **MoHUA PM SVANidhi Loan Sanction Certificates** with visual feedback.
 
 ---
 
-## 🚀 Quickstart Guide
+## Quickstart Guide
 
 ### Prerequisites
 - Python 3.9+ (Python 3.11 recommended)
@@ -116,17 +116,17 @@ graph TD
 
 ---
 
-## 📊 Empirical Benchmarks & Research Alignment
+## Empirical Benchmarks & Research Alignment
 
 This project is directly modeled on empirical research papers and central bank datasets:
 - **RBI Financial Inclusion Index (FI-Index)**: Reflects composite growth from 53.9 (2021) to 70.0 (March 2026).
-- **Informal Worker Income Premium**: Digital integration adds +39.8% monthly income (₹15,800 vs ₹11,300, *Mallick & Singla 2025*).
-- **PM SVANidhi Integration**: Replicates national disbursement metrics (>₹13,797 Crore across 68.4 Lakh micro-merchants).
-- **Small-Ticket Profiling**: 86% of simulated P2M transactions are $\le$ ₹500, conforming to NPCI retail statistics.
+- **Informal Worker Income Premium**: Digital integration adds +39.8% monthly income (Rs. 15,800 vs Rs. 11,300, *Mallick & Singla 2025*).
+- **PM SVANidhi Integration**: Replicates national disbursement metrics (>Rs. 13,797 Crore across 68.4 Lakh micro-merchants).
+- **Small-Ticket Profiling**: 86% of simulated P2M transactions are <= Rs. 500, conforming to NPCI retail statistics.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technologies |
 |---|---|
@@ -138,7 +138,7 @@ This project is directly modeled on empirical research papers and central bank d
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 microsetu/
@@ -164,6 +164,6 @@ microsetu/
 
 ---
 
-## 📄 License & Attribution
+## License & Attribution
 Developed as an advanced applied FinTech & AI project based on research on *UPI and its Impact on Financial Inclusion and Livelihoods of Informal Workers*.
 Released under the **MIT License**.
