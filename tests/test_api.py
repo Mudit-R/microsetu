@@ -66,11 +66,12 @@ def test_ml_underwriting():
     assert len(data["top_positive_drivers"]) > 0
 
 def test_fraud_detector_genuine():
+    from datetime import datetime
     payload = {
         "utr": "412345678901",
         "amount": 50.0,
         "merchant_vpa": "rameshchai@okaxis",
-        "timestamp_str": "2026-08-23T18:30:00",
+        "timestamp_str": datetime.now().isoformat(),
         "payer_vpa": "valid_user@okaxis",
         "app_reported": "PhonePe"
     }
@@ -81,11 +82,12 @@ def test_fraud_detector_genuine():
     assert data["risk_score"] < 25
 
 def test_fraud_detector_spoof_detection():
+    from datetime import datetime, timedelta
     payload = {
         "utr": "999999", # Invalid format
         "amount": 25000.0, # High anomaly
         "merchant_vpa": "rameshchai@okaxis",
-        "timestamp_str": "2026-08-23T23:59:59", # Future timestamp
+        "timestamp_str": (datetime.now() + timedelta(hours=5)).isoformat(), # Future timestamp
         "payer_vpa": "scammer@fakeupi",
         "screenshot_metadata": { "font_mismatch_detected": True }
     }

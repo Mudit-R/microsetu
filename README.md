@@ -1,128 +1,187 @@
-# MicroSetu (Jan-Setu)
-### AI-Powered Alternative Credit Underwriting & Smart Vernacular Operating System for Informal Micro-Merchants
+# MicroSetu (जन-सेतु)
+### Alternative Credit Underwriting & Smart Vernacular POS for Informal Micro-Merchants
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Mudit--R%2Fmicrosetu-181717.svg?logo=github)](https://github.com/Mudit-R/microsetu)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg)](https://fastapi.tiangolo.com/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4+-F7931E.svg)](https://scikit-learn.org/)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-emerald.svg)]()
+[![Status](https://img.shields.io/badge/Status-Prototype%20Ready-emerald.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)]()
 
-> **MicroSetu** bridges the massive financial inclusion gap in India's informal economy (representing 90%+ of domestic employment). By transforming high-velocity, small-ticket UPI payment streams into verified digital credit footprints, MicroSetu enables collateral-free micro-lending under schemes like **PM SVANidhi (Rs. 10,000 to Rs. 50,000)** with **0.99 ROC-AUC default prediction**.
+> **MicroSetu** is an applied FinTech platform and system prototype designed to solve the digital credit barrier for informal workers in India. By converting high-frequency UPI transaction streams into verifiable cash-flow footprints, MicroSetu enables institutional micro-lending under schemes like **PM SVANidhi (₹10,000 to ₹50,000)** without requiring formal credit bureau (CIBIL) scores or physical collateral.
 
 ---
 
-## Key Architectural Innovations
+## The Problem: The Unbanked Cash-Flow Paradox
+
+India's informal sector employs over 90% of the country's workforce and generates roughly half of national GDP. Since the rollout of the Unified Payments Interface (UPI), millions of roadside chai stalls, vegetable vendors, and small merchants conduct daily business digitally via QR codes.
+
+However, when these vendors apply for small business loans, traditional banks and NBFCs reject them because:
+1. **Zero Credit Bureau Footprint:** Traditional underwriting relies on CIBIL/FICO scores, salary slips, and income tax returns (ITRs)—none of which informal vendors possess.
+2. **Operational Illiteracy:** Bookkeeping apps and banking portals require typed English inputs, making them inaccessible to semi-literate merchants.
+3. **Street-Level Payment Scams:** Vendors frequently fall victim to spoofed payment apps (fake Paytm/PhonePe APKs that display false confirmation screens without moving money).
+4. **Rigid Monthly EMIs:** Informal daily income fluctuates; large lump-sum monthly loan installments often trigger defaults and distress.
+
+**MicroSetu provides a full-stack technical solution to each of these challenges.**
+
+---
+
+## System Architecture
 
 ```mermaid
 graph TD
-    subgraph "Vendor Layer (Mobile / POS)"
-        V[Micro-Merchant PWA] -->|Voice Ledger / Audio| SB[Vernacular Voice Soundbox]
-        V -->|UPI Transaction Feed| QR[Dynamic Merchant QR & Payment Gateway]
-        V -->|Payment Verification Claim| FD[Fraud & Spoof Detection Shield]
+    subgraph "Vendor Layer (Merchant Terminal & Soundbox)"
+        V[Micro-Merchant PWA] -->|Spoken Hindi Expense| VL[Voice-First Smart Ledger]
+        V -->|UPI Transaction Inflow| SB[Vernacular Smart Soundbox]
+        V -->|Payment Claim / Screenshot| FD[Anti-Fraud & Spoof Shield]
     end
 
-    subgraph "Backend & Intelligence Core (FastAPI)"
-        API[API Gateway / Endpoints]
-        TR[Synthetic Transaction Streaming Engine]
-        ML[Alternative Credit Scoring Model (Cash-Flow ML)]
-        XAI[Explainability Engine (SHAP / Feature Attribution)]
-        CS[Predictive Cash-Flow & Working Capital Forecaster]
+    subgraph "Core Backend Engine (FastAPI)"
+        API[API Gateway / REST Endpoints]
+        ML[Alternative Credit Scoring Model]
+        XAI[Transparent Decision Drivers]
+        CF[30-Day Cash-Flow Forecaster]
+        REPLAY[24-Hour Sliding UTR Cache]
     end
 
-    subgraph "Institutional & Lender Portal"
-        LP[NBFC / Bank Underwriting Dashboard]
-        SV[PM SVANidhi Automated Tranche Recommender]
-        AN[Macro & Micro Financial Inclusion Analytics]
+    subgraph "Lender & Policy Layer"
+        LP[NBFC / Bank Underwriting Portal]
+        SV[PM SVANidhi Tranche Recommender]
+        CERT[Loan Sanction Certificate Generator]
     end
 
-    V --> API
-    FD --> API
-    API --> TR
+    VL --> API
+    SB --> API
+    FD --> REPLAY
+    REPLAY --> API
     API --> ML
     ML --> XAI
-    API --> CS
-    API --> LP
-    API --> SV
-    API --> AN
+    API --> CF
+    XAI --> LP
+    CF --> LP
+    LP --> SV
+    SV --> CERT
 ```
 
 ---
 
-## Features
+## Core Technical Modules
 
-### 1. Alternative Credit Underwriting Engine (/api/underwrite)
-- Replaces traditional CIBIL/FICO bureau checks with **13 high-frequency UPI cash-flow signals**:
-  - Operational discipline (active trading days/month)
-  - Turnover velocity & ticket variance
-  - Customer retention & repeat payer ratios
-  - Cash flow volatility index (CV = sigma / mu)
-  - Digital soundbox hygiene & dispute rates
-- Predicts default probability with **0.99 ROC-AUC** and maps into **SetuScore (300 to 900)**.
-- **Explainable AI (XAI)**: Generates human-readable positive/negative credit drivers for complete transparency.
+### 1. Alternative Cash-Flow Underwriting (`credit_model.py`)
+* **How it works:** Evaluates 13 high-frequency behavioral cash-flow signals extracted from UPI merchant streams instead of bureau scores:
+  * **Operational Consistency:** Active trading days per month (out of 30).
+  * **Turnover Velocity & Stability:** Daily transaction count and coefficient of variation ($CV = \sigma / \mu$).
+  * **Customer Retention:** Proportion of repeat UPI handles transacting regularly.
+  * **Digital Hygiene:** Soundbox adoption (reducing dispute friction) and dispute failure rates.
+* **The Output:** Computes a normalized **SetuScore (300 to 900)** with clear positive/negative risk drivers to ensure auditability and regulatory transparency.
 
-### 2. Vernacular Voice Soundbox Simulator
-- Simulates real-time 4G audio soundbox hardware.
-- Supports multi-lingual announcements (Hindi, Indian English, Hinglish) via the **Web Speech API**.
-- Zero-latency acoustic wave animations and visual LED status lights.
+### 2. Vernacular Voice-First Ledger (`voice_processor.py`)
+* **How it works:** Uses the native browser **Web Speech API** for zero-latency speech-to-text in Hindi and Hinglish.
+* **Extraction Pipeline:** A deterministic natural language regex slot-filling engine extracts the transaction type (`EXPENSE` vs `INCOME`), exact rupee amounts, and business categories (*e.g., Inventory, Mandi Wholesale, Utilities, Logistics*).
+* **Vendor Benefit:** Merchants simply tap a microphone and say: *"Aaj 450 rupaye ki sabzi kharidi"* to instantly maintain double-entry bookkeeping records.
 
-### 3. Voice-First Smart Ledger (/api/voice-ledger/parse)
-- Built for illiterate and semi-literate street vendors.
-- Allows vendors to speak natural Hinglish/Hindi expenses (e.g., *"Aaj Rs. 450 ki sabzi kharidi mandi se"*).
-- NLP regex parsing extracts amounts, categorizes inventory/wages/utilities, and automatically computes daily P&L.
+### 3. Anti-Fraud & Payment Spoof Prevention Shield (`fraud_detector.py`)
+* **NPCI UTR Validation:** Verifies the 12-digit numeric reference against Indian banking switch routing conventions.
+* **Sliding Window Replay Defense:** An in-memory 24-hour cache detects and blocks duplicate UTR numbers being shown by multiple customers.
+* **Timestamp Freshness:** Flags screenshots with future-dated timestamps (fake APK generators) or stale receipts (>2 hours old).
+* **Audio Soundbox Synchronization:** Only releases voice confirmation audio after a claim passes automated security heuristics.
 
-### 4. Anti-Fraud & Payment Spoof Prevention Shield (/api/fraud-check)
-- Protects micro-merchants from fake payment screenshot APKs and cloned QR codes.
-- Verifies 12-digit NPCI banking switch routing rules.
-- Prevents duplicate UTR replay attacks via in-memory sliding window cache.
-- Detects timestamp anomalies (future-dated claims or stale receipts).
+### 4. Predictive Cash Flow & Daily Repayment Capping (`cashflow_forecaster.py`)
+* **Probabilistic Projections:** Models 30-day forward cash flow incorporating day-of-week trends and liquidity fluctuations.
+* **Micro-Deduction Debt Cap:** Recommends capping daily micro-repayments at **10%–12% of projected daily revenue**, protecting vendors from default during slow business weeks.
 
-### 5. Predictive Cash-Flow & Working Capital Intelligence (/api/cashflow/forecast)
-- Generates 30-day forward time-series projections with **95% confidence intervals**.
-- Incorporates weekend surges and market seasonality.
-- Recommends safe daily micro-deduction debt caps (max 12% debt-service ratio).
-
-### 6. Live Simulation Studio & Sanction Letter Generator
-- Simulates burst payment traffic (10 to 25 simultaneous transactions).
-- Dynamically recalculates credit limits in real-time.
-- One-click generates authenticated **MoHUA PM SVANidhi Loan Sanction Certificates** with visual feedback.
+### 5. Automated PM SVANidhi Micro-Lending Portal (`server.py`)
+* Automatically maps underwriting results into official Ministry of Housing and Urban Affairs (MoHUA) loan tranches:
+  * **Tranche 1 (₹10,000):** Entry-level working capital for newly onboarded merchants.
+  * **Tranche 2 (₹20,000):** Scale-up capital for merchants with 6+ months of consistent UPI velocity.
+  * **Tranche 3 (₹50,000):** Enterprise expansion limit for established prime vendors.
+* Generates authenticated digital **Loan Sanction Certificates** with daily sweep amounts and subsidized interest calculations.
 
 ---
 
 ## Quickstart Guide
 
 ### Prerequisites
-- Python 3.9+ (Python 3.11 recommended)
-- Modern web browser (Chrome, Edge, Firefox, Safari)
+* Python 3.9+ (Python 3.11 recommended)
+* Any modern web browser (Chrome, Edge, Firefox, Safari)
 
-### Installation & Run
+### Installation & Launch
 
-1. **Clone or Navigate to the Directory**:
+1. **Navigate to the project directory:**
    ```bash
    cd microsetu
    ```
 
-2. **Install Python Dependencies** (if needed):
+2. **Install Python dependencies:**
    ```bash
    pip install fastapi uvicorn scikit-learn pandas numpy joblib
    ```
 
-3. **Launch the Platform**:
-   - **Windows**: Double-click `run_demo.bat` or run:
-     ```bash
-     python start.py
-     ```
-   - The application will automatically train/load the ML model, initialize the dataset, start FastAPI, and launch your browser at `http://127.0.0.1:8000`.
+3. **Launch the application:**
+   ```bash
+   python start.py
+   ```
+   * The server initializes the calibrated dataset, loads the ML model, starts the FastAPI server on `http://127.0.0.1:8000`, and opens your default web browser automatically.
+
+4. **Run automated test suite:**
+   ```bash
+   pytest tests/test_api.py -v
+   ```
 
 ---
 
-## Empirical Benchmarks & Research Alignment
+## 2-Minute Demo Walkthrough
 
-This project is directly modeled on empirical research papers and central bank datasets:
-- **RBI Financial Inclusion Index (FI-Index)**: Reflects composite growth from 53.9 (2021) to 70.0 (March 2026).
-- **Informal Worker Income Premium**: Digital integration adds +39.8% monthly income (Rs. 15,800 vs Rs. 11,300, *Mallick & Singla 2025*).
-- **PM SVANidhi Integration**: Replicates national disbursement metrics (>Rs. 13,797 Crore across 68.4 Lakh micro-merchants).
-- **Small-Ticket Profiling**: 86% of simulated P2M transactions are <= Rs. 500, conforming to NPCI retail statistics.
+1. **Merchant Terminal (Tab 1):**
+   * Select a pre-loaded vendor persona (*e.g., Ramesh Kumar - Tea Stall* vs *Vikram - Auto Driver*).
+   * Test the **Soundbox** by triggering a simulated payment to hear the instant multilingual voice confirmation.
+   * Test the **Voice Ledger** by speaking an expense in Hindi/Hinglish to see the real-time P&L table update.
+2. **SetuScore & Underwriting (Tab 2):**
+   * Inspect the vendor's 300–900 credit score, risk tier, approved PM SVANidhi limit, and transparent positive/negative credit drivers.
+   * Click **"Generate Sanction Certificate"** to inspect the official MoHUA loan certificate.
+3. **Anti-Fraud Shield (Tab 3):**
+   * Test a genuine 12-digit UTR vs a duplicate or spoofed UTR to see the defense heuristics in action.
+4. **Cash Flow AI (Tab 4):**
+   * View the 30-day forecast chart and daily micro-deduction debt cap calculations.
+
+---
+
+## Empirical Grounding & Research Context
+
+MicroSetu was built as the technical companion to research on *UPI and its Impact on Financial Inclusion and Livelihoods of Informal Workers*.
+
+The system parameters and merchant cohorts are calibrated to published empirical literature and central bank indicators:
+* **RBI Financial Inclusion Index (FI-Index):** Reflects India's composite score growth from 53.9 (2021) to 70.0 (March 2026).
+* **Informal Income Differential:** Calibrated against the findings of *Mallick & Singla (2025)* showing digital users average ₹15,800/mo vs ₹11,300/mo for cash-only peers (+39.8%).
+* **Small-Ticket Profiling:** Conforms to NPCI retail statistics where 86% of person-to-merchant (P2M) transactions are $\le$ ₹500.
+* **Field Survey Grounding:** Incorporates behavioral insights from *Attarwala (2025)* and *Devi (2025)* regarding vendor dispute anxiety and soundbox reliance.
+
+---
+
+## Project Structure
+
+```
+microsetu/
+├── backend/
+│   ├── server.py              # FastAPI application, REST endpoints & static serving
+│   ├── credit_model.py        # Alternative underwriting model & feature attribution
+│   ├── fraud_detector.py      # Anti-fraud UTR validation & replay defense
+│   ├── cashflow_forecaster.py # Time-series cash-flow & micro-repayment model
+│   ├── dataset_generator.py   # Calibrated merchant cohort & transaction generator
+│   └── voice_processor.py     # Vernacular Hindi/Hinglish NLP ledger parser
+├── frontend/
+│   ├── index.html             # Single-page application dashboard layout
+│   ├── style.css              # Custom CSS design system (glassmorphism tokens)
+│   └── app.js                 # UI controllers, soundbox synthesis & chart rendering
+├── docs/
+│   ├── RESUME_BULLETS.md      # Grounded, senior-level resume bullet points
+│   └── INTERVIEW_TALKING_POINTS.md # System design & interview preparation guide
+├── tests/
+│   └── test_api.py            # Automated unit and integration test suite
+├── data/                      # Calibrated datasets and trained model artifacts
+├── start.py                   # Python entry point & browser auto-launcher
+├── run_demo.bat               # One-click Windows runner
+└── README.md                  # Comprehensive documentation
+```
 
 ---
 
@@ -131,39 +190,12 @@ This project is directly modeled on empirical research papers and central bank d
 | Layer | Technologies |
 |---|---|
 | **Backend & APIs** | Python 3.11, FastAPI, Uvicorn, Pydantic |
-| **Machine Learning** | Scikit-Learn (Gradient Boosting, Random Forest), Pandas, NumPy, Joblib |
-| **Frontend & UI** | Vanilla HTML5, Modern CSS Glassmorphism Tokens, JavaScript (ES6+ Modules) |
-| **Visuals & Charts** | Chart.js, Lucide Icons, Canvas-Confetti, HTML5 Canvas QR Generator |
-| **Audio & Speech** | Web Speech API (`speechSynthesis`, `webkitSpeechRecognition`) |
+| **Machine Learning** | Scikit-Learn (Gradient Boosting), Pandas, NumPy, Joblib |
+| **Frontend & UI** | Vanilla HTML5, Modern CSS Design Tokens, JavaScript (ES6+) |
+| **Data Visualizations** | Chart.js, Lucide Icons, HTML5 Canvas QR Engine |
+| **Audio & Speech** | Native Web Speech API (`speechSynthesis`, `webkitSpeechRecognition`) |
 
 ---
 
-## Repository Structure
-
-```
-microsetu/
-├── backend/
-│   ├── server.py              # FastAPI application & REST endpoints
-│   ├── credit_model.py        # ML underwriting & Explainable AI (XAI) engine
-│   ├── fraud_detector.py      # Anti-fraud & fake screenshot detector
-│   ├── cashflow_forecaster.py # Time-series cash flow & working capital model
-│   ├── dataset_generator.py   # Synthetic cohort generator (1,200+ merchants)
-│   └── voice_processor.py     # Vernacular Hinglish NLP ledger parser
-├── frontend/
-│   ├── index.html             # Single-page application layout
-│   ├── style.css              # Custom glassmorphism design system
-│   └── app.js                 # UI controllers, soundbox, charts & simulations
-├── docs/
-│   ├── RESUME_BULLETS.md      # Tailored Google XYZ resume bullet points
-│   └── INTERVIEW_TALKING_POINTS.md # System design & interview preparation cheat sheet
-├── data/                      # Generated datasets & trained joblib models
-├── start.py                   # Python entry point & browser auto-launcher
-├── run_demo.bat               # One-click Windows runner
-└── README.md                  # Comprehensive documentation
-```
-
----
-
-## License & Attribution
-Developed as an advanced applied FinTech & AI project based on research on *UPI and its Impact on Financial Inclusion and Livelihoods of Informal Workers*.
+## License
 Released under the **MIT License**.
